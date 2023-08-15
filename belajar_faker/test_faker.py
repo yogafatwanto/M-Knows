@@ -64,7 +64,7 @@ class RandomDataGenerator:
             elif split_nama[0].lower().startswith('kh.') or split_nama[0].lower().startswith('hj.'):
                 umur_range = (33, umur_max)
             else:
-                umur_range = (umur_min, umur_max)  # Fix this line: assign values to umur_range
+                umur_range = (umur_min, umur_max)  
             umur.append(random.randint(umur_range[0], umur_range[1]))
             
         for _ in range(self.jumlah_data):
