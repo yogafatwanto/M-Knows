@@ -1,0 +1,2001 @@
+customer_id,nama,gender,pendidikan,umur,alamat,nomor_telepon,status_pernikahan,pendapatan
+CUS_000574,Pranata Wahyuni,wanita,SD,26,"Gang Tubagus Ismail No. 891
+Magelang, Kepulauan Bangka Belitung 48005",+62872-4514-7223,Single,47000000
+CUS_000750,"Chelsea Damanik, S.E.",pria,Sarjana,28,"Gang Peta No. 0
+Banjarbaru, KS 27475",+62816-4228-6548,Single,66000000
+CUS_002206,"Putri Napitupulu, M.Farm",pria,Magister,33,"Gang M.H Thamrin No. 32
+Subulussalam, BT 04848",+62829-2265-1008,Sudah menikah,25000000
+CUS_005022,Teddy Sihotang,pria,SMP,44,"Jalan Tebet Barat Dalam No. 8
+Tarakan, PB 39605",+62897-7037-0869,Sudah menikah,96500000
+CUS_005720,Tira Ardianto,pria,SD,58,"Jl. Erlangga No. 4
+Purwokerto, KI 74286",+62809-4995-4231,Sudah menikah,67000000
+CUS_006454,Jinawi Setiawan,pria,SD,18,"Gg. Surapati No. 81
+Tarakan, DI Yogyakarta 58735",+62880-4758-5429,Single,77000000
+CUS_006512,Hani Tamba,wanita,SD,42,"Jalan M.H Thamrin No. 00
+Malang, MA 64553",+62805-8804-5660,Single,61000000
+CUS_006542,Bajragin Melani,wanita,SD,42,"Jalan W.R. Supratman No. 65
+Pematangsiantar, KT 71466",+62860-2894-8211,Single,81000000
+CUS_007044,Humaira Zulkarnain,pria,Sarjana,46,"Jalan Pelajar Pejuang No. 396
+Cimahi, NT 82450",+62811-3805-6282,Single,49000000
+CUS_007292,Drs. Ajiman Damanik,pria,Doktor,48,"Gg. Stasiun Wonokromo No. 93
+Bukittinggi, RI 76556",+62879-8259-7895,Sudah menikah,11500000
+CUS_009666,"Pia Widodo, M.Kom.",pria,Magister,55,"Jl. Abdul Muis No. 9
+Tangerang, YO 90344",+62892-3804-0422,Sudah menikah,79000000
+CUS_013778,Adhiarja Halimah,pria,SD,23,"Gang Gedebage Selatan No. 6
+Sibolga, KS 87394",+62883-5566-3908,Single,74500000
+CUS_014009,Eluh Maryati,pria,Sarjana,58,"Gang Astana Anyar No. 8
+Padang Sidempuan, KI 40074",+62800-8846-6672,Single,39500000
+CUS_014448,Uchita Prasetyo,pria,SMP,32,"Jalan Cikutra Timur No. 298
+Tual, AC 56531",+62836-8098-0268,Sudah menikah,67500000
+CUS_015853,Ida Dabukke,wanita,SD,47,"Jalan Jend. A. Yani No. 04
+Singkawang, Banten 28561",+62856-5811-9983,Single,24500000
+CUS_016070,Harja Prayoga,pria,SD,23,"Jl. Cihampelas No. 9
+Makassar, GO 59421",+62866-6256-6375,Sudah menikah,30500000
+CUS_016617,Lala Prakasa,pria,Sarjana,49,"Jalan Asia Afrika No. 5
+Padang Sidempuan, ST 12053",+62850-3876-7494,Single,93000000
+CUS_016937,Zamira Mangunsong,wanita,SD,51,"Jl. M.H Thamrin No. 33
+Purwokerto, JK 68724",+62898-8470-9019,Sudah menikah,76000000
+CUS_017285,"Tgk. Rafi Wulandari, S.Psi",pria,Sarjana,48,"Gg. Cikutra Barat No. 03
+Singkawang, Papua Barat 72435",+62872-0709-3796,Sudah menikah,26000000
+CUS_017499,Saiful Waluyo,wanita,SMA/SMK/MA,26,"Jalan Kendalsari No. 399
+Banda Aceh, Papua 91312",+62897-2498-5070,Sudah menikah,38500000
+CUS_018216,Kamaria Simbolon,pria,Sarjana,57,"Gang Cikutra Timur No. 811
+Bekasi, Kalimantan Tengah 67808",+62808-9107-3289,Single,66500000
+CUS_019167,Halima Mahendra,pria,SMA/SMK/MA,50,"Gg. Ahmad Yani No. 152
+Yogyakarta, KI 80653",+62822-8241-9959,Sudah menikah,11000000
+CUS_019610,Rendy Wasita,pria,SMA/SMK/MA,21,"Gg. Sadang Serang No. 8
+Batam, Lampung 24459",+62800-9877-8807,Single,62000000
+CUS_019689,H. Bambang Uyainah,pria,Sarjana,40,"Jl. Suryakencana No. 463
+Tanjungbalai, Papua 58399",+62862-2992-6261,Sudah menikah,51500000
+CUS_022258,Yani Budiman,wanita,Sarjana,39,"Gang Pelajar Pejuang No. 3
+Tasikmalaya, Kalimantan Tengah 11579",+62803-2145-7090,Single,46000000
+CUS_022351,Cornelia Lailasari,pria,SMP,22,"Jl. Jayawijaya No. 50
+Yogyakarta, Bengkulu 64401",+62820-3294-5637,Single,16000000
+CUS_022750,Irnanto Suartini,pria,Sarjana,52,"Jl. Surapati No. 434
+Bekasi, Papua 54013",+62835-8782-1176,Sudah menikah,77000000
+CUS_025462,"KH. Samsul Maulana, S.Pd",pria,Sarjana,58,"Jl. Ahmad Yani No. 8
+Surabaya, Bali 06991",+62805-0102-8192,Sudah menikah,23000000
+CUS_026070,Padma Wijaya,pria,SMA/SMK/MA,54,"Jl. Ciwastra No. 62
+Ternate, YO 25534",+62890-8836-5850,Sudah menikah,79500000
+CUS_027833,"dr. Koko Mandala, M.TI.",pria,Doktor,56,"Gang K.H. Wahid Hasyim No. 200
+Tual, Sumatera Utara 63380",+62872-9839-3769,Single,25500000
+CUS_028264,Lutfan Sinaga,pria,SD,54,"Gang Surapati No. 839
+Bandung, Kalimantan Timur 89302",+62865-7604-5699,Single,12000000
+CUS_028595,"drg. Faizah Palastri, S.Farm",wanita,Sarjana,38,"Gang Setiabudhi No. 73
+Prabumulih, Aceh 96896",+62880-0366-5930,Sudah menikah,79000000
+CUS_028642,"Dt. Asman Prayoga, S.T.",wanita,Sarjana,40,"Jalan Kiaracondong No. 366
+Sungai Penuh, NB 82095",+62849-8635-2291,Sudah menikah,72500000
+CUS_028722,"Mahesa Rajata, M.Farm",wanita,Magister,35,"Jl. Jend. A. Yani No. 58
+Kendari, SB 65187",+62887-8645-7607,Single,19000000
+CUS_029324,Hasta Mayasari,pria,SMA/SMK/MA,43,"Jl. Dipatiukur No. 3
+Pariaman, NT 19003",+62801-8962-1108,Sudah menikah,69000000
+CUS_030209,Jumadi Prabowo,pria,SD,18,"Gang Monginsidi No. 170
+Kupang, Kalimantan Timur 90581",+62829-1342-5427,Sudah menikah,46000000
+CUS_030285,Cahya Anggriawan,wanita,SMA/SMK/MA,55,"Gang Suniaraja No. 28
+Padang Sidempuan, Jawa Timur 08099",+62876-8764-5699,Single,60500000
+CUS_030926,Ismail Widiastuti,wanita,SMA/SMK/MA,16,"Gang Veteran No. 87
+Kota Administrasi Jakarta Timur, SS 39743",+62854-0658-2298,Single,81000000
+CUS_031210,Rini Utami,wanita,SMP,44,"Jl. Jend. A. Yani No. 650
+Tangerang Selatan, DI Yogyakarta 97469",+62883-1693-2466,Sudah menikah,60000000
+CUS_031725,Ilyas Zulaika,wanita,SMA/SMK/MA,22,"Jalan Dr. Djunjunan No. 1
+Kediri, Bengkulu 51182",+62885-9824-8543,Single,24500000
+CUS_033820,"Ida Mansur, S.I.Kom",wanita,Sarjana,41,"Gang W.R. Supratman No. 73
+Pontianak, SR 05381",+62834-0287-2745,Single,88000000
+CUS_036790,Jamil Prasetyo,wanita,SMP,46,"Jalan Jayawijaya No. 97
+Lubuklinggau, Riau 18196",+62870-3630-6093,Sudah menikah,43000000
+CUS_036870,"Dr. Mahfud Hasanah, S.H.",pria,Doktor,42,"Gang Ir. H. Djuanda No. 7
+Batam, BA 29578",+62839-7809-7269,Sudah menikah,60500000
+CUS_037218,Sabar Lestari,wanita,SMP,17,"Gang Ciwastra No. 69
+Palu, Nusa Tenggara Timur 41821",+62870-4011-3928,Sudah menikah,37500000
+CUS_038091,"H. Rama Natsir, S.Pd",pria,Sarjana,52,"Gang Cempaka No. 9
+Palembang, Kepulauan Riau 38092",+62814-3454-6231,Single,30500000
+CUS_040436,"Drs. Gabriella Prasasta, M.TI.",wanita,Doktor,49,"Gang Lembong No. 563
+Pematangsiantar, Riau 55962",+62826-6443-8074,Sudah menikah,69000000
+CUS_041422,"Ibrani Nashiruddin, S.Gz",pria,Sarjana,32,"Jalan Jakarta No. 81
+Denpasar, Kepulauan Bangka Belitung 30654",+62811-2358-8930,Single,84000000
+CUS_043689,R. Jinawi Rajasa,pria,SMP,46,"Gg. Suryakencana No. 248
+Malang, Sumatera Selatan 12544",+62808-1023-2876,Sudah menikah,40000000
+CUS_043704,Natalia Pudjiastuti,pria,Sarjana,26,"Jl. Kutai No. 4
+Tebingtinggi, SB 33420",+62846-8981-4148,Single,71000000
+CUS_044444,"Daryani Napitupulu, S.Kom",pria,Sarjana,50,"Gang Pasteur No. 4
+Padangpanjang, Maluku 20339",+62872-9517-9872,Single,93500000
+CUS_044868,R.A. Titi Maryadi,wanita,SMP,49,"Gg. Ahmad Yani No. 50
+Tegal, JB 33826",+62840-7143-9990,Sudah menikah,41500000
+CUS_045734,Bakidin Usamah,wanita,SMA/SMK/MA,46,"Jalan Monginsidi No. 6
+Palu, Jawa Tengah 79613",+62874-9277-7754,Sudah menikah,41500000
+CUS_045948,Ilsa Latupono,pria,SMA/SMK/MA,47,"Gang Dipenogoro No. 9
+Kotamobagu, RI 29771",+62883-4719-4967,Single,23000000
+CUS_045974,Titi Utama,wanita,SMA/SMK/MA,57,"Gg. Laswi No. 109
+Cilegon, Sumatera Selatan 31944",+62812-6485-9390,Single,32000000
+CUS_046041,Joko Kurniawan,pria,SD,27,"Jl. Gedebage Selatan No. 61
+Medan, Kalimantan Timur 46856",+62802-1313-4887,Single,8500000
+CUS_046411,Nasab Wibowo,wanita,SMA/SMK/MA,46,"Jl. Cikapayang No. 0
+Makassar, SG 26446",+62815-5667-4654,Single,65500000
+CUS_049738,Perkasa Natsir,pria,SMA/SMK/MA,32,"Jalan Cihampelas No. 6
+Blitar, BT 02177",+62816-2142-6752,Single,44500000
+CUS_051053,Yulia Gunarto,wanita,SMA/SMK/MA,38,"Jl. BKR No. 926
+Sawahlunto, NB 93954",+62832-9634-0500,Sudah menikah,56000000
+CUS_051476,Kairav Maulana,pria,SMA/SMK/MA,32,"Jalan Dipenogoro No. 5
+Surakarta, Papua Barat 86521",+62846-8420-4504,Sudah menikah,87500000
+CUS_051528,Rangga Zulkarnain,pria,SMP,16,"Jl. Cempaka No. 4
+Pontianak, KU 99892",+62870-4735-1721,Single,88500000
+CUS_051886,Putri Saefullah,wanita,Sarjana,52,"Gg. Kutisari Selatan No. 59
+Yogyakarta, KU 83444",+62810-7213-4651,Sudah menikah,57000000
+CUS_051997,Salimah Astuti,wanita,Sarjana,30,"Gg. Kebonjati No. 7
+Prabumulih, SU 15796",+62892-0984-3262,Sudah menikah,51500000
+CUS_052008,"KH. Bakda Maryadi, S.I.Kom",pria,Sarjana,51,"Gg. PHH. Mustofa No. 628
+Blitar, Kalimantan Selatan 67124",+62811-5895-3613,Sudah menikah,50500000
+CUS_052806,Damu Pradana,wanita,SD,30,"Gang Sukabumi No. 004
+Bandar Lampung, NT 87181",+62894-5094-2869,Single,6000000
+CUS_053448,"Laksana Riyanti, S.T.",wanita,Sarjana,35,"Gg. Cikutra Timur No. 03
+Cimahi, BB 85116",+62801-0016-7615,Single,81500000
+CUS_053602,"Warsa Narpati, S.T.",pria,Sarjana,37,"Jl. Ciwastra No. 8
+Sorong, Kalimantan Barat 73149",+62824-2119-3980,Single,43500000
+CUS_055816,T. Muni Samosir,wanita,Sarjana,33,"Jalan H.J Maemunah No. 4
+Kotamobagu, Jawa Barat 02436",+62803-0664-3964,Sudah menikah,96500000
+CUS_056181,Nadia Mandasari,pria,SMP,21,"Gang Sentot Alibasa No. 09
+Solok, Papua Barat 70993",+62886-8467-2499,Single,66500000
+CUS_058907,Dr. Eka Namaga,pria,Doktor,32,"Jalan Gedebage Selatan No. 24
+Jambi, KT 37728",+62827-9595-9458,Sudah menikah,73000000
+CUS_059072,"Yono Oktaviani, S.I.Kom",wanita,Sarjana,45,"Gg. Gegerkalong Hilir No. 4
+Sabang, GO 93112",+62864-6625-9812,Single,31500000
+CUS_059393,Kasim Januar,wanita,SD,55,"Gg. Antapani Lama No. 576
+Palu, MU 33593",+62836-8440-7845,Single,22000000
+CUS_060328,Sarah Habibi,pria,SMA/SMK/MA,16,"Gang Rajawali Barat No. 87
+Pematangsiantar, BB 67301",+62898-8969-4280,Sudah menikah,49500000
+CUS_060365,Gara Narpati,wanita,SMP,41,"Gg. Kutisari Selatan No. 40
+Bandar Lampung, Bali 64245",+62814-4656-7684,Single,91500000
+CUS_061743,"Cut Salimah Wulandari, S.E.I",pria,Sarjana,33,"Gg. Pacuan Kuda No. 889
+Jambi, SS 71207",+62839-3570-6909,Single,69500000
+CUS_062517,Septi Putra,wanita,SMA/SMK/MA,45,"Gg. Astana Anyar No. 189
+Kota Administrasi Jakarta Selatan, NT 01298",+62842-6609-3098,Sudah menikah,93500000
+CUS_063589,Rosman Sirait,pria,SD,35,"Jalan Wonoayu No. 7
+Bitung, KB 35023",+62837-4901-5188,Single,35500000
+CUS_063879,Perkasa Kusmawati,pria,SD,38,"Gang Dipenogoro No. 63
+Banjarbaru, DI Yogyakarta 77670",+62886-8505-0849,Sudah menikah,30000000
+CUS_064542,Dacin Wibowo,wanita,SMP,35,"Jl. PHH. Mustofa No. 5
+Sorong, Papua Barat 90626",+62803-2463-1645,Single,65000000
+CUS_064555,Daryani Pratiwi,wanita,SD,45,"Jl. Cikutra Barat No. 913
+Jambi, Nusa Tenggara Timur 37526",+62876-8701-4872,Single,100000000
+CUS_064794,"Perkasa Namaga, M.Pd",pria,Magister,44,"Jalan Bangka Raya No. 910
+Bandung, Sumatera Selatan 41512",+62850-4732-6791,Single,84500000
+CUS_065573,Banawi Mandasari,wanita,SD,18,"Gang Sadang Serang No. 066
+Kendari, Sulawesi Barat 38815",+62835-0548-1440,Single,62000000
+CUS_067693,Cut Humaira Setiawan,wanita,SMA/SMK/MA,40,"Gang Rungkut Industri No. 0
+Kediri, Sumatera Selatan 83439",+62815-1504-7987,Single,76500000
+CUS_068317,Tirtayasa Lailasari,pria,SD,59,"Jalan Kutisari Selatan No. 15
+Tanjungbalai, AC 29723",+62869-7916-5476,Sudah menikah,89000000
+CUS_069193,dr. Oliva Budiman,pria,Doktor,36,"Gg. Soekarno Hatta No. 1
+Binjai, BE 27631",+62888-4031-7149,Sudah menikah,90500000
+CUS_070114,Lulut Waluyo,wanita,SMP,33,"Gg. Ahmad Yani No. 426
+Gorontalo, Kepulauan Riau 54991",+62820-9036-5915,Single,40500000
+CUS_071001,Anita Simbolon,wanita,SD,41,"Jalan Joyoboyo No. 3
+Ternate, Papua 81965",+62887-8180-4403,Sudah menikah,62500000
+CUS_072320,Martana Aryani,wanita,SD,37,"Gg. Jend. A. Yani No. 03
+Cirebon, SB 73078",+62843-3989-3151,Sudah menikah,18500000
+CUS_072557,Najwa Siregar,wanita,Sarjana,42,"Gang Otto Iskandardinata No. 189
+Tangerang, KS 02021",+62810-5255-5013,Sudah menikah,51000000
+CUS_074158,Tgk. Yessi Hardiansyah,pria,SMA/SMK/MA,22,"Jl. Gardujati No. 204
+Yogyakarta, JB 22707",+62827-7731-7552,Single,11500000
+CUS_074278,Muni Namaga,wanita,SD,47,"Jalan Cempaka No. 062
+Kota Administrasi Jakarta Timur, MA 41879",+62826-6841-7793,Single,74000000
+CUS_075431,Panji Hutasoit,pria,Sarjana,27,"Jl. Soekarno Hatta No. 268
+Tual, Gorontalo 77724",+62836-8243-5910,Sudah menikah,47500000
+CUS_075877,"Hesti Pratama, S.Kom",pria,Sarjana,58,"Gang Lembong No. 150
+Manado, JI 91918",+62831-5696-1664,Sudah menikah,68000000
+CUS_076019,Gatra Hardiansyah,wanita,SMP,21,"Gang Cempaka No. 71
+Batam, SU 08755",+62818-1163-3058,Single,40000000
+CUS_076022,Humaira Nasyiah,wanita,SMP,53,"Jalan Cikapayang No. 909
+Gorontalo, SN 92576",+62846-4397-0102,Single,68500000
+CUS_076551,Emong Prasasta,wanita,Sarjana,41,"Gang Jend. Sudirman No. 8
+Kota Administrasi Jakarta Utara, Riau 58124",+62826-7189-2404,Sudah menikah,43000000
+CUS_078083,Karman Utami,pria,SD,54,"Jl. Dipatiukur No. 369
+Serang, KR 51151",+62834-8735-5429,Sudah menikah,96000000
+CUS_078494,Zizi Hidayat,wanita,Sarjana,56,"Jalan Jend. A. Yani No. 901
+Banda Aceh, SS 30489",+62889-6342-1107,Sudah menikah,86500000
+CUS_080494,"Septi Habibi, S.Sos",pria,Sarjana,26,"Gg. Sukabumi No. 670
+Manado, Kalimantan Selatan 87787",+62850-3591-1761,Sudah menikah,90500000
+CUS_080683,Dr. Ulya Mansur,wanita,Doktor,32,"Jalan Sentot Alibasa No. 5
+Kota Administrasi Jakarta Barat, Sulawesi Tengah 14012",+62871-0421-4458,Sudah menikah,80500000
+CUS_080875,"KH. Garang Wahyuni, M.Kom.",pria,Magister,54,"Jl. HOS. Cokroaminoto No. 1
+Pagaralam, MU 49731",+62859-6347-4768,Sudah menikah,98000000
+CUS_082651,Wadi Uyainah,wanita,Sarjana,44,"Jl. Abdul Muis No. 619
+Bengkulu, Sulawesi Tengah 52377",+62848-1416-8186,Sudah menikah,99000000
+CUS_084195,drg. Salsabila Suryatmi,wanita,SMA/SMK/MA,23,"Jalan Sukajadi No. 7
+Serang, Nusa Tenggara Barat 17204",+62888-1201-1040,Sudah menikah,69500000
+CUS_084504,R.M. Dacin Sinaga,pria,SMP,48,"Gg. Sukajadi No. 99
+Kota Administrasi Jakarta Selatan, GO 42609",+62825-7496-4750,Sudah menikah,96500000
+CUS_085007,Caturangga Jailani,pria,SMA/SMK/MA,24,"Gang Cikapayang No. 2
+Kendari, Kalimantan Utara 50828",+62842-8371-0616,Single,73500000
+CUS_086911,Drs. Wahyu Yolanda,wanita,Doktor,34,"Gg. R.E Martadinata No. 8
+Padang, SN 65671",+62857-7295-1076,Single,84500000
+CUS_087493,Cornelia Najmudin,pria,SMA/SMK/MA,44,"Gang Cikapayang No. 811
+Sukabumi, Papua Barat 88560",+62894-3405-3995,Single,29000000
+CUS_087714,"Devi Ardianto, S.Sos",wanita,Sarjana,49,"Jl. Siliwangi No. 89
+Tangerang, JA 68624",+62865-3295-3058,Single,37000000
+CUS_090703,Cut Ani Mahendra,pria,SMA/SMK/MA,35,"Jl. Suryakencana No. 58
+Kendari, SU 80641",+62870-1105-6934,Single,37000000
+CUS_093218,Farhunnisa Firgantoro,pria,SMP,56,"Jalan Ciwastra No. 9
+Sawahlunto, SG 99724",+62850-5772-1236,Single,31000000
+CUS_093332,"Maria Aryani, S.Pd",wanita,Sarjana,49,"Gang Ahmad Yani No. 32
+Mojokerto, MU 25234",+62816-3110-1672,Single,23500000
+CUS_093416,Mulyono Mangunsong,pria,Sarjana,28,"Jl. M.T Haryono No. 1
+Probolinggo, Sumatera Utara 57620",+62898-8510-3385,Sudah menikah,47000000
+CUS_094668,H. Caket Suwarno,pria,Sarjana,25,"Gang Rungkut Industri No. 8
+Palembang, MA 18309",+62855-8888-6108,Sudah menikah,63000000
+CUS_095491,Rusman Nasyiah,pria,SMA/SMK/MA,20,"Jalan Raya Ujungberung No. 4
+Batam, BA 28458",+62855-3601-3493,Sudah menikah,23500000
+CUS_095716,dr. Kenes Dabukke,pria,Doktor,57,"Jalan Dipenogoro No. 86
+Banda Aceh, SS 11849",+62830-2365-3735,Sudah menikah,12000000
+CUS_099652,Imam Haryanti,wanita,SD,21,"Gg. Stasiun Wonokromo No. 7
+Bontang, JI 09975",+62804-9350-7629,Sudah menikah,37500000
+CUS_100668,Ira Yolanda,wanita,Sarjana,35,"Gg. Pasteur No. 851
+Kupang, BA 90124",+62841-1063-6137,Single,52000000
+CUS_101376,"Dr. Embuh Nurdiyanti, S.Ked",pria,Doktor,49,"Jalan Raya Ujungberung No. 59
+Singkawang, Sumatera Barat 41698",+62800-6516-9625,Single,11000000
+CUS_103100,Cut Hesti Pertiwi,pria,SMP,17,"Jalan Medokan Ayu No. 436
+Pasuruan, YO 65491",+62852-2801-5518,Single,29500000
+CUS_103604,Luhung Lestari,pria,SMP,37,"Gang Rajiman No. 4
+Palangkaraya, Kalimantan Timur 64433",+62857-1589-2022,Sudah menikah,34500000
+CUS_103607,Hadi Anggraini,wanita,SMP,15,"Gang Sukabumi No. 6
+Lhokseumawe, Banten 38740",+62849-9788-9182,Single,7500000
+CUS_103661,Arta Wibisono,wanita,SMP,28,"Jalan Cikutra Barat No. 864
+Pekanbaru, Sumatera Utara 80168",+62830-2627-8862,Sudah menikah,84500000
+CUS_104048,Lasmanto Salahudin,wanita,SD,57,"Gg. Sukajadi No. 06
+Tangerang, KB 61759",+62879-8894-9700,Sudah menikah,50000000
+CUS_105430,Prabawa Adriansyah,wanita,SMA/SMK/MA,18,"Gang Gardujati No. 2
+Kediri, BT 79877",+62880-5293-8686,Sudah menikah,28500000
+CUS_105874,Salsabila Siregar,wanita,SMP,32,"Gang Wonoayu No. 2
+Pontianak, SN 78192",+62811-7943-7459,Single,68500000
+CUS_106320,Tgk. Paramita Anggriawan,pria,SD,37,"Gg. Cihampelas No. 685
+Kendari, MU 00970",+62885-1783-3204,Sudah menikah,69000000
+CUS_109016,Zamira Pranowo,pria,SD,51,"Gg. Tebet Barat Dalam No. 4
+Bekasi, PB 79596",+62809-5042-6100,Sudah menikah,67500000
+CUS_109025,"Puput Andriani, S.Ked",pria,Sarjana,25,"Gg. Surapati No. 389
+Probolinggo, Sulawesi Tenggara 14817",+62847-9470-5184,Sudah menikah,53000000
+CUS_109917,Parman Wahyudin,pria,Sarjana,58,"Gang Jakarta No. 000
+Malang, KR 13427",+62863-5502-3272,Sudah menikah,47000000
+CUS_110048,"Wakiman Susanti, S.Kom",wanita,Sarjana,53,"Gg. Suniaraja No. 1
+Banjar, Jawa Barat 93706",+62824-6888-5112,Sudah menikah,58500000
+CUS_110712,"R.A. Maya Haryanto, S.I.Kom",pria,Sarjana,45,"Jalan Merdeka No. 946
+Sibolga, MU 42278",+62883-8216-2301,Single,90500000
+CUS_111670,Bakda Prabowo,wanita,SMA/SMK/MA,35,"Jl. Kapten Muslihat No. 782
+Probolinggo, DKI Jakarta 57316",+62845-0937-9753,Sudah menikah,92000000
+CUS_113850,"drg. Murti Sirait, M.Kom.",wanita,Magister,51,"Jalan Sadang Serang No. 43
+Madiun, KS 89403",+62892-5430-4157,Sudah menikah,26000000
+CUS_118939,Dinda Hardiansyah,pria,SMA/SMK/MA,59,"Jl. K.H. Wahid Hasyim No. 6
+Palopo, Banten 69642",+62845-4067-6203,Sudah menikah,26000000
+CUS_119749,Almira Santoso,pria,SD,43,"Gg. Merdeka No. 0
+Kota Administrasi Jakarta Timur, SN 60155",+62871-6147-2480,Single,71000000
+CUS_120272,Ana Jailani,pria,SMA/SMK/MA,60,"Gg. Peta No. 6
+Ternate, Jambi 85526",+62897-6780-5557,Sudah menikah,25500000
+CUS_120791,Kariman Siregar,pria,SMP,40,"Jalan Antapani Lama No. 770
+Bukittinggi, Jawa Timur 87583",+62814-4596-2082,Single,14000000
+CUS_122535,Amelia Mangunsong,pria,Sarjana,46,"Jalan Kiaracondong No. 809
+Medan, KR 45651",+62828-7851-8348,Single,53000000
+CUS_126859,"Tgk. Kiandra Ardianto, M.Pd",pria,Magister,54,"Jalan Rajawali Barat No. 3
+Tasikmalaya, BB 24867",+62869-0146-3230,Single,31500000
+CUS_126998,Jarwa Halim,pria,SD,46,"Jalan W.R. Supratman No. 828
+Depok, MU 60569",+62881-4428-8525,Sudah menikah,78500000
+CUS_127209,Fathonah Wibowo,pria,Sarjana,53,"Jalan Tubagus Ismail No. 506
+Pagaralam, SR 04513",+62838-2147-7354,Sudah menikah,88500000
+CUS_128195,Saiful Wasita,wanita,SD,60,"Jl. Siliwangi No. 72
+Kota Administrasi Jakarta Barat, JB 90188",+62826-1719-8316,Single,22000000
+CUS_128912,Almira Rahimah,pria,SMA/SMK/MA,31,"Gang Setiabudhi No. 948
+Bitung, Kalimantan Timur 91843",+62898-9451-5310,Single,81000000
+CUS_128994,Wirda Mahendra,wanita,SMA/SMK/MA,59,"Gang Peta No. 40
+Bogor, SG 82762",+62826-1044-3353,Single,43500000
+CUS_129022,"Zulaikha Puspita, S.I.Kom",pria,Sarjana,46,"Gg. HOS. Cokroaminoto No. 62
+Sukabumi, Jawa Barat 89095",+62873-4858-7188,Single,81000000
+CUS_131128,Mursita Sudiati,wanita,SD,51,"Jl. Gegerkalong Hilir No. 14
+Palangkaraya, AC 33896",+62867-5686-7719,Single,98500000
+CUS_131217,"Keisha Saragih, S.I.Kom",pria,Sarjana,57,"Gg. Moch. Toha No. 097
+Lhokseumawe, BB 69796",+62847-9133-8781,Sudah menikah,34000000
+CUS_132255,Lanang Nurdiyanti,pria,SMA/SMK/MA,60,"Jl. Monginsidi No. 219
+Salatiga, Jambi 20727",+62885-7221-5198,Sudah menikah,42500000
+CUS_132292,Hj. Siti Mandala,wanita,SD,48,"Jl. Sukajadi No. 20
+Malang, BE 59893",+62859-5281-3456,Single,89500000
+CUS_134169,Nurul Prayoga,wanita,Sarjana,36,"Gg. BKR No. 20
+Madiun, JK 91792",+62825-2274-4409,Single,74500000
+CUS_134516,Salman Handayani,wanita,Sarjana,45,"Gg. Tubagus Ismail No. 515
+Bandar Lampung, Sulawesi Tengah 23911",+62864-7691-8938,Single,54000000
+CUS_134806,Hj. Yulia Prasetyo,wanita,SD,33,"Gang Ir. H. Djuanda No. 933
+Probolinggo, Banten 40218",+62811-4266-9068,Sudah menikah,22000000
+CUS_137040,R. Zelaya Rahayu,pria,SMP,24,"Gang Cikapayang No. 044
+Balikpapan, Bali 11273",+62812-4315-5606,Sudah menikah,47500000
+CUS_140977,Kalim Aryani,wanita,SMA/SMK/MA,22,"Gang Moch. Toha No. 310
+Jambi, Kalimantan Barat 01757",+62847-0161-4850,Sudah menikah,39500000
+CUS_141776,Indah Nurdiyanti,pria,Sarjana,53,"Jl. Jend. A. Yani No. 71
+Samarinda, KR 61393",+62882-5833-8084,Single,76500000
+CUS_142925,Limar Uwais,wanita,SMP,15,"Jl. Cikutra Barat No. 846
+Pariaman, LA 60715",+62886-2741-2873,Sudah menikah,41500000
+CUS_145739,Maya Maryadi,pria,SMA/SMK/MA,47,"Jl. H.J Maemunah No. 64
+Surakarta, LA 98336",+62870-8886-0479,Sudah menikah,13500000
+CUS_147882,Jati Sihombing,pria,SMA/SMK/MA,22,"Jl. Kutisari Selatan No. 745
+Magelang, Lampung 17154",+62838-2691-7101,Single,32000000
+CUS_148103,"R. Yuni Megantara, S.E.I",wanita,Sarjana,44,"Jl. Gegerkalong Hilir No. 19
+Tanjungpinang, Riau 90222",+62879-1095-7712,Sudah menikah,27000000
+CUS_148174,Lili Pratiwi,wanita,SMP,18,"Gang Indragiri No. 2
+Cimahi, KR 47635",+62833-2456-5771,Single,99500000
+CUS_148288,"R.M. Nyoman Pradipta, M.Pd",wanita,Magister,48,"Gang Monginsidi No. 9
+Tegal, Gorontalo 90321",+62837-7083-9709,Single,47500000
+CUS_149416,Halima Yuniar,wanita,SMA/SMK/MA,46,"Jalan Sukajadi No. 22
+Salatiga, RI 78553",+62867-6231-3972,Single,95500000
+CUS_151995,Sutan Gada Usamah,wanita,SD,23,"Jl. Sentot Alibasa No. 504
+Batu, Banten 80149",+62841-7352-3994,Single,25500000
+CUS_152857,Najam Lailasari,wanita,SMP,41,"Gang Astana Anyar No. 173
+Sukabumi, SN 14276",+62800-3643-2518,Single,29000000
+CUS_158372,R.A. Ciaobella Hidayat,wanita,SD,51,"Gang Kutai No. 295
+Probolinggo, ST 68516",+62814-6682-6578,Sudah menikah,18000000
+CUS_158579,"R. Parman Rajata, S.I.Kom",wanita,Sarjana,52,"Jalan Veteran No. 87
+Padang Sidempuan, SB 25778",+62823-2716-8771,Single,49500000
+CUS_158633,"R.M. Prayitna Lazuardi, M.TI.",wanita,Magister,28,"Jalan Jend. A. Yani No. 91
+Cilegon, BA 56839",+62883-5474-9177,Single,57500000
+CUS_158763,Dt. Hendra Hutapea,wanita,SMA/SMK/MA,26,"Gg. Ahmad Yani No. 09
+Lubuklinggau, KU 81384",+62863-2132-8155,Sudah menikah,74500000
+CUS_159694,Baktiono Tampubolon,wanita,SMP,26,"Jalan Rawamangun No. 423
+Payakumbuh, SS 55397",+62893-0228-3330,Single,38000000
+CUS_159751,Puti Irma Budiyanto,wanita,SD,29,"Gg. Kiaracondong No. 94
+Cilegon, Sulawesi Tengah 36296",+62813-2260-2226,Sudah menikah,55500000
+CUS_159757,"R. Zelaya Laksmiwati, S.Sos",pria,Sarjana,46,"Gang Monginsidi No. 741
+Pekanbaru, Sumatera Utara 53323",+62811-2306-2165,Single,82500000
+CUS_160951,Yance Permadi,pria,SMA/SMK/MA,43,"Jalan Pacuan Kuda No. 50
+Malang, NB 91686",+62884-7783-6946,Single,68500000
+CUS_161335,Tgk. Sadina Sirait,wanita,SMA/SMK/MA,49,"Gang Rawamangun No. 272
+Tegal, SU 18961",+62823-3044-9871,Sudah menikah,21000000
+CUS_161470,Vera Winarno,wanita,SMP,43,"Gang Medokan Ayu No. 2
+Solok, Kepulauan Riau 43950",+62826-5515-1227,Sudah menikah,8000000
+CUS_163037,"Salsabila Andriani, M.Pd",pria,Magister,53,"Jalan Ahmad Dahlan No. 84
+Solok, Sulawesi Barat 15303",+62800-8934-7527,Sudah menikah,62500000
+CUS_166639,"Melinda Oktaviani, S.E.I",pria,Sarjana,26,"Jl. Surapati No. 385
+Pontianak, PB 91089",+62853-4598-5326,Sudah menikah,86000000
+CUS_167529,"R.M. Budi Marpaung, S.T.",wanita,Sarjana,53,"Gg. Ahmad Dahlan No. 3
+Gorontalo, JI 29952",+62871-8287-4004,Single,22000000
+CUS_168484,Margana Utama,wanita,SMA/SMK/MA,44,"Gg. Waringin No. 07
+Surakarta, SG 63415",+62852-0014-7762,Sudah menikah,32500000
+CUS_169382,Salwa Suryono,pria,Sarjana,47,"Gang Rungkut Industri No. 553
+Kota Administrasi Jakarta Utara, BT 43723",+62856-1773-2305,Single,51500000
+CUS_169620,Cornelia Mandasari,pria,SMA/SMK/MA,60,"Jalan Abdul Muis No. 8
+Pasuruan, JI 91725",+62803-4047-9231,Sudah menikah,73500000
+CUS_171328,Maman Mandasari,wanita,SD,52,"Jl. Kapten Muslihat No. 25
+Gorontalo, Kalimantan Timur 79595",+62827-3785-3265,Single,16500000
+CUS_173617,Nadia Mulyani,wanita,SMP,57,"Jalan Gedebage Selatan No. 77
+Cirebon, Sumatera Utara 40798",+62807-0984-1667,Single,49000000
+CUS_174440,Galang Usamah,pria,Sarjana,40,"Gang Soekarno Hatta No. 4
+Madiun, PB 59162",+62873-4846-7375,Single,67000000
+CUS_175979,Tantri Riyanti,wanita,SMP,21,"Gang Cihampelas No. 2
+Mataram, KB 71325",+62860-0231-1370,Sudah menikah,10000000
+CUS_176536,Danuja Saragih,wanita,SMP,48,"Gg. Jend. Sudirman No. 417
+Manado, Nusa Tenggara Barat 17751",+62869-6543-8627,Single,65500000
+CUS_178257,"R. Wardaya Kurniawan, S.T.",wanita,Sarjana,41,"Gang Rajawali Barat No. 6
+Pontianak, Kalimantan Utara 02808",+62888-7000-2423,Sudah menikah,67500000
+CUS_179092,Laras Tarihoran,pria,SD,44,"Jalan Wonoayu No. 333
+Ternate, BE 58667",+62868-3008-2073,Sudah menikah,27500000
+CUS_181043,Cakrajiya Nurdiyanti,pria,SD,40,"Jalan Rungkut Industri No. 45
+Banjarmasin, BB 11682",+62840-8417-9939,Sudah menikah,75500000
+CUS_181074,Ir. Edi Prasetyo,pria,Sarjana,30,"Jalan Pasteur No. 8
+Kendari, PB 88648",+62842-9899-1051,Single,57000000
+CUS_182293,Garang Haryanto,wanita,SMP,55,"Gg. Peta No. 0
+Ambon, SU 21512",+62891-3485-2215,Single,12000000
+CUS_183569,dr. Jayadi Saputra,pria,Doktor,46,"Jalan Monginsidi No. 2
+Mataram, LA 23167",+62870-1984-0397,Sudah menikah,21500000
+CUS_186570,Jaeman Sihombing,wanita,SMA/SMK/MA,35,"Jl. Sadang Serang No. 490
+Kota Administrasi Jakarta Barat, JI 33380",+62804-8119-2143,Single,83000000
+CUS_190151,Prasetya Pranowo,wanita,SMA/SMK/MA,54,"Gang Ahmad Yani No. 1
+Singkawang, JB 21333",+62837-6285-8491,Sudah menikah,80500000
+CUS_194134,Sutan Soleh Napitupulu,wanita,SMP,20,"Jalan Cikapayang No. 56
+Kota Administrasi Jakarta Pusat, JT 13632",+62888-2709-9607,Single,39000000
+CUS_194626,"T. Indra Hidayat, S.Pt",wanita,Sarjana,34,"Jalan Kendalsari No. 169
+Semarang, Nusa Tenggara Timur 64254",+62825-5665-7934,Sudah menikah,33500000
+CUS_195668,"Gilda Ardianto, M.Kom.",pria,Magister,52,"Gg. Gardujati No. 585
+Tanjungpinang, Kalimantan Tengah 71326",+62883-4728-0994,Single,27000000
+CUS_195693,"Dr. Reksa Waskita, S.Sos",pria,Doktor,57,"Gg. Cihampelas No. 4
+Kediri, SS 70901",+62847-0832-8741,Single,26000000
+CUS_197471,Hasan Firmansyah,pria,SMP,59,"Gg. R.E Martadinata No. 0
+Probolinggo, SS 82982",+62893-9748-7580,Single,94500000
+CUS_197487,"Wirda Pangestu, S.Ked",pria,Sarjana,36,"Gang Gedebage Selatan No. 4
+Sungai Penuh, GO 14431",+62855-5673-7951,Sudah menikah,71000000
+CUS_198216,Raden Laksmiwati,wanita,Sarjana,40,"Jalan Indragiri No. 983
+Sungai Penuh, GO 36360",+62801-9587-7205,Sudah menikah,83000000
+CUS_199231,Hj. Nabila Padmasari,wanita,SMP,56,"Jl. K.H. Wahid Hasyim No. 03
+Solok, JB 17998",+62830-0882-1506,Sudah menikah,96000000
+CUS_199840,"KH. Ibun Hariyah, S.I.Kom",pria,Sarjana,30,"Jalan Rajawali Barat No. 82
+Bukittinggi, MA 60757",+62887-7061-8496,Sudah menikah,29500000
+CUS_200503,Maryanto Januar,wanita,Sarjana,58,"Gang BKR No. 670
+Depok, Kalimantan Timur 75925",+62823-5937-9029,Sudah menikah,47500000
+CUS_201127,Lintang Natsir,wanita,SMP,21,"Gg. Bangka Raya No. 3
+Palangkaraya, Kalimantan Barat 87149",+62876-8746-4632,Single,43000000
+CUS_202573,R.M. Dimas Prastuti,wanita,SMA/SMK/MA,53,"Gg. Ciumbuleuit No. 234
+Mataram, BA 79702",+62810-3759-7046,Single,74000000
+CUS_203438,Wirda Tarihoran,wanita,Sarjana,30,"Jalan PHH. Mustofa No. 88
+Balikpapan, Sumatera Barat 59320",+62875-3927-0194,Sudah menikah,77500000
+CUS_205144,Wadi Wastuti,pria,Sarjana,34,"Jl. Setiabudhi No. 605
+Kendari, Kepulauan Bangka Belitung 02632",+62802-5254-2601,Single,81500000
+CUS_205153,"Hj. Tira Wibisono, S.E.",wanita,Sarjana,44,"Gang Merdeka No. 19
+Padang, Sumatera Utara 76811",+62802-1603-4588,Single,43000000
+CUS_206692,Langgeng Permadi,pria,SMA/SMK/MA,45,"Gang Tubagus Ismail No. 999
+Padangpanjang, JT 04333",+62802-0365-9170,Sudah menikah,22500000
+CUS_207374,Drs. Paris Santoso,wanita,Doktor,59,"Gang Jayawijaya No. 78
+Pematangsiantar, Sulawesi Tengah 14943",+62891-1890-8884,Single,61500000
+CUS_207904,Wani Megantara,pria,SMP,48,"Jl. Ciwastra No. 5
+Padangpanjang, JB 13051",+62825-3360-3043,Single,8500000
+CUS_209240,Dt. Adhiarja Lestari,wanita,Sarjana,40,"Jl. K.H. Wahid Hasyim No. 8
+Mataram, DKI Jakarta 39647",+62866-5323-3236,Single,62000000
+CUS_210860,"Rama Halimah, S.T.",wanita,Sarjana,51,"Gang Pasteur No. 604
+Mataram, Kepulauan Bangka Belitung 53544",+62882-8578-8168,Single,27500000
+CUS_211556,Lili Gunarto,wanita,SMP,55,"Jalan Rumah Sakit No. 83
+Kota Administrasi Jakarta Pusat, Papua 25120",+62804-4854-7357,Single,86000000
+CUS_211853,Wirda Lazuardi,wanita,SD,24,"Gang Kiaracondong No. 455
+Ternate, DI Yogyakarta 47830",+62803-2165-6289,Single,82000000
+CUS_212247,Hj. Kania Wijaya,wanita,SMP,60,"Gang Antapani Lama No. 72
+Lhokseumawe, Bengkulu 17899",+62893-4799-4749,Sudah menikah,50500000
+CUS_215916,"T. Dodo Setiawan, S.Psi",pria,Sarjana,38,"Jl. Laswi No. 19
+Banda Aceh, Kalimantan Timur 36130",+62876-7424-7153,Sudah menikah,72500000
+CUS_216547,Yoga Mayasari,pria,SMP,57,"Jl. Gegerkalong Hilir No. 9
+Cilegon, Sumatera Selatan 05209",+62879-1840-7644,Single,75000000
+CUS_216583,"Cinta Widiastuti, M.Farm",pria,Magister,56,"Gg. Surapati No. 868
+Kota Administrasi Jakarta Timur, Kalimantan Selatan 25034",+62891-6834-0395,Single,88500000
+CUS_216929,Tari Purnawati,pria,SMA/SMK/MA,51,"Gang Ir. H. Djuanda No. 13
+Kota Administrasi Jakarta Pusat, Kepulauan Riau 24207",+62830-2164-3428,Single,14000000
+CUS_217136,Indra Hardiansyah,wanita,SMP,39,"Jalan BKR No. 1
+Dumai, Sulawesi Tenggara 06832",+62824-0846-1393,Single,67500000
+CUS_218082,Tgk. Halima Mandala,wanita,SD,31,"Gang Setiabudhi No. 93
+Tarakan, JA 85882",+62804-9107-7593,Sudah menikah,55500000
+CUS_219775,H. Edward Prabowo,wanita,SD,15,"Gg. Sadang Serang No. 0
+Banda Aceh, Sulawesi Selatan 30621",+62842-3264-9378,Sudah menikah,12000000
+CUS_220556,Marsudi Simbolon,pria,Sarjana,29,"Gg. Cikapayang No. 809
+Meulaboh, KB 74417",+62808-9280-9412,Sudah menikah,96000000
+CUS_220788,Purwa Padmasari,wanita,SD,37,"Gg. Ahmad Yani No. 119
+Langsa, Kalimantan Utara 11397",+62806-4137-0291,Sudah menikah,8500000
+CUS_222781,"Surya Rajata, S.Pt",wanita,Sarjana,26,"Gang Raya Ujungberung No. 934
+Tebingtinggi, Sulawesi Barat 44828",+62841-2061-0850,Single,82000000
+CUS_222787,Irma Wijayanti,wanita,SD,19,"Gang H.J Maemunah No. 0
+Kota Administrasi Jakarta Utara, JA 38777",+62861-7632-4654,Sudah menikah,33000000
+CUS_222918,Oliva Ardianto,pria,SD,18,"Jl. Sukajadi No. 769
+Palangkaraya, Jawa Tengah 44824",+62817-1523-8579,Single,13000000
+CUS_223647,Harsaya Utami,wanita,Sarjana,56,"Gg. Medokan Ayu No. 2
+Jambi, DI Yogyakarta 71762",+62858-1486-3504,Sudah menikah,90000000
+CUS_224185,Darijan Hidayanto,pria,SD,29,"Jalan Cikapayang No. 077
+Payakumbuh, RI 57268",+62843-4562-7833,Single,96500000
+CUS_224513,"Sadina Wibisono, M.Farm",wanita,Magister,60,"Jl. Rajiman No. 4
+Sabang, Kalimantan Utara 37295",+62857-4746-2117,Sudah menikah,68000000
+CUS_225125,"drg. Usyi Riyanti, S.IP",wanita,Sarjana,47,"Gang Moch. Ramdan No. 44
+Mataram, GO 22308",+62854-5966-1633,Sudah menikah,64500000
+CUS_227451,"dr. Adiarja Suryatmi, M.Kom.",pria,Doktor,58,"Jl. Dipenogoro No. 2
+Dumai, Nusa Tenggara Timur 72169",+62860-6060-9327,Single,54000000
+CUS_227831,Jindra Pranowo,wanita,SMP,19,"Jalan Gardujati No. 2
+Magelang, MA 57759",+62821-1277-6148,Single,65500000
+CUS_228248,"Dr. Hasna Zulkarnain, M.Kom.",pria,Doktor,31,"Gg. Lembong No. 44
+Kotamobagu, BE 00886",+62849-7300-8179,Sudah menikah,57000000
+CUS_228493,Silvia Nuraini,pria,SMA/SMK/MA,30,"Gg. Stasiun Wonokromo No. 7
+Bukittinggi, JK 19292",+62819-6783-4530,Single,73500000
+CUS_233023,Adinata Nugroho,wanita,SMA/SMK/MA,44,"Jalan Setiabudhi No. 93
+Madiun, BA 21733",+62812-1097-9437,Single,35000000
+CUS_233894,"Tgk. Martaka Uyainah, S.Pd",wanita,Sarjana,45,"Gg. Cikapayang No. 3
+Blitar, BB 74202",+62840-4136-6511,Sudah menikah,87000000
+CUS_234637,Dr. Aurora Putra,pria,Doktor,30,"Gang Dipenogoro No. 001
+Banjar, Sulawesi Tengah 08474",+62843-0387-2217,Sudah menikah,31500000
+CUS_238565,"drg. Raihan Winarsih, M.Kom.",wanita,Magister,42,"Jalan W.R. Supratman No. 174
+Bontang, Jawa Barat 86299",+62879-3862-0280,Single,95000000
+CUS_239620,Jamal Zulaika,pria,SMP,42,"Jl. Dipatiukur No. 73
+Tegal, Kalimantan Utara 61061",+62814-6461-2141,Sudah menikah,16500000
+CUS_239757,"Padma Prayoga, S.IP",pria,Sarjana,40,"Gang Kutisari Selatan No. 96
+Balikpapan, Lampung 78272",+62862-4989-5272,Sudah menikah,90500000
+CUS_242712,Hasna Hidayat,wanita,SD,48,"Gg. Asia Afrika No. 068
+Gorontalo, DI Yogyakarta 88792",+62885-5452-2748,Sudah menikah,51500000
+CUS_242852,Hamima Pradipta,pria,SD,37,"Gg. Kendalsari No. 917
+Cilegon, AC 84650",+62831-7187-9302,Single,43500000
+CUS_242901,Danang Zulaika,pria,SD,58,"Gg. Rajawali Timur No. 45
+Pangkalpinang, NT 92042",+62859-1468-3108,Single,44000000
+CUS_243699,Ghaliyati Uwais,pria,SMP,46,"Gang Suniaraja No. 392
+Banda Aceh, BE 20083",+62871-5528-7675,Single,70000000
+CUS_244290,Juli Kusumo,pria,SMP,55,"Gang Stasiun Wonokromo No. 44
+Bekasi, Kalimantan Tengah 81305",+62813-7117-0241,Sudah menikah,54500000
+CUS_244758,"Estiawan Mangunsong, S.Kom",pria,Sarjana,38,"Jalan Kiaracondong No. 790
+Kupang, Aceh 34768",+62854-1883-7106,Sudah menikah,51000000
+CUS_244965,Rudi Maryadi,wanita,SMP,38,"Gang Kendalsari No. 1
+Banda Aceh, GO 09394",+62801-5262-5287,Single,17500000
+CUS_247046,R. Danu Nainggolan,pria,SMP,23,"Jl. Jend. Sudirman No. 707
+Sibolga, Jawa Timur 48046",+62850-2190-4934,Single,21500000
+CUS_247504,"Prima Winarno, S.Farm",pria,Sarjana,57,"Jalan Cikapayang No. 28
+Kupang, DKI Jakarta 80316",+62855-0965-0006,Single,27000000
+CUS_248249,drg. Kasiran Anggriawan,wanita,SMP,16,"Jl. Cikutra Barat No. 97
+Serang, Papua Barat 86507",+62897-7603-1227,Sudah menikah,47500000
+CUS_249780,"Muni Habibi, S.Pt",wanita,Sarjana,36,"Jalan Dipenogoro No. 171
+Pekalongan, Nusa Tenggara Barat 86891",+62888-3489-5586,Single,65500000
+CUS_249991,Zizi Mayasari,wanita,SMA/SMK/MA,45,"Jl. M.T Haryono No. 43
+Kediri, BT 65022",+62807-8768-7739,Sudah menikah,34000000
+CUS_250367,"Malika Uwais, S.T.",pria,Sarjana,56,"Jalan Bangka Raya No. 1
+Banjar, Papua 67161",+62829-1792-5508,Sudah menikah,49000000
+CUS_252846,"Dagel Hardiansyah, M.M.",pria,Magister,58,"Gang Cikutra Timur No. 2
+Kotamobagu, Jawa Timur 54972",+62886-6508-8479,Single,58000000
+CUS_253522,Teguh Pangestu,pria,SMA/SMK/MA,36,"Gg. Cihampelas No. 36
+Ambon, Kalimantan Selatan 95499",+62873-6818-4871,Sudah menikah,68000000
+CUS_253527,Wadi Permata,pria,SD,38,"Jalan Tebet Barat Dalam No. 0
+Kediri, Kalimantan Timur 29023",+62889-1837-2721,Sudah menikah,88500000
+CUS_255900,Hardana Permata,pria,SD,46,"Jl. Sukabumi No. 79
+Denpasar, KR 01620",+62808-7144-6141,Sudah menikah,61000000
+CUS_258435,"dr. Lutfan Safitri, S.E.I",pria,Doktor,46,"Gg. Abdul Muis No. 493
+Tangerang, Sumatera Selatan 71987",+62881-2452-2645,Sudah menikah,89000000
+CUS_258683,Dr. Yunita Pertiwi,wanita,Doktor,59,"Gg. Jend. A. Yani No. 342
+Kotamobagu, Kalimantan Tengah 51342",+62813-7121-9876,Sudah menikah,25500000
+CUS_260436,"Eman Haryanto, S.Pt",wanita,Sarjana,55,"Gang Cikutra Timur No. 785
+Batam, BE 94127",+62827-9437-1920,Sudah menikah,72500000
+CUS_261132,"Gawati Yuniar, M.M.",pria,Magister,43,"Gang Ronggowarsito No. 07
+Kotamobagu, Maluku Utara 81589",+62814-8582-4883,Sudah menikah,83000000
+CUS_265474,"Dr. Padmi Hariyah, S.H.",pria,Doktor,44,"Jalan Kutai No. 534
+Pontianak, Kalimantan Timur 70709",+62868-3594-5476,Sudah menikah,15000000
+CUS_265480,"H. Darimin Irawan, S.Pd",pria,Sarjana,43,"Jl. Astana Anyar No. 2
+Salatiga, Sulawesi Tenggara 44702",+62861-8466-6536,Single,68000000
+CUS_267435,"Drs. Vanesa Siregar, M.Kom.",wanita,Doktor,31,"Jl. Waringin No. 851
+Tarakan, Kalimantan Timur 15046",+62884-9004-1282,Sudah menikah,55500000
+CUS_268235,"T. Banawi Pudjiastuti, M.Ak",wanita,Magister,54,"Jalan Asia Afrika No. 2
+Malang, Bengkulu 00745",+62810-0701-3428,Single,41000000
+CUS_268917,Sutan Rangga Wacana,pria,SMP,20,"Gg. Jayawijaya No. 6
+Payakumbuh, PB 03674",+62889-5644-4418,Single,18000000
+CUS_271131,dr. Oni Maryadi,wanita,Doktor,35,"Jl. Rawamangun No. 6
+Banda Aceh, AC 15732",+62856-3548-5196,Single,61000000
+CUS_273719,Ghaliyati Simbolon,wanita,Sarjana,33,"Gang Gegerkalong Hilir No. 6
+Padang, Jawa Timur 50803",+62899-3994-6690,Single,42500000
+CUS_274239,Drs. Marsito Nurdiyanti,pria,Doktor,38,"Jalan W.R. Supratman No. 8
+Palangkaraya, SU 46281",+62890-8601-2542,Single,46500000
+CUS_274787,"Safina Haryanto, S.Psi",pria,Sarjana,36,"Jalan Tubagus Ismail No. 591
+Tegal, Jawa Timur 97866",+62865-4934-0093,Single,49000000
+CUS_275403,Perkasa Purnawati,wanita,SMA/SMK/MA,55,"Jalan Surapati No. 05
+Blitar, MA 70489",+62878-1390-2967,Single,19500000
+CUS_275749,Ani Andriani,wanita,SMA/SMK/MA,52,"Gg. Ronggowarsito No. 646
+Sorong, Kalimantan Utara 12347",+62840-7070-8578,Sudah menikah,59500000
+CUS_275851,Warsita Pudjiastuti,pria,SD,60,"Jl. Monginsidi No. 2
+Kendari, PB 44248",+62867-9351-3284,Sudah menikah,99000000
+CUS_276636,Mursinin Oktaviani,wanita,Sarjana,37,"Jalan Ronggowarsito No. 61
+Subulussalam, MU 12284",+62861-9058-3020,Sudah menikah,27500000
+CUS_278231,Kiandra Mahendra,pria,Sarjana,26,"Gang Ir. H. Djuanda No. 8
+Malang, Sulawesi Tenggara 59587",+62830-4997-2468,Sudah menikah,42500000
+CUS_278704,Ajeng Pradipta,pria,SD,34,"Gg. Sukabumi No. 7
+Banjar, LA 30732",+62843-1059-1735,Sudah menikah,99500000
+CUS_280551,Dian Salahudin,wanita,SD,20,"Gang Wonoayu No. 963
+Kupang, Bengkulu 11044",+62883-6570-4043,Sudah menikah,57000000
+CUS_281443,"Agnes Maheswara, S.E.I",wanita,Sarjana,55,"Gg. M.T Haryono No. 67
+Bengkulu, Kalimantan Selatan 34424",+62872-6380-0557,Single,80500000
+CUS_286135,Padmi Susanti,wanita,SMP,45,"Gang Lembong No. 5
+Palembang, JB 74950",+62803-4811-6956,Single,5000000
+CUS_287508,Violet Pangestu,wanita,SD,53,"Gang Sukajadi No. 2
+Palembang, NT 00686",+62882-4517-7209,Single,55500000
+CUS_287811,"Latif Irawan, M.Farm",pria,Magister,58,"Jl. Cikutra Timur No. 67
+Bau-Bau, Papua 23552",+62848-6024-8442,Single,59500000
+CUS_287952,R.A. Jasmin Santoso,wanita,SMA/SMK/MA,32,"Gang Bangka Raya No. 986
+Yogyakarta, Lampung 80245",+62844-0177-8283,Sudah menikah,41000000
+CUS_288217,Wirda Jailani,pria,SD,60,"Gg. Moch. Toha No. 301
+Tarakan, SB 71531",+62864-6976-7483,Single,69500000
+CUS_292753,Eja Riyanti,wanita,SMP,42,"Gg. Kapten Muslihat No. 919
+Tarakan, Nusa Tenggara Timur 07168",+62888-8612-4223,Sudah menikah,7500000
+CUS_293287,Pandu Permata,wanita,SMA/SMK/MA,38,"Gg. Dr. Djunjunan No. 07
+Bima, Bengkulu 04948",+62846-7702-2985,Sudah menikah,79500000
+CUS_293307,Drs. Fitria Susanti,pria,Doktor,47,"Gg. Ronggowarsito No. 5
+Tomohon, YO 41810",+62825-0891-9203,Sudah menikah,43500000
+CUS_293715,Dr. Digdaya Utama,wanita,Doktor,32,"Gg. Pasteur No. 72
+Tarakan, Nusa Tenggara Barat 41753",+62874-4703-4393,Sudah menikah,68500000
+CUS_294029,H. Dartono Prasasta,pria,SMP,38,"Jalan R.E Martadinata No. 8
+Purwokerto, LA 14533",+62823-8924-3038,Single,67000000
+CUS_294697,Kamaria Suryono,pria,Sarjana,55,"Gg. Stasiun Wonokromo No. 93
+Ambon, SS 61021",+62807-4534-3834,Single,31500000
+CUS_295091,Febi Hartati,pria,Sarjana,39,"Jalan Dipenogoro No. 58
+Kota Administrasi Jakarta Timur, NB 31617",+62827-1634-7019,Single,25000000
+CUS_295897,Wahyu Habibi,pria,Sarjana,28,"Gang Rungkut Industri No. 045
+Ambon, JI 70169",+62818-6663-8721,Single,81500000
+CUS_296313,"Ira Hidayat, S.E.",pria,Sarjana,48,"Jalan Gegerkalong Hilir No. 55
+Depok, JK 33109",+62868-1283-3505,Single,45000000
+CUS_296748,"Dr. Lili Agustina, S.Sos",wanita,Doktor,53,"Gg. KH Amin Jasuta No. 9
+Bukittinggi, Sulawesi Selatan 61961",+62801-5630-2644,Sudah menikah,93500000
+CUS_298193,Kasusra Marbun,pria,Sarjana,39,"Gg. Pelajar Pejuang No. 1
+Payakumbuh, SU 25500",+62886-1691-3205,Sudah menikah,68000000
+CUS_299024,Novi Waskita,pria,SMA/SMK/MA,50,"Gg. M.H Thamrin No. 0
+Dumai, BT 67479",+62891-6906-6673,Sudah menikah,25000000
+CUS_299652,Silvia Rahayu,pria,SMA/SMK/MA,43,"Jalan Cikutra Barat No. 6
+Salatiga, SB 59238",+62894-1375-5823,Single,70500000
+CUS_299671,Asmuni Damanik,wanita,SD,19,"Gang Rawamangun No. 75
+Pontianak, Lampung 68996",+62878-4369-3263,Single,10000000
+CUS_299706,Mujur Dongoran,wanita,Sarjana,39,"Jl. Ciumbuleuit No. 657
+Makassar, Kalimantan Selatan 34891",+62827-6829-2796,Single,94500000
+CUS_304369,Lidya Firmansyah,wanita,SMP,17,"Jalan S. Parman No. 7
+Mataram, AC 42733",+62872-5027-9378,Sudah menikah,55500000
+CUS_305188,Umi Pranowo,pria,SD,48,"Jl. Surapati No. 2
+Sungai Penuh, Sumatera Selatan 67271",+62835-4401-1687,Sudah menikah,11000000
+CUS_306787,"Lalita Kuswandari, M.Ak",pria,Magister,52,"Jl. Ciumbuleuit No. 165
+Sabang, Sulawesi Selatan 60175",+62836-5000-8769,Sudah menikah,77000000
+CUS_307811,Dt. Kasim Wibisono,pria,SMP,26,"Jalan Tubagus Ismail No. 17
+Dumai, Riau 23277",+62827-2167-7655,Single,28000000
+CUS_308811,Latif Winarsih,pria,SMA/SMK/MA,19,"Gang Dipatiukur No. 1
+Bogor, SR 00239",+62851-5106-9151,Sudah menikah,65000000
+CUS_308916,"Ophelia Sitompul, M.Pd",pria,Magister,37,"Jalan Yos Sudarso No. 9
+Bekasi, PA 34513",+62893-0289-2968,Single,12500000
+CUS_309014,"Dewi Riyanti, S.Kom",pria,Sarjana,49,"Jl. Raya Ujungberung No. 510
+Bima, Kalimantan Selatan 23472",+62820-1075-1684,Single,97500000
+CUS_309444,H. Kasiran Kuswandari,wanita,Sarjana,25,"Gang Rajiman No. 14
+Ambon, KT 45384",+62843-3464-4074,Single,21500000
+CUS_310605,Sadina Sudiati,pria,SMP,56,"Jalan Cempaka No. 184
+Yogyakarta, Nusa Tenggara Timur 05914",+62886-0223-6863,Sudah menikah,7500000
+CUS_311184,Fitria Firmansyah,pria,Sarjana,34,"Jl. Sukabumi No. 2
+Langsa, Sumatera Selatan 67673",+62886-5159-9639,Sudah menikah,58000000
+CUS_311555,Adinata Utami,pria,SMP,38,"Gg. Jend. A. Yani No. 367
+Banjarmasin, NB 07318",+62851-1626-5210,Sudah menikah,80000000
+CUS_313704,Dr. Emong Rahimah,pria,Doktor,53,"Gg. Ciumbuleuit No. 497
+Madiun, AC 96362",+62871-8863-0092,Single,40000000
+CUS_315967,"Agus Marbun, S.IP",wanita,Sarjana,36,"Gang Indragiri No. 5
+Solok, Nusa Tenggara Barat 19928",+62803-4346-4659,Single,37000000
+CUS_316623,"Yuliana Mustofa, S.E.",pria,Sarjana,32,"Gg. Kiaracondong No. 052
+Sawahlunto, Kalimantan Utara 86873",+62882-0806-8222,Sudah menikah,23500000
+CUS_319189,Ganda Prayoga,wanita,SD,19,"Jalan R.E Martadinata No. 03
+Pasuruan, DI Yogyakarta 52688",+62887-1740-2466,Single,54000000
+CUS_320099,"Tira Santoso, S.E.",wanita,Sarjana,33,"Jl. Waringin No. 073
+Balikpapan, SR 93780",+62851-7379-3260,Sudah menikah,99000000
+CUS_321709,Ulva Mulyani,wanita,Sarjana,28,"Jalan Rajiman No. 457
+Sungai Penuh, Maluku 51258",+62838-9267-5212,Sudah menikah,71500000
+CUS_322502,Tami Pangestu,wanita,Sarjana,56,"Gang Setiabudhi No. 3
+Surakarta, KT 16158",+62893-1658-3083,Sudah menikah,69500000
+CUS_322985,Tania Natsir,pria,Sarjana,45,"Gg. Laswi No. 248
+Palopo, BB 38419",+62887-9414-0737,Sudah menikah,58000000
+CUS_324250,Kariman Purnawati,wanita,SMP,47,"Gg. Asia Afrika No. 7
+Langsa, PB 46752",+62820-6263-0493,Sudah menikah,58500000
+CUS_324891,Ir. Tami Saefullah,wanita,Sarjana,49,"Gg. HOS. Cokroaminoto No. 8
+Makassar, KS 03601",+62861-4730-0606,Single,57000000
+CUS_325541,"Drs. Ihsan Novitasari, S.Sos",pria,Doktor,47,"Jl. PHH. Mustofa No. 678
+Pangkalpinang, DI Yogyakarta 73399",+62836-9908-2712,Sudah menikah,30000000
+CUS_327202,Estiawan Widodo,wanita,Sarjana,35,"Jl. Pasirkoja No. 57
+Kota Administrasi Jakarta Utara, Sulawesi Tenggara 55040",+62844-4554-7981,Single,47000000
+CUS_328846,Gambira Narpati,wanita,SMP,40,"Gg. Cikutra Timur No. 60
+Dumai, Bali 25216",+62848-7168-0680,Single,90500000
+CUS_330994,"Gatra Dongoran, S.E.I",pria,Sarjana,59,"Gg. Tubagus Ismail No. 70
+Mojokerto, Riau 60013",+62880-9465-8244,Sudah menikah,80000000
+CUS_332480,"Puti Jessica Hidayanto, S.I.Kom",pria,Sarjana,31,"Jl. Kendalsari No. 368
+Prabumulih, Sumatera Selatan 82082",+62849-0227-9727,Sudah menikah,64000000
+CUS_333806,"Tiara Hastuti, S.Gz",wanita,Sarjana,53,"Jalan Monginsidi No. 20
+Kupang, Kalimantan Barat 28904",+62808-6628-4205,Single,80000000
+CUS_335917,Prayitna Sihombing,wanita,SMP,22,"Gg. Stasiun Wonokromo No. 0
+Langsa, Kepulauan Riau 24950",+62895-4324-9869,Sudah menikah,40500000
+CUS_337062,Dr. Wardaya Laksmiwati,wanita,Doktor,44,"Jalan Abdul Muis No. 74
+Bekasi, Sulawesi Barat 55468",+62811-5432-5211,Single,54500000
+CUS_339133,"Tgk. Unggul Napitupulu, S.Psi",pria,Sarjana,26,"Jalan Rajawali Timur No. 1
+Banjarmasin, Sumatera Selatan 00878",+62830-9674-3293,Single,80000000
+CUS_339319,Jane Wijayanti,pria,Sarjana,44,"Gang Pasirkoja No. 16
+Samarinda, Banten 83082",+62842-5945-1673,Single,23000000
+CUS_339418,Rina Putra,pria,SMP,48,"Jalan Ahmad Yani No. 32
+Pagaralam, YO 89831",+62834-2327-4369,Single,90000000
+CUS_340970,Yani Wahyuni,wanita,Sarjana,44,"Gg. S. Parman No. 670
+Kota Administrasi Jakarta Utara, Lampung 51193",+62863-8703-7412,Single,66500000
+CUS_341864,R. Galar Simanjuntak,wanita,SD,55,"Jl. Setiabudhi No. 80
+Pasuruan, SU 33447",+62835-4773-3529,Sudah menikah,81000000
+CUS_342136,Gantar Safitri,wanita,SMA/SMK/MA,59,"Gang Raya Setiabudhi No. 26
+Tual, Jawa Tengah 33668",+62864-3639-7315,Single,68500000
+CUS_344198,Rini Siregar,pria,SMP,44,"Jl. Dr. Djunjunan No. 72
+Gorontalo, LA 79580",+62869-3406-0653,Sudah menikah,95000000
+CUS_344573,"Tgk. Harjasa Tamba, S.Sos",wanita,Sarjana,49,"Gang Astana Anyar No. 3
+Meulaboh, Maluku 11042",+62829-9143-3211,Sudah menikah,64000000
+CUS_344748,Tami Suryatmi,wanita,SMP,39,"Gang W.R. Supratman No. 2
+Bima, BA 53726",+62838-8868-1172,Single,50500000
+CUS_345299,Anita Handayani,wanita,Sarjana,29,"Gang Pacuan Kuda No. 4
+Bima, Papua 73442",+62850-3452-1490,Single,51500000
+CUS_345696,Janet Hastuti,pria,SMA/SMK/MA,58,"Jalan Ciumbuleuit No. 052
+Banjarbaru, SS 55875",+62849-9516-7231,Sudah menikah,74000000
+CUS_347112,Iriana Kuswandari,wanita,SD,45,"Gang Astana Anyar No. 2
+Kotamobagu, SU 03399",+62817-4385-2948,Sudah menikah,29000000
+CUS_348220,"drg. Embuh Kuswoyo, M.M.",wanita,Magister,38,"Jl. Ir. H. Djuanda No. 02
+Mataram, Sumatera Selatan 99397",+62843-4577-2793,Single,53000000
+CUS_348533,"Kusuma Waluyo, M.Kom.",pria,Magister,50,"Jalan Soekarno Hatta No. 28
+Medan, Sumatera Selatan 48427",+62891-0440-8866,Single,74000000
+CUS_349155,Kania Iswahyudi,pria,SMP,30,"Jalan Cempaka No. 263
+Medan, SS 53588",+62814-6988-8290,Single,58000000
+CUS_350886,Saiful Suryatmi,wanita,SMA/SMK/MA,45,"Gang M.T Haryono No. 068
+Cirebon, KS 10000",+62835-6198-3769,Sudah menikah,70000000
+CUS_354751,Janet Winarsih,pria,SD,15,"Gang Ronggowarsito No. 569
+Palangkaraya, MA 49519",+62818-3397-3806,Sudah menikah,12000000
+CUS_356525,Farhunnisa Simbolon,pria,SMP,54,"Jl. Jakarta No. 4
+Malang, Bali 89795",+62825-0788-8696,Single,9000000
+CUS_356632,Uchita Uwais,wanita,SD,47,"Jalan K.H. Wahid Hasyim No. 5
+Pasuruan, Riau 34667",+62860-1488-8006,Single,36000000
+CUS_358391,Aurora Jailani,pria,SMA/SMK/MA,44,"Gg. Tubagus Ismail No. 926
+Blitar, SU 77309",+62833-0122-7024,Single,83000000
+CUS_359654,Siti Tarihoran,pria,SD,41,"Gang R.E Martadinata No. 98
+Balikpapan, Jawa Timur 84070",+62831-9498-1338,Single,41000000
+CUS_359941,Cahyono Manullang,pria,Sarjana,29,"Gang Veteran No. 838
+Lubuklinggau, Lampung 34158",+62868-9534-9595,Single,85500000
+CUS_361683,Tri Sihombing,pria,SMA/SMK/MA,45,"Jl. W.R. Supratman No. 0
+Balikpapan, Papua 30133",+62808-2823-8607,Sudah menikah,64000000
+CUS_362151,Winda Siregar,wanita,SMA/SMK/MA,18,"Gg. Pasir Koja No. 031
+Jayapura, Kalimantan Tengah 72816",+62831-4717-8015,Sudah menikah,80500000
+CUS_363534,Baktiono Nurdiyanti,wanita,Sarjana,28,"Gang Cikutra Barat No. 14
+Balikpapan, Kepulauan Riau 11058",+62857-7275-7779,Single,73500000
+CUS_365255,Darmana Fujiati,wanita,Sarjana,51,"Jalan Dipenogoro No. 48
+Dumai, Papua Barat 42195",+62844-6233-6389,Sudah menikah,29500000
+CUS_366066,Karna Irawan,pria,SD,23,"Jl. Yos Sudarso No. 821
+Banjarbaru, SN 86089",+62872-4802-8031,Sudah menikah,4500000
+CUS_366539,Zahra Novitasari,pria,SMP,30,"Jalan Pasteur No. 0
+Pariaman, Papua Barat 55965",+62852-5631-8288,Sudah menikah,90000000
+CUS_366722,Dodo Maheswara,pria,SMA/SMK/MA,40,"Jalan Sadang Serang No. 21
+Jayapura, Jawa Tengah 39761",+62806-8923-7185,Single,35500000
+CUS_366762,Kemba Mustofa,pria,SMA/SMK/MA,46,"Gg. Soekarno Hatta No. 456
+Kediri, NB 54390",+62869-7209-8080,Single,97500000
+CUS_368925,Gading Habibi,wanita,SMP,53,"Gang Gegerkalong Hilir No. 8
+Madiun, SU 22470",+62876-9102-1765,Sudah menikah,39500000
+CUS_369177,Fitriani Hariyah,pria,SMP,40,"Gg. Surapati No. 863
+Salatiga, Kepulauan Riau 60889",+62808-4220-6840,Sudah menikah,48000000
+CUS_369634,"Sakura Sirait, S.T.",pria,Sarjana,42,"Gang Monginsidi No. 28
+Pariaman, Riau 12714",+62872-7189-5060,Sudah menikah,51000000
+CUS_370912,Karta Fujiati,pria,SMA/SMK/MA,22,"Jl. Medokan Ayu No. 74
+Kota Administrasi Jakarta Pusat, JI 51876",+62880-5778-7153,Sudah menikah,4500000
+CUS_371657,Aditya Lailasari,wanita,Sarjana,37,"Gg. Suryakencana No. 128
+Kendari, Sulawesi Tengah 87920",+62823-5793-7427,Single,73500000
+CUS_373923,"Emas Irawan, S.I.Kom",pria,Sarjana,25,"Gg. PHH. Mustofa No. 36
+Metro, GO 09180",+62891-9927-5142,Sudah menikah,56000000
+CUS_374094,Luwes Saputra,wanita,SD,54,"Jalan Jend. Sudirman No. 4
+Binjai, RI 13190",+62857-3630-4874,Sudah menikah,9500000
+CUS_376059,"Mitra Uwais, S.E.",wanita,Sarjana,60,"Jalan Ir. H. Djuanda No. 86
+Cimahi, Aceh 71937",+62833-9282-9546,Single,100000000
+CUS_376085,Kenes Ramadan,wanita,SMA/SMK/MA,32,"Jl. Raya Setiabudhi No. 58
+Medan, BT 43385",+62848-1605-2897,Single,73500000
+CUS_376483,"Elvin Hutapea, S.H.",pria,Sarjana,55,"Jalan Joyoboyo No. 7
+Pangkalpinang, Jawa Tengah 88485",+62885-3633-7321,Single,87500000
+CUS_378343,Raihan Riyanti,pria,SD,26,"Gang Siliwangi No. 75
+Banjar, BA 15076",+62825-0767-0549,Single,69500000
+CUS_378592,Paramita Santoso,pria,SD,18,"Gg. Laswi No. 1
+Solok, SB 75189",+62810-3773-5474,Single,65500000
+CUS_378831,Gandi Megantara,wanita,SMP,32,"Jl. W.R. Supratman No. 159
+Kota Administrasi Jakarta Pusat, Kalimantan Tengah 10003",+62833-5871-7624,Single,28500000
+CUS_379968,"Ega Mustofa, M.Kom.",pria,Magister,41,"Gang Tubagus Ismail No. 20
+Batam, KS 06522",+62834-8846-3094,Single,55000000
+CUS_380351,Asman Waluyo,pria,SMA/SMK/MA,47,"Gg. Suryakencana No. 95
+Pematangsiantar, YO 82230",+62840-6398-7777,Single,57000000
+CUS_380420,"Unggul Sudiati, M.Pd",wanita,Magister,40,"Gg. Rawamangun No. 38
+Balikpapan, BT 76419",+62849-2231-2385,Single,56500000
+CUS_383052,Lurhur Haryanto,wanita,SMA/SMK/MA,47,"Jl. Sentot Alibasa No. 1
+Solok, Sulawesi Barat 11779",+62830-9397-9041,Sudah menikah,20000000
+CUS_385988,Dr. Tantri Tarihoran,wanita,Doktor,30,"Jl. Asia Afrika No. 2
+Pagaralam, NT 09489",+62855-9682-4391,Single,68500000
+CUS_386643,drg. Shakila Wibisono,pria,SMP,49,"Gg. Pasteur No. 7
+Sawahlunto, SU 97915",+62847-7819-5939,Single,20500000
+CUS_387751,"Cawuk Wasita, S.I.Kom",pria,Sarjana,28,"Jalan Suryakencana No. 96
+Kota Administrasi Jakarta Pusat, Sulawesi Barat 56354",+62806-1122-8158,Single,54000000
+CUS_388723,Jarwi Kuswandari,wanita,SMA/SMK/MA,54,"Jl. Rajawali Timur No. 59
+Tidore Kepulauan, Jawa Barat 63112",+62812-8520-8525,Sudah menikah,58000000
+CUS_389666,Ami Laksita,wanita,Sarjana,44,"Jl. Sukajadi No. 52
+Kupang, Kalimantan Utara 16270",+62831-5597-9241,Single,45000000
+CUS_392158,Zulaikha Zulkarnain,pria,Sarjana,56,"Gang Surapati No. 1
+Lhokseumawe, NB 07906",+62807-7907-5041,Sudah menikah,64000000
+CUS_392845,Nurul Hariyah,wanita,SMP,53,"Jalan Pelajar Pejuang No. 69
+Cilegon, BA 48027",+62822-3188-1937,Single,63500000
+CUS_397268,Oliva Yuliarti,pria,SMA/SMK/MA,36,"Jalan H.J Maemunah No. 0
+Kota Administrasi Jakarta Timur, Aceh 57615",+62868-4770-1467,Sudah menikah,38500000
+CUS_397520,Surya Habibi,wanita,SD,31,"Gang Pacuan Kuda No. 62
+Banjarbaru, Sumatera Barat 25552",+62859-7011-0851,Sudah menikah,49000000
+CUS_398298,Ratna Dongoran,pria,Sarjana,40,"Jl. Ahmad Yani No. 10
+Metro, JI 03855",+62886-9863-3529,Single,34000000
+CUS_398438,"Puti Putri Pranowo, S.Psi",wanita,Sarjana,48,"Jl. Abdul Muis No. 7
+Langsa, NT 51031",+62844-5542-4834,Sudah menikah,55500000
+CUS_398799,Ian Utami,wanita,SD,27,"Gg. Rajawali Barat No. 9
+Sungai Penuh, Gorontalo 01950",+62863-2193-1304,Sudah menikah,60500000
+CUS_398987,"dr. Ilsa Thamrin, S.E.I",wanita,Doktor,41,"Jl. Pasteur No. 281
+Mojokerto, Nusa Tenggara Timur 69621",+62808-7710-8610,Single,21000000
+CUS_403132,Jagapati Marbun,pria,Sarjana,31,"Gg. Tebet Barat Dalam No. 982
+Padang Sidempuan, JA 17407",+62873-4105-2911,Sudah menikah,86500000
+CUS_406798,Karta Wacana,wanita,SMP,29,"Jalan Rajiman No. 1
+Serang, NB 70851",+62848-9319-7192,Single,56000000
+CUS_407291,H. Nalar Halim,wanita,SMP,26,"Jl. Bangka Raya No. 79
+Serang, SU 22123",+62825-7176-1853,Single,84000000
+CUS_409289,Darijan Nababan,wanita,SD,36,"Gg. Erlangga No. 9
+Palangkaraya, JI 95504",+62806-9352-8310,Single,83500000
+CUS_410534,"Sutan Prayitna Prabowo, S.Gz",pria,Sarjana,41,"Jalan Tebet Barat Dalam No. 11
+Serang, Kalimantan Utara 83724",+62898-7335-2711,Sudah menikah,57000000
+CUS_410871,"drg. Hasna Hutasoit, S.Pt",pria,Sarjana,43,"Gang Merdeka No. 969
+Bekasi, BB 07834",+62824-7531-2191,Single,42500000
+CUS_410999,R.M. Karja Setiawan,wanita,SMA/SMK/MA,36,"Gang Suryakencana No. 28
+Bitung, Papua 53018",+62824-0689-7748,Sudah menikah,96500000
+CUS_411341,"Kani Zulkarnain, S.IP",wanita,Sarjana,34,"Jl. Merdeka No. 851
+Metro, Bali 53698",+62889-2021-7849,Sudah menikah,61500000
+CUS_412431,Gada Tarihoran,wanita,SMA/SMK/MA,59,"Jl. Dipenogoro No. 9
+Meulaboh, Jawa Tengah 61381",+62849-8126-5007,Single,11500000
+CUS_412896,Halim Suryono,pria,SD,46,"Gang Laswi No. 440
+Pematangsiantar, Gorontalo 47761",+62832-9178-5810,Single,85500000
+CUS_413755,Padma Tarihoran,wanita,SMA/SMK/MA,23,"Gg. Kebonjati No. 902
+Prabumulih, Kalimantan Selatan 09722",+62828-4505-3820,Single,90500000
+CUS_415095,"Drs. Pangeran Wasita, M.Farm",wanita,Doktor,59,"Jl. S. Parman No. 2
+Palu, GO 78968",+62848-5503-2934,Single,14000000
+CUS_416832,"Narji Lailasari, S.Pt",wanita,Sarjana,36,"Gang Dipatiukur No. 88
+Bandar Lampung, MU 67124",+62810-1635-4626,Sudah menikah,53000000
+CUS_416887,"Ellis Pradipta, S.Pt",wanita,Sarjana,35,"Gang Ir. H. Djuanda No. 486
+Lubuklinggau, Aceh 33338",+62845-8811-8809,Single,76000000
+CUS_418287,"Dr. Tami Melani, S.Pt",pria,Doktor,46,"Gang Dipenogoro No. 8
+Mojokerto, Kalimantan Utara 04529",+62801-0082-6185,Single,36000000
+CUS_419119,Victoria Mahendra,wanita,SMA/SMK/MA,40,"Jalan Rajawali Barat No. 33
+Salatiga, BA 62955",+62860-5783-8168,Sudah menikah,34500000
+CUS_419201,Ir. Diah Simanjuntak,wanita,Sarjana,53,"Gg. Kendalsari No. 657
+Makassar, JK 86618",+62811-9807-3660,Single,84000000
+CUS_419233,Mitra Hastuti,pria,SMP,30,"Jalan Veteran No. 70
+Jayapura, Kepulauan Bangka Belitung 25637",+62812-0592-6497,Sudah menikah,78500000
+CUS_419379,"R.M. Harjo Kusumo, S.Pd",pria,Sarjana,39,"Gg. Rawamangun No. 58
+Ambon, Kalimantan Selatan 35443",+62819-5898-4696,Sudah menikah,23500000
+CUS_419784,Soleh Kuswoyo,wanita,Sarjana,25,"Gang Kiaracondong No. 2
+Kota Administrasi Jakarta Utara, Jambi 12658",+62883-0595-5993,Single,21500000
+CUS_424950,"Cut Alika Ardianto, S.Ked",pria,Sarjana,55,"Jalan Raya Setiabudhi No. 5
+Surabaya, Jawa Tengah 70484",+62862-0968-9675,Sudah menikah,85000000
+CUS_426526,"Sakura Pratama, S.Farm",wanita,Sarjana,54,"Gang Medokan Ayu No. 6
+Palopo, Aceh 17451",+62869-2113-4400,Single,40000000
+CUS_426674,"Alambana Mardhiyah, M.M.",pria,Magister,44,"Gg. Rawamangun No. 6
+Tanjungbalai, Kalimantan Timur 64417",+62855-4549-8230,Sudah menikah,45500000
+CUS_427269,Diana Melani,pria,Sarjana,34,"Gg. Rajawali Timur No. 1
+Dumai, Nusa Tenggara Timur 74690",+62806-2860-3149,Sudah menikah,86000000
+CUS_427467,Zizi Nasyiah,wanita,SMP,18,"Gg. Sadang Serang No. 048
+Cimahi, KB 93776",+62850-7955-0574,Sudah menikah,83000000
+CUS_428151,Jasmin Wahyudin,pria,SD,44,"Jl. M.T Haryono No. 6
+Surabaya, PA 89646",+62896-2942-1676,Single,28500000
+CUS_428751,Indah Habibi,wanita,SMP,50,"Jl. Veteran No. 7
+Pekalongan, SS 22798",+62879-1535-1063,Single,70500000
+CUS_430264,Keisha Suartini,pria,SMA/SMK/MA,34,"Gang Rawamangun No. 92
+Sabang, Sulawesi Barat 84972",+62852-9652-6833,Sudah menikah,37000000
+CUS_430711,"Irma Marbun, M.Ak",wanita,Magister,32,"Gang Bangka Raya No. 8
+Pontianak, KU 12362",+62804-3292-3219,Sudah menikah,64000000
+CUS_431816,Vino Nugroho,pria,SMA/SMK/MA,32,"Gg. Cihampelas No. 497
+Pasuruan, DI Yogyakarta 14417",+62800-0131-4764,Sudah menikah,46500000
+CUS_432585,Nadine Sirait,pria,Sarjana,45,"Jalan Pelajar Pejuang No. 70
+Palu, JT 99943",+62870-4394-9874,Single,98000000
+CUS_433052,"Tgk. Wardaya Prasetyo, S.E.I",pria,Sarjana,42,"Gang Rumah Sakit No. 913
+Bogor, Sumatera Selatan 15166",+62882-7046-1375,Single,67000000
+CUS_433739,Drs. Teddy Saragih,pria,Doktor,46,"Jalan Kebonjati No. 57
+Kota Administrasi Jakarta Utara, SU 11051",+62872-0209-0459,Single,60500000
+CUS_434633,Ana Nurdiyanti,pria,SD,51,"Jalan Pacuan Kuda No. 753
+Depok, SU 89594",+62821-0054-2946,Single,17000000
+CUS_437703,"Eman Sudiati, S.Pt",pria,Sarjana,59,"Gg. Jend. A. Yani No. 14
+Malang, SB 92686",+62843-8044-2603,Single,50000000
+CUS_438236,Cici Mustofa,wanita,SD,55,"Jl. Rumah Sakit No. 8
+Sabang, Jawa Tengah 77933",+62808-8152-0784,Single,14500000
+CUS_438731,Icha Nuraini,wanita,Sarjana,43,"Jalan Erlangga No. 482
+Sungai Penuh, YO 48580",+62800-8734-9496,Sudah menikah,97500000
+CUS_439161,Asmuni Lestari,wanita,SD,39,"Gg. Bangka Raya No. 88
+Singkawang, JT 66766",+62868-3955-2049,Single,47500000
+CUS_439304,"Alika Pangestu, S.Pt",wanita,Sarjana,57,"Jl. Tubagus Ismail No. 967
+Sukabumi, Banten 33463",+62868-8942-1668,Sudah menikah,83500000
+CUS_442018,Ir. Tania Dabukke,pria,Sarjana,48,"Jl. Tebet Barat Dalam No. 1
+Bau-Bau, Sulawesi Tenggara 71590",+62877-1664-1399,Single,77000000
+CUS_442594,Unjani Maryati,wanita,SMP,17,"Jl. Gardujati No. 54
+Bukittinggi, NB 80444",+62811-3004-9256,Single,75000000
+CUS_445125,Bella Novitasari,pria,SD,40,"Jl. Rungkut Industri No. 33
+Serang, ST 91160",+62864-7927-8421,Sudah menikah,9000000
+CUS_447960,Yulia Permata,wanita,SMP,15,"Jl. Lembong No. 185
+Palembang, BT 87524",+62895-2819-9788,Sudah menikah,41000000
+CUS_448677,Yance Nasyidah,pria,SD,23,"Gang Rajiman No. 3
+Surabaya, KI 27858",+62851-0944-9706,Sudah menikah,8500000
+CUS_449006,Amelia Maulana,pria,Sarjana,56,"Jalan Rajiman No. 48
+Bengkulu, SU 75815",+62814-8878-3215,Single,76000000
+CUS_449102,drg. Lasmono Andriani,wanita,SMA/SMK/MA,34,"Jl. Kiaracondong No. 527
+Palangkaraya, SU 77131",+62819-7654-5229,Single,97000000
+CUS_449946,Vivi Prabowo,wanita,SMP,50,"Gang Kiaracondong No. 755
+Batam, JT 98245",+62801-3653-5038,Single,89500000
+CUS_451083,Utama Hidayanto,pria,SMP,37,"Jl. Jayawijaya No. 60
+Makassar, Sumatera Selatan 97115",+62891-8619-5693,Single,66500000
+CUS_451550,Nurul Wahyuni,wanita,SMP,28,"Gg. Cihampelas No. 65
+Ternate, Maluku Utara 02969",+62826-7027-0748,Single,73000000
+CUS_451854,Jail Aryani,wanita,SMA/SMK/MA,15,"Jl. Suniaraja No. 2
+Balikpapan, NT 99913",+62838-3854-2329,Sudah menikah,24000000
+CUS_452433,Dr. Sabrina Suartini,wanita,Doktor,34,"Gang Wonoayu No. 75
+Palangkaraya, SU 99081",+62866-0324-9694,Single,41500000
+CUS_453545,Ira Waluyo,wanita,SMA/SMK/MA,56,"Jl. Joyoboyo No. 8
+Depok, NB 23875",+62858-8388-0182,Sudah menikah,25500000
+CUS_453966,Laila Zulkarnain,pria,SD,40,"Gang Veteran No. 62
+Semarang, JB 43225",+62864-0758-4895,Single,74500000
+CUS_454586,"Indra Prabowo, S.Kom",wanita,Sarjana,34,"Gg. Rumah Sakit No. 4
+Banjarbaru, Sulawesi Tenggara 89374",+62897-2348-1136,Single,74500000
+CUS_454711,"Bakiadi Utama, S.Pd",wanita,Sarjana,37,"Gg. Gegerkalong Hilir No. 22
+Metro, SN 79871",+62899-4165-3786,Single,89500000
+CUS_456799,Ika Tamba,pria,SD,44,"Jalan Sadang Serang No. 094
+Kendari, MU 35247",+62804-8099-6803,Single,57000000
+CUS_457090,Kanda Prayoga,pria,SD,24,"Jl. BKR No. 5
+Tanjungpinang, SU 19339",+62855-1403-1909,Single,38000000
+CUS_457559,"Jelita Saefullah, S.Pt",pria,Sarjana,34,"Gang Dr. Djunjunan No. 2
+Sorong, SN 68883",+62808-2677-7863,Single,57500000
+CUS_458226,Rangga Purwanti,wanita,SMP,58,"Gg. M.T Haryono No. 6
+Samarinda, Sulawesi Tenggara 60958",+62864-8482-3496,Single,18000000
+CUS_463127,"Ayu Santoso, S.T.",pria,Sarjana,44,"Jalan Pacuan Kuda No. 24
+Palembang, Sulawesi Selatan 87756",+62897-8907-9726,Sudah menikah,77000000
+CUS_464623,"Bancar Laksmiwati, S.T.",pria,Sarjana,52,"Gg. Jakarta No. 4
+Bontang, SU 75215",+62892-6469-6987,Single,35000000
+CUS_467996,"H. Mulya Pratiwi, S.E.I",wanita,Sarjana,34,"Jalan Raya Setiabudhi No. 9
+Palopo, SU 09028",+62890-4747-1594,Single,84500000
+CUS_468318,"Rika Suryatmi, S.Farm",wanita,Sarjana,43,"Gg. Jend. A. Yani No. 545
+Cimahi, Papua 77618",+62866-0063-8362,Sudah menikah,32000000
+CUS_468956,"Hj. Aurora Saefullah, S.Pt",wanita,Sarjana,38,"Jalan Rajiman No. 6
+Salatiga, DKI Jakarta 79540",+62852-4143-2236,Single,91500000
+CUS_470700,Soleh Lestari,wanita,SD,49,"Gang Gardujati No. 47
+Kota Administrasi Jakarta Pusat, Jawa Tengah 35187",+62868-8368-9932,Sudah menikah,8000000
+CUS_470920,Kairav Nasyidah,wanita,SD,45,"Gang M.T Haryono No. 7
+Kota Administrasi Jakarta Selatan, Kalimantan Selatan 21263",+62820-6712-4231,Sudah menikah,10500000
+CUS_471056,Kamila Aryani,wanita,SMA/SMK/MA,47,"Jalan Cihampelas No. 2
+Mojokerto, JB 82368",+62857-2475-5271,Single,84500000
+CUS_471174,Rini Wibowo,pria,SMP,60,"Gang Ahmad Dahlan No. 56
+Kota Administrasi Jakarta Barat, KT 34076",+62814-6858-6939,Single,80500000
+CUS_471546,Aisyah Hartati,wanita,SMA/SMK/MA,60,"Jl. Rumah Sakit No. 3
+Palopo, Kepulauan Riau 82698",+62828-9905-4442,Sudah menikah,22500000
+CUS_471553,Rusman Purnawati,pria,SMA/SMK/MA,23,"Jl. Rajawali Timur No. 51
+Kotamobagu, ST 23420",+62851-5701-4282,Sudah menikah,45000000
+CUS_472261,Artawan Farida,wanita,Sarjana,57,"Jalan Astana Anyar No. 82
+Semarang, JI 06342",+62894-2819-3258,Single,91000000
+CUS_472798,"Kalim Nashiruddin, S.Pt",wanita,Sarjana,43,"Gang Raya Ujungberung No. 992
+Sabang, KT 33033",+62832-8750-5278,Sudah menikah,54000000
+CUS_473555,"R. Belinda Riyanti, S.Kom",pria,Sarjana,43,"Jl. W.R. Supratman No. 45
+Bogor, Jawa Timur 97456",+62889-8462-1125,Sudah menikah,76000000
+CUS_474908,Rusman Lazuardi,pria,SD,58,"Jalan Rungkut Industri No. 86
+Meulaboh, Nusa Tenggara Barat 19142",+62885-6704-2335,Sudah menikah,7000000
+CUS_475324,"Taufik Winarno, S.H.",pria,Sarjana,60,"Jalan Rungkut Industri No. 6
+Bekasi, BA 91862",+62843-7660-5772,Single,96000000
+CUS_475394,Hj. Najwa Nugroho,wanita,SD,43,"Jalan Monginsidi No. 9
+Batam, Jambi 37060",+62815-8141-7431,Sudah menikah,53500000
+CUS_475456,"R. Agnes Zulaika, M.Pd",pria,Magister,30,"Gang Pasteur No. 853
+Ambon, SN 68916",+62841-1341-5567,Single,12500000
+CUS_476719,Margana Pradana,wanita,SMA/SMK/MA,59,"Jl. M.H Thamrin No. 21
+Subulussalam, KT 82019",+62825-9776-0167,Sudah menikah,67000000
+CUS_476830,Dr. Alika Pratama,pria,Doktor,40,"Gg. Joyoboyo No. 8
+Lhokseumawe, SU 09706",+62857-6563-3292,Sudah menikah,20000000
+CUS_478114,Emas Pradipta,wanita,SMP,25,"Gg. Cihampelas No. 7
+Bandung, Gorontalo 47262",+62804-7872-2286,Sudah menikah,51500000
+CUS_479247,Najwa Wahyudin,wanita,SMA/SMK/MA,43,"Gg. S. Parman No. 203
+Kendari, LA 40669",+62815-6782-4098,Sudah menikah,11500000
+CUS_480101,Muhammad Latupono,pria,Sarjana,31,"Gang Suryakencana No. 17
+Blitar, Sulawesi Utara 84517",+62810-5645-3257,Sudah menikah,22000000
+CUS_480851,Slamet Purwanti,pria,SD,59,"Gg. Astana Anyar No. 954
+Cirebon, Kalimantan Tengah 60609",+62813-5896-8344,Single,14000000
+CUS_482753,"Ir. Nabila Hutasoit, M.Ak",pria,Magister,42,"Jl. Jamika No. 7
+Manado, AC 29263",+62842-6505-5761,Sudah menikah,86500000
+CUS_482763,"dr. Rahmi Namaga, M.TI.",wanita,Doktor,47,"Gang Ciumbuleuit No. 44
+Kotamobagu, BT 33135",+62850-6054-7038,Single,97500000
+CUS_486033,Cakrabuana Nurdiyanti,wanita,SD,23,"Gang Moch. Ramdan No. 787
+Singkawang, BT 03785",+62830-5581-9646,Single,57000000
+CUS_486950,"Hj. Ulya Widiastuti, M.M.",wanita,Magister,30,"Jl. Rajawali Timur No. 87
+Malang, Kalimantan Tengah 53423",+62819-5657-9857,Single,79500000
+CUS_487759,Kayun Kusmawati,pria,SMA/SMK/MA,36,"Jl. Ciwastra No. 9
+Bontang, ST 15124",+62831-3021-8480,Sudah menikah,57000000
+CUS_488041,"dr. Rahmat Utama, S.Sos",wanita,Doktor,56,"Gg. Pasirkoja No. 15
+Sukabumi, Kalimantan Selatan 19826",+62867-0355-9527,Sudah menikah,36000000
+CUS_488946,Harjo Iswahyudi,pria,Sarjana,46,"Gg. M.T Haryono No. 2
+Bau-Bau, Banten 52105",+62850-0319-4154,Sudah menikah,41000000
+CUS_490382,"Daryani Padmasari, M.Pd",wanita,Magister,32,"Jalan Kapten Muslihat No. 44
+Binjai, Jambi 99823",+62882-7774-5356,Sudah menikah,66500000
+CUS_490775,Tgk. Paulin Setiawan,wanita,SD,19,"Gg. Ciwastra No. 87
+Pangkalpinang, MA 60059",+62893-7866-7766,Sudah menikah,45500000
+CUS_491035,"Dt. Cager Waluyo, S.Pt",wanita,Sarjana,48,"Jl. Otto Iskandardinata No. 168
+Bogor, MA 02090",+62889-7581-6928,Sudah menikah,36500000
+CUS_491138,"Olivia Hutagalung, M.Ak",wanita,Magister,33,"Jl. Joyoboyo No. 068
+Dumai, Kalimantan Timur 93734",+62842-3294-6392,Single,52000000
+CUS_491330,Nalar Santoso,pria,SMP,44,"Gang R.E Martadinata No. 2
+Prabumulih, LA 91048",+62840-5529-6869,Single,74000000
+CUS_492461,Taufik Uwais,pria,Sarjana,32,"Jl. HOS. Cokroaminoto No. 5
+Surakarta, Kepulauan Bangka Belitung 75469",+62849-5552-0069,Single,96000000
+CUS_493252,"Hj. Sarah Nugroho, S.E.I",wanita,Sarjana,25,"Gang Waringin No. 4
+Parepare, Papua Barat 07324",+62850-4290-3882,Single,73500000
+CUS_493329,Gara Pudjiastuti,pria,SD,15,"Gg. Rajawali Timur No. 5
+Bontang, KT 12960",+62839-3341-7309,Single,65500000
+CUS_494040,Raisa Maheswara,wanita,SD,49,"Jalan Peta No. 7
+Pontianak, MA 13631",+62800-9036-0722,Sudah menikah,88000000
+CUS_494064,"Jagaraga Jailani, S.E.",wanita,Sarjana,53,"Gg. Cihampelas No. 392
+Bitung, Kepulauan Riau 97891",+62801-5150-1815,Single,82500000
+CUS_494211,Maria Manullang,pria,Sarjana,54,"Gg. Lembong No. 70
+Kota Administrasi Jakarta Timur, SS 32319",+62806-5671-4402,Single,73000000
+CUS_498184,R. Yessi Puspasari,pria,SMA/SMK/MA,60,"Jalan Setiabudhi No. 21
+Bontang, BE 79945",+62813-6511-0626,Sudah menikah,75500000
+CUS_498480,"drg. Tiara Jailani, S.Sos",pria,Sarjana,60,"Jalan H.J Maemunah No. 4
+Tebingtinggi, Sumatera Utara 03507",+62819-1487-9605,Sudah menikah,42500000
+CUS_499134,"Cut Putri Marbun, S.Pt",pria,Sarjana,51,"Gg. BKR No. 10
+Cirebon, KI 12238",+62867-6996-3798,Single,96000000
+CUS_499224,Ir. Parman Simanjuntak,pria,Sarjana,59,"Jl. Antapani Lama No. 857
+Palopo, JA 49629",+62885-7665-6993,Single,78000000
+CUS_500389,"Ratih Yuliarti, M.Ak",pria,Magister,44,"Jl. Tebet Barat Dalam No. 078
+Jambi, JT 47734",+62880-2519-4301,Single,49500000
+CUS_500437,"Usyi Agustina, M.Kom.",pria,Magister,54,"Gg. Kutai No. 1
+Yogyakarta, Kepulauan Bangka Belitung 20810",+62876-8881-9794,Single,83500000
+CUS_500609,Balijan Pangestu,pria,Sarjana,42,"Gang Jakarta No. 81
+Padangpanjang, Nusa Tenggara Timur 38054",+62888-1840-0522,Single,83000000
+CUS_501016,Hj. Anita Putra,wanita,SMA/SMK/MA,36,"Gang Ciwastra No. 7
+Sungai Penuh, Lampung 35588",+62812-8388-8854,Single,32000000
+CUS_501170,Nurul Nuraini,pria,SMP,39,"Jalan Cikutra Barat No. 97
+Jayapura, Bengkulu 07210",+62890-5654-1168,Single,30500000
+CUS_504486,Dwi Hassanah,wanita,Sarjana,52,"Gg. Kendalsari No. 313
+Pontianak, Gorontalo 09631",+62872-6221-3449,Single,63500000
+CUS_506963,Mitra Prayoga,pria,SMP,15,"Gang Gegerkalong Hilir No. 5
+Kota Administrasi Jakarta Utara, Aceh 54181",+62849-0414-0877,Sudah menikah,57000000
+CUS_507445,Hj. Sadina Rahimah,wanita,SMA/SMK/MA,60,"Jl. Cikutra Timur No. 4
+Metro, YO 58257",+62818-0725-0803,Single,35000000
+CUS_508233,"drg. Fitria Pangestu, S.E.",wanita,Sarjana,58,"Gang Dipatiukur No. 977
+Solok, Banten 99018",+62815-7916-9730,Single,79500000
+CUS_508276,Cemani Saefullah,wanita,SD,41,"Jalan Raya Setiabudhi No. 174
+Manado, Sumatera Utara 46841",+62864-2408-1885,Sudah menikah,54500000
+CUS_508895,"Jelita Agustina, S.Pd",wanita,Sarjana,29,"Jl. Ronggowarsito No. 1
+Padangpanjang, Sumatera Barat 19889",+62849-8931-5951,Sudah menikah,58000000
+CUS_509006,Hamima Nababan,wanita,SD,38,"Jl. Ciwastra No. 2
+Kupang, Jawa Tengah 69110",+62836-3104-0481,Single,79500000
+CUS_509186,Hasna Anggraini,pria,SMA/SMK/MA,48,"Jl. Dr. Djunjunan No. 30
+Cimahi, BE 26301",+62873-4752-1179,Sudah menikah,45000000
+CUS_510747,"H. Karna Santoso, S.Gz",pria,Sarjana,41,"Jalan Pacuan Kuda No. 671
+Padang Sidempuan, SU 15126",+62846-7327-3861,Single,35000000
+CUS_510996,Drs. Wulan Manullang,wanita,Doktor,39,"Gg. Cikapayang No. 65
+Padang Sidempuan, NB 79021",+62881-2391-4638,Sudah menikah,26000000
+CUS_511007,"KH. Balijan Rahayu, S.E.",pria,Sarjana,38,"Gg. Erlangga No. 907
+Blitar, Sulawesi Utara 21962",+62827-1518-3594,Sudah menikah,90000000
+CUS_511832,Unggul Rahimah,pria,SMP,44,"Jalan Pelajar Pejuang No. 81
+Langsa, BT 56168",+62853-7447-4722,Sudah menikah,71000000
+CUS_513512,Cinta Padmasari,wanita,SMA/SMK/MA,26,"Gg. Medokan Ayu No. 261
+Palangkaraya, Kalimantan Barat 26920",+62869-0618-5699,Single,55000000
+CUS_513574,Saadat Pranowo,wanita,SMP,51,"Gg. Pacuan Kuda No. 322
+Tanjungpinang, PB 31495",+62825-7063-0972,Single,15500000
+CUS_514733,"Cengkir Waskita, S.E.",pria,Sarjana,33,"Jl. Laswi No. 5
+Serang, Bali 29396",+62811-5963-4134,Single,53000000
+CUS_516609,"Tgk. Lasmanto Laksita, S.Farm",pria,Sarjana,59,"Gang Gedebage Selatan No. 67
+Bengkulu, Aceh 68636",+62885-4629-0491,Sudah menikah,33000000
+CUS_517167,Yunita Lailasari,pria,Sarjana,28,"Jalan Erlangga No. 60
+Balikpapan, JK 82009",+62851-6619-5618,Sudah menikah,61000000
+CUS_517296,Hani Waluyo,wanita,SMA/SMK/MA,26,"Gang Antapani Lama No. 1
+Sungai Penuh, Sumatera Selatan 89230",+62854-1487-3095,Single,47000000
+CUS_517635,Dt. Purwa Prakasa,pria,SMP,51,"Gang Siliwangi No. 449
+Palembang, Jawa Timur 71864",+62801-3251-5536,Sudah menikah,47500000
+CUS_517852,"Rafi Mustofa, M.Farm",pria,Magister,45,"Jl. Suryakencana No. 6
+Kota Administrasi Jakarta Selatan, PB 30861",+62841-7897-5415,Sudah menikah,27000000
+CUS_518407,"Parman Mayasari, M.M.",pria,Magister,39,"Jalan Kutisari Selatan No. 68
+Madiun, PA 93514",+62881-2449-6957,Sudah menikah,56000000
+CUS_521035,Ghaliyati Wacana,pria,Sarjana,55,"Gang Merdeka No. 5
+Solok, SU 05393",+62812-7670-5188,Single,78000000
+CUS_521708,Queen Mayasari,wanita,Sarjana,57,"Gang Merdeka No. 913
+Bontang, Riau 58604",+62832-2680-7580,Sudah menikah,78500000
+CUS_521852,Jais Pradana,pria,SMA/SMK/MA,38,"Gg. Ir. H. Djuanda No. 2
+Banjar, KU 26527",+62890-4269-8887,Sudah menikah,55500000
+CUS_522746,Qori Suryatmi,pria,SMP,52,"Jl. Bangka Raya No. 27
+Bitung, DI Yogyakarta 82600",+62801-5657-4471,Sudah menikah,52000000
+CUS_522991,Zalindra Napitupulu,wanita,Sarjana,46,"Gg. Medokan Ayu No. 620
+Makassar, Bengkulu 99171",+62810-5014-8716,Sudah menikah,94500000
+CUS_523150,Padma Handayani,pria,SD,38,"Jl. Cihampelas No. 30
+Madiun, Jambi 48929",+62822-2223-8594,Single,17500000
+CUS_526340,"Dr. Nasim Ardianto, S.H.",wanita,Doktor,42,"Gang Ronggowarsito No. 217
+Tarakan, Kalimantan Tengah 02654",+62839-3990-1190,Single,37000000
+CUS_526987,"Jaeman Saefullah, M.TI.",wanita,Magister,29,"Gang Setiabudhi No. 30
+Pangkalpinang, Jawa Tengah 07956",+62866-4061-6424,Single,99000000
+CUS_528069,"Ir. Dodo Widodo, S.Gz",wanita,Sarjana,40,"Jl. Rajiman No. 4
+Salatiga, Jawa Tengah 95896",+62854-3776-8273,Single,73000000
+CUS_528699,Argono Mayasari,pria,SD,56,"Gang Ahmad Yani No. 0
+Batam, Jawa Timur 15919",+62806-6190-2997,Single,23500000
+CUS_529283,R. Ida Prasasta,wanita,SMP,33,"Gang Jend. A. Yani No. 949
+Tidore Kepulauan, Bali 96554",+62874-0464-4940,Sudah menikah,18500000
+CUS_529795,Mulyanto Hariyah,pria,SMA/SMK/MA,47,"Gg. Tebet Barat Dalam No. 4
+Parepare, AC 66386",+62875-7581-8671,Sudah menikah,24500000
+CUS_531424,Rina Mulyani,pria,SMA/SMK/MA,26,"Jalan Stasiun Wonokromo No. 7
+Palangkaraya, Kalimantan Selatan 44061",+62838-1077-9834,Sudah menikah,9000000
+CUS_531588,"Drs. Karen Susanti, S.E.I",wanita,Doktor,36,"Gang Moch. Toha No. 40
+Ternate, KT 59337",+62810-5672-7591,Sudah menikah,41000000
+CUS_532449,Pranata Ramadan,wanita,Sarjana,43,"Jl. Wonoayu No. 0
+Bima, Kalimantan Tengah 41738",+62827-8327-4155,Single,74000000
+CUS_533524,Vino Tarihoran,pria,SD,25,"Gang Soekarno Hatta No. 39
+Madiun, KS 32505",+62869-6718-0663,Sudah menikah,7000000
+CUS_535832,Silvia Pudjiastuti,wanita,SD,45,"Gg. Peta No. 598
+Kediri, Kalimantan Tengah 50253",+62810-2830-7145,Single,34500000
+CUS_536424,"Hj. Sari Firmansyah, S.I.Kom",wanita,Sarjana,38,"Jalan Cikutra Barat No. 915
+Tual, SR 26941",+62830-1139-5767,Sudah menikah,86500000
+CUS_539836,Hadi Prasetya,pria,SMP,39,"Gang Astana Anyar No. 904
+Bukittinggi, Jambi 20560",+62880-6656-3968,Sudah menikah,15000000
+CUS_539862,"drg. Ulva Ardianto, S.Kom",wanita,Sarjana,59,"Gang Gardujati No. 2
+Mataram, Sumatera Selatan 29553",+62858-0234-3467,Single,62000000
+CUS_540384,Febi Jailani,wanita,SD,18,"Jalan Stasiun Wonokromo No. 37
+Denpasar, NB 77184",+62861-6523-9576,Sudah menikah,13500000
+CUS_541007,Hafshah Sirait,wanita,SMP,43,"Gang W.R. Supratman No. 154
+Tual, Jawa Tengah 60393",+62800-6681-1110,Sudah menikah,8500000
+CUS_544366,Harsana Mandala,wanita,SMA/SMK/MA,31,"Gang Pasirkoja No. 306
+Manado, Sumatera Utara 00341",+62847-8290-0863,Sudah menikah,45000000
+CUS_545123,Nasrullah Nainggolan,pria,Sarjana,55,"Jalan Sentot Alibasa No. 792
+Subulussalam, Sulawesi Tenggara 37472",+62827-4755-3122,Single,50000000
+CUS_545957,Melinda Dabukke,wanita,SMA/SMK/MA,22,"Gang Erlangga No. 880
+Payakumbuh, KS 40273",+62840-6707-1520,Single,17000000
+CUS_546591,Nova Wacana,wanita,SMP,23,"Jl. Soekarno Hatta No. 922
+Batam, Lampung 12792",+62880-7220-4053,Single,94000000
+CUS_546781,Drs. Vino Kusmawati,wanita,Doktor,59,"Jl. Gegerkalong Hilir No. 540
+Probolinggo, Jawa Tengah 33504",+62888-0853-4128,Sudah menikah,64000000
+CUS_547451,Karsa Hassanah,wanita,SD,51,"Jalan M.T Haryono No. 3
+Probolinggo, Gorontalo 36536",+62822-0108-3812,Sudah menikah,36000000
+CUS_548246,Victoria Haryanto,pria,SMA/SMK/MA,52,"Gg. Yos Sudarso No. 77
+Jambi, BT 10389",+62871-3812-0660,Single,81000000
+CUS_548575,Uchita Halim,wanita,SD,46,"Jalan Cempaka No. 8
+Pagaralam, MA 20565",+62817-2884-3427,Sudah menikah,28000000
+CUS_548613,Sutan Jaga Wulandari,wanita,SD,25,"Jalan Cempaka No. 78
+Bandar Lampung, Sulawesi Barat 35177",+62888-4852-0359,Sudah menikah,79000000
+CUS_549759,Harsana Waluyo,pria,SMP,38,"Jalan Soekarno Hatta No. 385
+Pangkalpinang, PA 54491",+62827-7011-6377,Sudah menikah,60000000
+CUS_551635,drg. Sarah Rajata,wanita,Sarjana,42,"Jl. Rajiman No. 238
+Madiun, Kepulauan Riau 50497",+62802-6253-6968,Sudah menikah,78000000
+CUS_552581,Cinthia Nainggolan,pria,SD,57,"Jl. Abdul Muis No. 760
+Kota Administrasi Jakarta Selatan, Kalimantan Barat 23094",+62847-7479-1249,Single,86500000
+CUS_553111,"Ir. Umay Samosir, S.Pd",wanita,Sarjana,43,"Jalan Cikutra Barat No. 81
+Binjai, Kepulauan Riau 02116",+62843-6649-2045,Single,45500000
+CUS_554953,"T. Cagak Mayasari, S.Kom",pria,Sarjana,41,"Gang W.R. Supratman No. 6
+Salatiga, Kalimantan Timur 77656",+62839-5435-0957,Single,99500000
+CUS_555160,drg. Jelita Yolanda,wanita,SD,50,"Jalan Dipenogoro No. 23
+Ternate, GO 73833",+62874-7398-8185,Single,65000000
+CUS_555591,"H. Bala Pratiwi, M.Pd",wanita,Magister,56,"Jl. M.H Thamrin No. 49
+Cirebon, Sulawesi Selatan 05397",+62853-4382-7913,Single,21000000
+CUS_555592,Ciaobella Lestari,wanita,SMA/SMK/MA,48,"Jalan S. Parman No. 383
+Kotamobagu, Lampung 85767",+62846-7778-1346,Single,73000000
+CUS_556526,Harjasa Nababan,pria,SD,20,"Gg. Bangka Raya No. 539
+Serang, Gorontalo 35221",+62816-8248-4240,Single,63500000
+CUS_557326,Saka Hutasoit,wanita,SMP,43,"Gang Merdeka No. 2
+Kupang, PB 81271",+62899-5479-1032,Sudah menikah,62500000
+CUS_557490,"Tgk. Paiman Handayani, S.I.Kom",wanita,Sarjana,30,"Jalan Dipatiukur No. 404
+Bandung, Sulawesi Utara 26235",+62805-0993-1670,Single,79500000
+CUS_558282,Hasim Winarsih,pria,SD,51,"Gang Otto Iskandardinata No. 346
+Tanjungbalai, Sumatera Utara 50520",+62838-6749-3675,Single,45000000
+CUS_558892,Laila Pangestu,wanita,Sarjana,41,"Jl. Sadang Serang No. 42
+Tarakan, JI 95721",+62838-6408-6268,Sudah menikah,26000000
+CUS_559062,Dt. Tugiman Hassanah,pria,SMA/SMK/MA,50,"Gg. Joyoboyo No. 9
+Tanjungpinang, PB 67038",+62871-5503-6250,Sudah menikah,35000000
+CUS_559705,Vivi Nababan,pria,SMA/SMK/MA,37,"Gang H.J Maemunah No. 50
+Bandar Lampung, Riau 94367",+62882-0747-4878,Sudah menikah,21500000
+CUS_560663,Jasmin Permadi,wanita,SMP,19,"Gang Ahmad Yani No. 7
+Palopo, Sulawesi Barat 33993",+62890-9939-8475,Sudah menikah,56000000
+CUS_561281,Shakila Suryatmi,wanita,SMP,16,"Jalan Jamika No. 3
+Prabumulih, KB 99873",+62889-3289-5649,Single,39500000
+CUS_562671,"Surya Jailani, S.Pt",pria,Sarjana,44,"Jalan Cikutra Barat No. 4
+Meulaboh, SR 87611",+62823-0673-4107,Single,28000000
+CUS_562794,Jais Nasyiah,wanita,SMP,16,"Gang Kutai No. 066
+Jambi, Jawa Tengah 86780",+62831-5863-7446,Single,58000000
+CUS_564332,Limar Maryati,wanita,Sarjana,52,"Jl. Jayawijaya No. 3
+Blitar, NB 36325",+62860-5290-9386,Sudah menikah,92000000
+CUS_564614,Kania Nashiruddin,wanita,SMA/SMK/MA,54,"Gang Rungkut Industri No. 301
+Magelang, Lampung 51021",+62850-5279-3672,Sudah menikah,38000000
+CUS_565264,Hilda Prastuti,pria,SMA/SMK/MA,35,"Jalan PHH. Mustofa No. 4
+Bitung, PB 40052",+62864-7221-0409,Single,18500000
+CUS_566799,Zelda Nurdiyanti,wanita,Sarjana,42,"Jl. Pasteur No. 40
+Langsa, GO 49665",+62805-1422-2870,Single,27000000
+CUS_566988,Puti Sakura Firgantoro,wanita,SMP,15,"Jl. PHH. Mustofa No. 5
+Bontang, NT 55942",+62823-5812-1938,Sudah menikah,23500000
+CUS_567109,Yuliana Wahyudin,pria,SMA/SMK/MA,54,"Gg. Gardujati No. 9
+Surabaya, JK 95794",+62886-7557-1756,Single,65500000
+CUS_567335,Hana Mardhiyah,pria,SMP,24,"Jl. Kutai No. 92
+Pontianak, Maluku Utara 22449",+62825-6812-2922,Sudah menikah,33500000
+CUS_567784,"Irwan Nainggolan, M.Kom.",pria,Magister,54,"Jl. Wonoayu No. 60
+Pasuruan, SU 67355",+62883-8753-0014,Single,27000000
+CUS_568977,Uchita Situmorang,wanita,SMA/SMK/MA,18,"Jalan Indragiri No. 6
+Semarang, Sulawesi Tengah 13372",+62853-1679-2446,Single,57500000
+CUS_569583,Carla Hardiansyah,pria,Sarjana,53,"Gg. Ciumbuleuit No. 4
+Lubuklinggau, JT 75268",+62819-7284-8418,Sudah menikah,57000000
+CUS_573697,Hamima Melani,pria,SMA/SMK/MA,35,"Gang Kebonjati No. 031
+Serang, DI Yogyakarta 88700",+62800-2487-4279,Sudah menikah,26000000
+CUS_574655,"Oskar Prasetyo, S.T.",wanita,Sarjana,51,"Jl. Indragiri No. 50
+Batu, SN 08728",+62868-9200-8586,Single,20500000
+CUS_575602,Usyi Agustina,wanita,Sarjana,59,"Gg. Rajawali Timur No. 3
+Sungai Penuh, PA 88565",+62810-8449-2098,Single,43000000
+CUS_576705,Aris Hakim,pria,Sarjana,25,"Jl. HOS. Cokroaminoto No. 4
+Palembang, Sulawesi Tenggara 32747",+62855-9683-2993,Sudah menikah,32500000
+CUS_578608,Drs. Mujur Aryani,pria,Doktor,54,"Gang Jend. Sudirman No. 82
+Mataram, BT 15519",+62882-6908-2840,Sudah menikah,65000000
+CUS_580622,Ismail Mustofa,wanita,SD,51,"Gang Cempaka No. 322
+Sabang, Bengkulu 11520",+62812-4662-9196,Sudah menikah,71000000
+CUS_581882,R.M. Salman Suryatmi,wanita,SMA/SMK/MA,33,"Gg. Gedebage Selatan No. 544
+Tangerang, PB 30018",+62809-9405-4265,Sudah menikah,9000000
+CUS_583930,Cut Nova Habibi,wanita,Sarjana,56,"Gang BKR No. 93
+Ternate, SU 50435",+62822-4602-3956,Sudah menikah,68000000
+CUS_587445,"Michelle Mayasari, S.E.",wanita,Sarjana,35,"Jalan BKR No. 7
+Tanjungbalai, Bali 33201",+62826-1451-8816,Single,34000000
+CUS_587656,R. Samiah Pratiwi,pria,SMA/SMK/MA,60,"Gg. Rumah Sakit No. 8
+Bandung, Sulawesi Tengah 13425",+62817-4371-1606,Sudah menikah,17500000
+CUS_592243,Lurhur Melani,pria,Sarjana,44,"Gang Surapati No. 2
+Bogor, KT 19196",+62806-7506-7310,Sudah menikah,66000000
+CUS_592330,Lala Anggraini,wanita,SMP,38,"Jl. K.H. Wahid Hasyim No. 28
+Lubuklinggau, Bengkulu 70251",+62882-8599-3522,Sudah menikah,97500000
+CUS_592801,"Cagak Habibi, S.Psi",wanita,Sarjana,34,"Gg. Sentot Alibasa No. 244
+Pagaralam, KB 09190",+62817-3849-9953,Sudah menikah,52500000
+CUS_593953,"H. Mahmud Uyainah, M.Ak",wanita,Magister,45,"Jl. Jend. A. Yani No. 85
+Pangkalpinang, SU 14449",+62873-4501-8815,Single,78500000
+CUS_594733,"R.A. Ulya Natsir, S.Gz",wanita,Sarjana,49,"Jalan KH Amin Jasuta No. 60
+Yogyakarta, Riau 24144",+62896-3380-3182,Single,23500000
+CUS_595098,Ridwan Rajasa,wanita,SMP,17,"Gg. Otto Iskandardinata No. 02
+Pasuruan, Maluku Utara 22627",+62892-2423-4281,Sudah menikah,53000000
+CUS_598660,"Puti Olivia Nurdiyanti, M.Kom.",pria,Magister,57,"Jl. Jend. A. Yani No. 115
+Cimahi, Kalimantan Tengah 23464",+62874-3704-5143,Sudah menikah,29500000
+CUS_599494,Adinata Kuswandari,pria,SMA/SMK/MA,25,"Gang Waringin No. 379
+Pasuruan, YO 84334",+62852-2143-9004,Sudah menikah,60000000
+CUS_600070,Tgk. Michelle Palastri,pria,SMP,44,"Jl. Ciwastra No. 21
+Mataram, SN 53033",+62868-4633-1070,Sudah menikah,34000000
+CUS_602761,"Cut Betania Yolanda, M.M.",pria,Magister,33,"Jalan Asia Afrika No. 900
+Kota Administrasi Jakarta Utara, Maluku 87157",+62800-4194-5566,Sudah menikah,75500000
+CUS_604609,"Dr. Prayoga Winarno, S.Farm",wanita,Doktor,32,"Gg. Raya Ujungberung No. 0
+Kota Administrasi Jakarta Utara, Bali 70959",+62807-1952-3062,Sudah menikah,68000000
+CUS_605155,Tgk. Lala Firmansyah,pria,SMA/SMK/MA,37,"Gg. Cihampelas No. 791
+Bontang, KS 21927",+62847-3062-7596,Single,89500000
+CUS_607467,"Alambana Saptono, S.I.Kom",wanita,Sarjana,54,"Jl. Sukabumi No. 61
+Palopo, SU 86249",+62877-0772-6283,Sudah menikah,98000000
+CUS_607714,Ophelia Pudjiastuti,wanita,SMA/SMK/MA,49,"Gg. Sadang Serang No. 27
+Probolinggo, KB 09825",+62873-9299-4453,Single,71500000
+CUS_608710,"Maria Halimah, S.E.",pria,Sarjana,60,"Gg. Cempaka No. 911
+Palopo, SU 15030",+62815-8610-2008,Single,56500000
+CUS_610211,Ir. Tirtayasa Napitupulu,pria,Sarjana,27,"Jl. Ahmad Yani No. 3
+Kota Administrasi Jakarta Timur, Banten 51518",+62867-8617-7338,Single,69000000
+CUS_611401,Fathonah Prakasa,wanita,SD,46,"Gang Bangka Raya No. 3
+Makassar, ST 72290",+62841-0308-3794,Sudah menikah,31500000
+CUS_612905,Dr. Timbul Nashiruddin,pria,Doktor,41,"Jalan Wonoayu No. 7
+Banda Aceh, NT 05840",+62829-5638-5226,Single,76000000
+CUS_613026,Ajiono Kusmawati,pria,SD,54,"Gang Ronggowarsito No. 20
+Bogor, KU 03942",+62809-4460-6340,Single,56000000
+CUS_613072,"Dr. Widya Haryanti, S.E.",wanita,Doktor,38,"Gang W.R. Supratman No. 60
+Parepare, BB 49396",+62812-0747-4394,Single,26000000
+CUS_613941,"Bella Yulianti, S.E.",wanita,Sarjana,34,"Gang Tubagus Ismail No. 0
+Kupang, Sulawesi Tenggara 19943",+62804-7741-3321,Sudah menikah,65500000
+CUS_614131,Cawisono Rahimah,wanita,SMA/SMK/MA,17,"Gang Rajawali Timur No. 3
+Sawahlunto, Riau 49184",+62840-5200-9413,Sudah menikah,63000000
+CUS_615690,Nova Nurdiyanti,wanita,SMP,43,"Jalan W.R. Supratman No. 26
+Pekalongan, PA 74240",+62811-9945-0873,Sudah menikah,19000000
+CUS_616103,"T. Carub Andriani, M.Farm",pria,Magister,43,"Jalan Rajawali Timur No. 84
+Tangerang Selatan, BT 40030",+62867-6052-7137,Sudah menikah,31500000
+CUS_616929,Dt. Paiman Santoso,wanita,Sarjana,45,"Gang Jend. Sudirman No. 298
+Malang, Sulawesi Utara 58793",+62854-2111-6458,Single,43500000
+CUS_617289,"Saka Palastri, S.Gz",pria,Sarjana,29,"Jl. BKR No. 979
+Pariaman, JA 93872",+62840-6069-8386,Sudah menikah,75500000
+CUS_618135,"dr. Yunita Utami, S.E.",wanita,Doktor,37,"Jalan Dr. Djunjunan No. 2
+Prabumulih, Kalimantan Tengah 32383",+62801-6933-4836,Sudah menikah,73500000
+CUS_618200,"R.M. Wakiman Natsir, S.Ked",pria,Sarjana,50,"Jl. Kendalsari No. 5
+Kendari, LA 42800",+62897-7419-5688,Sudah menikah,29500000
+CUS_621760,"Wadi Nasyidah, S.I.Kom",wanita,Sarjana,41,"Gg. Merdeka No. 912
+Padang Sidempuan, Kalimantan Barat 97045",+62833-2334-1106,Sudah menikah,48500000
+CUS_621882,Tira Simanjuntak,pria,SMA/SMK/MA,17,"Jalan Indragiri No. 12
+Magelang, Lampung 39536",+62805-1328-6399,Sudah menikah,15000000
+CUS_622385,"T. Banara Anggriawan, S.Ked",wanita,Sarjana,53,"Gang Surapati No. 149
+Cirebon, SS 23461",+62846-8668-9291,Sudah menikah,74000000
+CUS_623416,Darsirah Padmasari,pria,Sarjana,44,"Gg. Rawamangun No. 19
+Sibolga, Riau 85965",+62849-1116-1498,Sudah menikah,37500000
+CUS_625368,Cici Laksita,pria,SMP,57,"Jalan Asia Afrika No. 456
+Sibolga, BE 80210",+62898-1147-4323,Single,60000000
+CUS_626714,"R. Hani Pratama, M.M.",wanita,Magister,28,"Jalan Rungkut Industri No. 87
+Banjarmasin, AC 11349",+62888-3606-9113,Sudah menikah,54500000
+CUS_628396,R. Jagaraga Pudjiastuti,pria,SMA/SMK/MA,53,"Jalan K.H. Wahid Hasyim No. 952
+Tasikmalaya, Kalimantan Selatan 02858",+62845-1678-5466,Single,20000000
+CUS_628785,"Drs. Gaman Puspita, S.I.Kom",wanita,Doktor,30,"Gang Bangka Raya No. 182
+Lhokseumawe, KI 65191",+62883-7471-5868,Single,37500000
+CUS_629563,Tantri Sitompul,pria,SD,22,"Gang Raya Ujungberung No. 20
+Jayapura, SR 28318",+62842-7595-8018,Sudah menikah,28500000
+CUS_630220,"Taswir Haryanti, S.H.",pria,Sarjana,35,"Jalan Kapten Muslihat No. 816
+Tanjungpinang, Jambi 84241",+62895-2471-7484,Sudah menikah,78500000
+CUS_630368,Karsana Suryono,wanita,SMA/SMK/MA,15,"Gg. Surapati No. 805
+Tual, Jawa Barat 74978",+62871-0572-7075,Single,73000000
+CUS_630397,Ani Usada,pria,SMA/SMK/MA,54,"Gang Sadang Serang No. 1
+Kotamobagu, Sulawesi Tengah 26324",+62886-6357-2469,Sudah menikah,11000000
+CUS_631536,"Waluyo Kusmawati, S.T.",wanita,Sarjana,55,"Gang Otto Iskandardinata No. 80
+Batam, Kalimantan Selatan 96337",+62852-0158-8165,Single,54000000
+CUS_632166,dr. Ganep Zulaika,pria,Doktor,42,"Jalan Lembong No. 898
+Semarang, Sulawesi Tenggara 97009",+62838-3549-8176,Sudah menikah,34500000
+CUS_632330,Hani Hardiansyah,pria,Sarjana,39,"Gang Sukajadi No. 0
+Bengkulu, NB 08514",+62853-9840-8222,Single,53500000
+CUS_632497,Teddy Andriani,pria,Sarjana,56,"Gg. Sukajadi No. 693
+Bengkulu, Riau 29692",+62891-6356-6212,Sudah menikah,63500000
+CUS_635349,"Sadina Lestari, M.Ak",pria,Magister,41,"Jl. Rajawali Barat No. 574
+Kota Administrasi Jakarta Timur, YO 44994",+62892-3655-0400,Single,19500000
+CUS_635798,Manah Saragih,pria,Sarjana,42,"Jalan Otto Iskandardinata No. 711
+Sungai Penuh, SB 72510",+62823-9164-1115,Sudah menikah,32000000
+CUS_636125,Paramita Yulianti,wanita,SD,21,"Gang W.R. Supratman No. 570
+Lubuklinggau, Sulawesi Tengah 95202",+62806-6953-2008,Sudah menikah,21500000
+CUS_637703,Padmi Rahayu,wanita,SMP,23,"Jl. Laswi No. 21
+Madiun, DKI Jakarta 93471",+62853-0542-1948,Sudah menikah,79000000
+CUS_638436,Maimunah Iswahyudi,wanita,SD,31,"Jl. Medokan Ayu No. 47
+Metro, BB 89807",+62807-8043-0180,Sudah menikah,42000000
+CUS_639072,"Dr. Gina Budiman, S.Ked",wanita,Doktor,53,"Gg. Antapani Lama No. 9
+Tanjungpinang, YO 15654",+62801-6316-9853,Single,23500000
+CUS_639310,Lalita Wahyudin,wanita,SD,26,"Jl. Dipenogoro No. 3
+Padang, Kalimantan Utara 14625",+62888-9599-0420,Sudah menikah,14500000
+CUS_640328,Widya Utami,pria,SMA/SMK/MA,51,"Gg. KH Amin Jasuta No. 259
+Dumai, Riau 34208",+62824-3423-3700,Single,73500000
+CUS_640539,Talia Sitompul,wanita,SMP,21,"Gang Merdeka No. 6
+Binjai, Sulawesi Selatan 26537",+62834-7821-1569,Single,65500000
+CUS_641221,Dimas Sihombing,pria,Sarjana,49,"Jl. Kutisari Selatan No. 63
+Gorontalo, Sulawesi Tengah 88885",+62871-5357-8670,Sudah menikah,23000000
+CUS_644887,"Limar Anggraini, S.H.",pria,Sarjana,40,"Jalan Sukabumi No. 7
+Padangpanjang, Kalimantan Timur 65760",+62837-2529-3354,Sudah menikah,29000000
+CUS_645051,Yulia Natsir,pria,Sarjana,42,"Jalan Jend. A. Yani No. 729
+Sawahlunto, Kalimantan Tengah 68370",+62865-0401-6913,Single,32500000
+CUS_645186,Murti Sinaga,wanita,Sarjana,51,"Gang M.H Thamrin No. 68
+Batu, Kepulauan Bangka Belitung 22716",+62862-8665-3287,Single,47500000
+CUS_645961,Titi Maryati,pria,SMA/SMK/MA,18,"Gang Kutisari Selatan No. 9
+Banjarmasin, Nusa Tenggara Timur 89748",+62809-8793-6198,Single,91500000
+CUS_646158,R. Cakrabirawa Hastuti,pria,SD,31,"Jl. Cihampelas No. 255
+Bitung, BE 37748",+62813-3630-3117,Sudah menikah,76000000
+CUS_648081,"dr. Jamalia Permadi, M.M.",pria,Doktor,41,"Gang Sukajadi No. 063
+Meulaboh, Sumatera Utara 01510",+62887-4184-2585,Single,67500000
+CUS_648433,"R. Raditya Farida, M.M.",wanita,Magister,44,"Jalan Cikutra Barat No. 4
+Langsa, Kalimantan Barat 88659",+62810-7026-9829,Sudah menikah,15000000
+CUS_649856,Kacung Hutapea,wanita,SMA/SMK/MA,52,"Jalan Kiaracondong No. 7
+Bekasi, Kalimantan Tengah 35545",+62810-1971-3369,Single,77500000
+CUS_651284,R. Rafid Natsir,wanita,Sarjana,54,"Jalan KH Amin Jasuta No. 945
+Meulaboh, Lampung 40848",+62885-9053-6181,Single,46500000
+CUS_651758,"Prayitna Halim, S.T.",wanita,Sarjana,51,"Jl. Rajawali Barat No. 9
+Singkawang, KB 06632",+62859-2234-2747,Single,94500000
+CUS_651973,"Cut Rahmi Mulyani, S.Kom",wanita,Sarjana,56,"Jalan Jamika No. 9
+Sukabumi, KR 87643",+62843-4983-1234,Single,95000000
+CUS_652098,"Wirda Namaga, S.I.Kom",pria,Sarjana,28,"Gg. Rawamangun No. 944
+Sukabumi, YO 85788",+62812-1710-6994,Single,44500000
+CUS_653112,"Johan Natsir, S.Farm",pria,Sarjana,50,"Jl. Cempaka No. 0
+Batu, DKI Jakarta 49853",+62849-4655-0466,Sudah menikah,57500000
+CUS_653138,Calista Halimah,pria,SMP,21,"Gang Raya Ujungberung No. 251
+Palopo, BB 40632",+62870-4667-6754,Sudah menikah,49500000
+CUS_653707,Jayeng Handayani,pria,SMP,20,"Jl. S. Parman No. 7
+Banda Aceh, Sulawesi Tengah 19862",+62814-3443-0636,Sudah menikah,7000000
+CUS_654473,"Dt. Kalim Wijaya, S.E.I",wanita,Sarjana,60,"Gg. Gedebage Selatan No. 8
+Tangerang, Kalimantan Tengah 92714",+62881-3453-1550,Single,82000000
+CUS_655884,"Lalita Hariyah, M.M.",pria,Magister,39,"Jl. Joyoboyo No. 4
+Palu, Bengkulu 41023",+62856-8501-6187,Sudah menikah,12500000
+CUS_656049,Unjani Irawan,pria,SMP,22,"Jalan Jamika No. 1
+Semarang, JT 54167",+62819-1327-6653,Single,5000000
+CUS_656127,Kani Damanik,pria,SD,30,"Gg. Rajawali Barat No. 4
+Lubuklinggau, Sulawesi Barat 57374",+62815-5845-4054,Single,27000000
+CUS_656411,Cornelia Mayasari,pria,SMA/SMK/MA,32,"Gang Rajiman No. 5
+Bogor, KU 20247",+62855-5774-6341,Sudah menikah,18500000
+CUS_656496,Gawati Haryanti,wanita,Sarjana,37,"Jalan Ir. H. Djuanda No. 2
+Banjarbaru, YO 93266",+62815-2526-6538,Single,56000000
+CUS_657690,"Gamanto Napitupulu, S.IP",wanita,Sarjana,49,"Gang KH Amin Jasuta No. 49
+Meulaboh, KS 88823",+62818-8061-8831,Single,39000000
+CUS_658886,Tgk. Balapati Nainggolan,wanita,SMA/SMK/MA,33,"Gg. Ahmad Yani No. 869
+Tanjungbalai, Kalimantan Selatan 55066",+62885-7327-0575,Single,12000000
+CUS_661054,dr. Najwa Pratama,pria,Doktor,37,"Jl. BKR No. 57
+Bogor, Aceh 14179",+62815-0716-5250,Sudah menikah,13500000
+CUS_661543,"Hj. Puspa Maryadi, S.E.",wanita,Sarjana,27,"Gang Peta No. 9
+Jayapura, Lampung 97516",+62847-4338-8479,Sudah menikah,97000000
+CUS_661818,Irma Setiawan,pria,Sarjana,53,"Jalan Peta No. 181
+Yogyakarta, Papua 22394",+62859-5747-3919,Sudah menikah,73500000
+CUS_661825,Zelda Uwais,pria,SD,54,"Jalan Peta No. 28
+Tual, Jambi 46954",+62804-3723-6294,Single,95000000
+CUS_662132,Luwes Mayasari,pria,Sarjana,54,"Jalan Dipenogoro No. 79
+Banjarmasin, Maluku 77583",+62806-7351-8790,Sudah menikah,62000000
+CUS_664743,Warta Irawan,wanita,SMA/SMK/MA,26,"Jl. Antapani Lama No. 25
+Banjar, KR 24571",+62866-4629-3358,Single,30500000
+CUS_664761,Wira Napitupulu,wanita,SMA/SMK/MA,25,"Jl. Kutisari Selatan No. 7
+Meulaboh, JT 37936",+62835-8319-1332,Single,72500000
+CUS_666471,Hesti Irawan,pria,SD,15,"Gang Dipatiukur No. 2
+Subulussalam, JT 16700",+62854-7263-1168,Single,40500000
+CUS_667033,Chelsea Adriansyah,pria,SD,54,"Jalan KH Amin Jasuta No. 289
+Banjarbaru, KB 21095",+62832-9613-7866,Single,50000000
+CUS_668291,Pranata Sihombing,wanita,Sarjana,56,"Jalan Kutai No. 2
+Kota Administrasi Jakarta Pusat, PA 48370",+62853-1278-7621,Single,45500000
+CUS_668293,Ir. Enteng Hakim,wanita,Sarjana,44,"Gg. Jakarta No. 0
+Makassar, RI 53479",+62871-0282-4282,Single,81500000
+CUS_669414,"T. Tasdik Ramadan, M.M.",wanita,Magister,58,"Jalan Sadang Serang No. 6
+Bontang, SS 90956",+62811-7776-8983,Single,46000000
+CUS_670528,Chelsea Puspasari,pria,SMP,60,"Gang Ciwastra No. 97
+Lubuklinggau, BB 78375",+62894-4589-5269,Sudah menikah,30500000
+CUS_671818,"Drs. Kamidin Kuswoyo, S.IP",pria,Doktor,32,"Gg. Surapati No. 344
+Mataram, Sulawesi Selatan 15187",+62842-0910-5921,Sudah menikah,49000000
+CUS_671833,Uli Firmansyah,pria,Sarjana,41,"Gg. Cempaka No. 686
+Pekanbaru, PA 96097",+62887-2641-1960,Sudah menikah,64000000
+CUS_672324,Oman Jailani,pria,Sarjana,54,"Gang Sentot Alibasa No. 81
+Kotamobagu, SB 11922",+62881-1767-8054,Single,53500000
+CUS_674155,Tami Laksmiwati,pria,Sarjana,44,"Gg. Raya Setiabudhi No. 68
+Medan, Sulawesi Selatan 58996",+62819-7747-1878,Single,98500000
+CUS_674734,Ajiono Nainggolan,wanita,SMP,38,"Gang Dr. Djunjunan No. 608
+Palu, LA 83522",+62835-5064-1282,Single,61000000
+CUS_675135,Nova Anggraini,wanita,Sarjana,52,"Jl. Laswi No. 3
+Bau-Bau, Jawa Tengah 32077",+62811-5098-2186,Sudah menikah,42000000
+CUS_675455,Drs. Agus Prakasa,pria,Doktor,42,"Jl. Pacuan Kuda No. 47
+Sawahlunto, KS 66868",+62872-6048-9012,Sudah menikah,17000000
+CUS_675868,"R. Adikara Tampubolon, M.TI.",pria,Magister,43,"Jalan Rajawali Barat No. 7
+Mojokerto, Gorontalo 95404",+62805-2469-2940,Sudah menikah,59000000
+CUS_676716,"Danang Napitupulu, S.Gz",wanita,Sarjana,35,"Jalan Tebet Barat Dalam No. 0
+Bau-Bau, Sulawesi Utara 10313",+62883-9810-7230,Sudah menikah,98000000
+CUS_677262,"Ir. Mahfud Pangestu, S.E.I",wanita,Sarjana,47,"Jalan Kutai No. 38
+Bontang, Bengkulu 25294",+62831-8052-8250,Single,24500000
+CUS_678301,Yoga Siregar,wanita,Sarjana,29,"Gang Sukajadi No. 15
+Tomohon, GO 34384",+62844-0051-1995,Sudah menikah,84000000
+CUS_678616,"Sutan Anggabaya Dabukke, M.M.",wanita,Magister,30,"Jl. Suryakencana No. 9
+Depok, JT 38882",+62805-1732-5090,Sudah menikah,58000000
+CUS_678972,R.A. Elma Siregar,wanita,Sarjana,37,"Jl. Rajiman No. 576
+Payakumbuh, JT 00002",+62875-7790-0147,Sudah menikah,77000000
+CUS_680260,"Virman Kusmawati, M.M.",pria,Magister,54,"Gang Kiaracondong No. 33
+Kota Administrasi Jakarta Timur, GO 65900",+62810-2697-5645,Sudah menikah,36500000
+CUS_680526,Jaya Purnawati,wanita,SMA/SMK/MA,50,"Jalan Monginsidi No. 01
+Palu, Sulawesi Tengah 22497",+62827-8832-1141,Single,56500000
+CUS_680740,Xanana Padmasari,pria,SMP,25,"Gg. Moch. Ramdan No. 692
+Pangkalpinang, Sumatera Selatan 74678",+62883-0452-9471,Sudah menikah,63000000
+CUS_680999,"Puti Ulya Usamah, S.Pt",pria,Sarjana,35,"Jalan Ronggowarsito No. 2
+Palangkaraya, KB 76616",+62842-3555-3135,Sudah menikah,57000000
+CUS_681027,Usyi Nurdiyanti,wanita,SD,45,"Jl. Indragiri No. 194
+Kota Administrasi Jakarta Utara, SG 88693",+62899-2364-0944,Single,18000000
+CUS_682518,Agnes Pangestu,pria,SMA/SMK/MA,40,"Jl. Stasiun Wonokromo No. 4
+Lhokseumawe, Sumatera Selatan 45313",+62878-0956-0911,Sudah menikah,25500000
+CUS_683415,Drs. Candrakanta Prabowo,pria,Doktor,58,"Jalan Sukabumi No. 37
+Salatiga, Jawa Tengah 14176",+62826-8581-4555,Sudah menikah,59000000
+CUS_683880,Cakrajiya Hutapea,wanita,SMA/SMK/MA,48,"Jalan Jend. A. Yani No. 6
+Bogor, SB 31162",+62849-7162-0083,Sudah menikah,5000000
+CUS_685749,Uli Farida,pria,SMP,40,"Gg. Ahmad Dahlan No. 10
+Kota Administrasi Jakarta Timur, Banten 84132",+62884-0295-2232,Single,10000000
+CUS_686651,Ghani Yolanda,wanita,SMP,53,"Jl. Jamika No. 257
+Bogor, JB 46388",+62811-9047-6358,Sudah menikah,57500000
+CUS_687009,"Adiarja Hutasoit, S.H.",wanita,Sarjana,35,"Gang Soekarno Hatta No. 860
+Pontianak, Jambi 99297",+62831-4349-5372,Single,88000000
+CUS_687558,Kiandra Halim,pria,SMA/SMK/MA,41,"Jl. Ir. H. Djuanda No. 204
+Subulussalam, GO 54716",+62838-6671-9576,Sudah menikah,56500000
+CUS_688659,Jessica Kusmawati,pria,Sarjana,53,"Gg. Ciumbuleuit No. 00
+Kota Administrasi Jakarta Pusat, RI 61173",+62839-7248-6567,Single,21000000
+CUS_688984,Garang Widiastuti,pria,SMP,53,"Gang Kebonjati No. 60
+Banda Aceh, BA 94631",+62831-1601-6189,Single,32500000
+CUS_689377,"Drs. Jaswadi Wacana, M.Ak",pria,Doktor,31,"Gang Laswi No. 3
+Pariaman, Papua Barat 55597",+62898-8289-3133,Sudah menikah,60000000
+CUS_689498,"Shakila Uwais, S.H.",wanita,Sarjana,39,"Jalan Medokan Ayu No. 86
+Tangerang Selatan, SU 91561",+62801-6685-8662,Sudah menikah,39000000
+CUS_691205,"Ade Natsir, S.H.",pria,Sarjana,29,"Jl. M.T Haryono No. 49
+Padangpanjang, Kalimantan Timur 86299",+62824-0115-7212,Single,29500000
+CUS_691491,Mumpuni Puspasari,pria,Sarjana,27,"Gg. Pasteur No. 67
+Kota Administrasi Jakarta Pusat, KB 30726",+62888-3159-3616,Sudah menikah,97000000
+CUS_691889,Victoria Wacana,wanita,SD,24,"Gg. W.R. Supratman No. 278
+Sungai Penuh, Jawa Barat 53799",+62819-0831-2075,Single,55000000
+CUS_693663,Qori Rahimah,pria,Sarjana,28,"Gang Ciwastra No. 93
+Solok, BB 74034",+62888-7798-7267,Single,59000000
+CUS_695573,Rini Wahyudin,wanita,SMA/SMK/MA,47,"Jl. Kutai No. 656
+Tomohon, Sumatera Utara 80690",+62804-2932-1681,Single,67000000
+CUS_698219,"Laras Lazuardi, S.H.",pria,Sarjana,53,"Jl. Kutai No. 230
+Tual, SR 17453",+62834-0895-8266,Single,66500000
+CUS_698646,Kayla Hassanah,wanita,SD,20,"Gg. Setiabudhi No. 528
+Banjarmasin, Jawa Timur 84530",+62898-5265-5942,Sudah menikah,39500000
+CUS_698740,Yance Pangestu,wanita,Sarjana,28,"Jl. Medokan Ayu No. 19
+Dumai, Kalimantan Tengah 45125",+62836-0254-4330,Single,89500000
+CUS_698829,Ellis Lestari,pria,SD,23,"Gang Cikutra Barat No. 203
+Bima, KB 25219",+62832-3201-8762,Single,11500000
+CUS_699577,Yani Rahmawati,wanita,SMP,41,"Gang Kutai No. 843
+Denpasar, Jambi 17328",+62827-8253-3558,Single,45500000
+CUS_699863,Makuta Gunawan,pria,SMA/SMK/MA,31,"Gg. Cihampelas No. 4
+Bogor, KS 35661",+62853-3415-6587,Single,87500000
+CUS_700703,drg. Cakrajiya Januar,wanita,SD,58,"Gang Kutai No. 29
+Lhokseumawe, Riau 91246",+62883-7369-8193,Sudah menikah,52000000
+CUS_700883,"Dagel Astuti, M.TI.",pria,Magister,42,"Jl. Waringin No. 94
+Banda Aceh, NT 75046",+62854-8241-3243,Single,96000000
+CUS_701015,Edison Maulana,pria,SMP,60,"Gg. Laswi No. 729
+Meulaboh, Sulawesi Tenggara 58752",+62832-6215-1451,Sudah menikah,6500000
+CUS_702442,Rina Putra,wanita,SD,30,"Gg. M.T Haryono No. 486
+Langsa, DI Yogyakarta 27846",+62852-9873-5412,Sudah menikah,35500000
+CUS_703625,"Cakrawangsa Mustofa, M.Farm",wanita,Magister,53,"Jl. Raya Setiabudhi No. 293
+Banjarmasin, Jawa Barat 95281",+62840-1268-1190,Sudah menikah,99000000
+CUS_704311,"Reza Lailasari, S.H.",pria,Sarjana,34,"Gang Cikapayang No. 946
+Cirebon, SG 81035",+62884-0654-8548,Single,62000000
+CUS_704912,Farhunnisa Sihombing,wanita,Sarjana,50,"Jalan Kutai No. 02
+Kota Administrasi Jakarta Timur, Jawa Timur 33382",+62879-4437-1563,Sudah menikah,91000000
+CUS_707356,Cakrawangsa Wacana,pria,SD,22,"Gang Dr. Djunjunan No. 1
+Surabaya, Papua Barat 89528",+62875-8427-8246,Single,68000000
+CUS_707997,Arsipatra Saptono,wanita,SMA/SMK/MA,33,"Gang Suryakencana No. 904
+Magelang, Kalimantan Utara 82413",+62840-8463-4669,Single,38000000
+CUS_708370,Salsabila Mardhiyah,pria,SMP,26,"Gg. Kapten Muslihat No. 8
+Jayapura, JT 61292",+62806-2032-4134,Sudah menikah,37500000
+CUS_708654,"Almira Nainggolan, M.Ak",wanita,Magister,41,"Gang Siliwangi No. 180
+Madiun, BB 61839",+62834-3886-4839,Single,93000000
+CUS_708818,Drs. Anastasia Wasita,pria,Doktor,52,"Jl. Abdul Muis No. 1
+Ternate, Jawa Tengah 71686",+62815-9961-9490,Sudah menikah,43500000
+CUS_709393,Adhiarja Pradana,wanita,SD,17,"Jl. KH Amin Jasuta No. 607
+Cirebon, Banten 44937",+62811-5998-0518,Sudah menikah,12500000
+CUS_710485,Widya Saputra,pria,Sarjana,57,"Gang Rungkut Industri No. 158
+Batu, BA 37439",+62890-8063-4966,Single,60500000
+CUS_711669,Tina Sihombing,pria,Sarjana,56,"Gg. Stasiun Wonokromo No. 019
+Kendari, KR 26106",+62875-5051-8152,Single,93000000
+CUS_711860,"Siti Salahudin, M.Kom.",pria,Magister,48,"Gg. Astana Anyar No. 609
+Lubuklinggau, KI 83981",+62844-1443-8162,Sudah menikah,38500000
+CUS_713581,"Virman Waskita, S.Sos",pria,Sarjana,54,"Gg. Rajiman No. 37
+Tebingtinggi, JB 27837",+62880-0747-5531,Sudah menikah,86000000
+CUS_714559,Kania Laksmiwati,wanita,SMA/SMK/MA,18,"Gg. Ronggowarsito No. 2
+Pematangsiantar, SS 64703",+62852-7084-4480,Sudah menikah,43500000
+CUS_715509,Sutan Nyoman Farida,pria,SD,22,"Gg. Veteran No. 074
+Batam, Sulawesi Utara 71853",+62839-2903-6471,Single,97000000
+CUS_716368,Simon Latupono,wanita,SD,24,"Gang Laswi No. 5
+Parepare, Jambi 63386",+62888-4336-3390,Sudah menikah,57000000
+CUS_716554,"Hj. Mutia Mangunsong, S.Farm",wanita,Sarjana,37,"Jalan Cikapayang No. 9
+Blitar, Kalimantan Selatan 76610",+62801-7367-6931,Single,60000000
+CUS_717385,Kamila Wulandari,wanita,SMA/SMK/MA,54,"Gg. R.E Martadinata No. 982
+Prabumulih, NB 55498",+62855-3791-4698,Sudah menikah,35000000
+CUS_717656,Viktor Utama,pria,SMP,32,"Gg. Siliwangi No. 088
+Padang, Nusa Tenggara Timur 72212",+62840-8204-4348,Single,75500000
+CUS_717766,Putri Utami,pria,SMA/SMK/MA,45,"Jl. Tebet Barat Dalam No. 7
+Palembang, Kalimantan Barat 76978",+62852-5264-0638,Single,73500000
+CUS_719493,T. Gandi Napitupulu,wanita,SMP,39,"Jalan Yos Sudarso No. 91
+Kotamobagu, Sulawesi Tenggara 32610",+62890-0747-7731,Sudah menikah,98500000
+CUS_720344,Hartaka Megantara,pria,Sarjana,26,"Jl. Rajawali Timur No. 8
+Ambon, MU 84982",+62882-1804-3652,Single,22000000
+CUS_720587,"drg. Hafshah Kusmawati, M.Farm",pria,Magister,37,"Gg. Peta No. 3
+Bukittinggi, JK 68575",+62860-4640-5295,Sudah menikah,96500000
+CUS_720992,Rini Suryatmi,wanita,SD,59,"Gg. Asia Afrika No. 201
+Purwokerto, BA 84520",+62889-0170-9450,Single,31000000
+CUS_722129,Ir. Caket Melani,pria,Sarjana,41,"Jl. Bangka Raya No. 54
+Pasuruan, BA 50244",+62807-1772-2129,Single,84000000
+CUS_722796,"Tgk. Nurul Narpati, M.Farm",pria,Magister,52,"Gang Moch. Toha No. 3
+Pangkalpinang, KI 26125",+62898-0921-1615,Sudah menikah,35000000
+CUS_723335,"Mila Damanik, S.T.",wanita,Sarjana,59,"Gg. Pasteur No. 188
+Palangkaraya, Jawa Barat 28364",+62818-1541-9530,Single,64500000
+CUS_723585,Nadine Tamba,wanita,SD,37,"Jl. Ciumbuleuit No. 365
+Jayapura, SR 66968",+62841-6602-6950,Sudah menikah,50000000
+CUS_725719,Mariadi Nuraini,wanita,SD,37,"Gang Waringin No. 6
+Pematangsiantar, Riau 22097",+62810-3410-5968,Single,17000000
+CUS_727943,Puji Usamah,wanita,Sarjana,58,"Gang Kebonjati No. 17
+Batam, Kalimantan Timur 24400",+62844-8529-3971,Single,76000000
+CUS_729368,Hani Anggraini,pria,Sarjana,56,"Gg. Erlangga No. 1
+Ternate, Jawa Barat 78032",+62868-9557-6268,Single,71000000
+CUS_730951,"Rahman Nainggolan, S.T.",pria,Sarjana,47,"Jalan W.R. Supratman No. 28
+Sabang, Sumatera Barat 64709",+62819-7766-7022,Single,81500000
+CUS_732749,Ir. Anastasia Yuliarti,wanita,Sarjana,46,"Jalan Indragiri No. 3
+Mojokerto, BT 67207",+62865-5618-6464,Single,97500000
+CUS_739867,Calista Suwarno,wanita,SMA/SMK/MA,50,"Gang BKR No. 9
+Banjar, Kepulauan Bangka Belitung 35274",+62861-0503-6750,Sudah menikah,60000000
+CUS_746865,Anastasia Palastri,wanita,SD,57,"Gang Dipatiukur No. 881
+Tasikmalaya, SU 03545",+62852-3945-9643,Single,19000000
+CUS_747059,Chandra Prabowo,pria,SD,59,"Jl. Peta No. 624
+Lubuklinggau, PB 47562",+62877-3545-1083,Single,72000000
+CUS_749319,Daryani Wacana,pria,Sarjana,48,"Gang Moch. Ramdan No. 950
+Tangerang, Sumatera Barat 93304",+62832-0221-3081,Sudah menikah,49000000
+CUS_750745,"Sari Widodo, S.Psi",wanita,Sarjana,44,"Jl. Rajiman No. 10
+Pekalongan, Sumatera Utara 20896",+62826-4864-3552,Single,43500000
+CUS_751705,Siska Wijaya,pria,SMP,46,"Gg. Cihampelas No. 783
+Pontianak, Riau 02888",+62876-0000-9088,Sudah menikah,37500000
+CUS_753740,"Ir. Virman Tarihoran, S.Kom",wanita,Sarjana,40,"Jalan Otto Iskandardinata No. 690
+Pematangsiantar, PA 22257",+62842-1676-5708,Single,96500000
+CUS_754257,Intan Habibi,pria,SD,49,"Jl. Sentot Alibasa No. 87
+Kotamobagu, MU 39134",+62831-7688-7469,Sudah menikah,19500000
+CUS_754267,Violet Wahyuni,pria,Sarjana,25,"Gang R.E Martadinata No. 02
+Sibolga, JA 50513",+62815-0989-3151,Sudah menikah,57500000
+CUS_754645,Jindra Hutasoit,wanita,SMP,40,"Jl. R.E Martadinata No. 0
+Palu, Sumatera Selatan 11265",+62813-4697-7999,Sudah menikah,94000000
+CUS_755159,Ibrani Utami,pria,SMP,15,"Gang Kiaracondong No. 942
+Bekasi, JA 42636",+62810-5875-0739,Sudah menikah,59500000
+CUS_756717,Zamira Latupono,wanita,SMP,56,"Gg. Asia Afrika No. 6
+Bogor, Sumatera Barat 89454",+62834-0675-1777,Single,8500000
+CUS_757560,Icha Haryanti,pria,SMA/SMK/MA,59,"Gg. Pacuan Kuda No. 405
+Kota Administrasi Jakarta Selatan, Bengkulu 41862",+62855-9757-6662,Sudah menikah,11500000
+CUS_758016,Parman Handayani,wanita,Sarjana,32,"Jl. Rumah Sakit No. 13
+Purwokerto, Sumatera Utara 20362",+62851-4778-2120,Sudah menikah,56000000
+CUS_759014,"Ir. Amalia Utama, S.IP",wanita,Sarjana,44,"Gang K.H. Wahid Hasyim No. 5
+Jayapura, Sulawesi Tengah 96811",+62894-9444-5513,Single,90500000
+CUS_759521,Jarwi Salahudin,wanita,Sarjana,40,"Jl. PHH. Mustofa No. 94
+Tanjungpinang, KT 71479",+62837-7123-6421,Single,41000000
+CUS_761822,Faizah Oktaviani,wanita,Sarjana,49,"Jl. Kendalsari No. 10
+Mojokerto, Riau 99538",+62856-7615-6258,Sudah menikah,65500000
+CUS_762257,Gamblang Saputra,pria,Sarjana,52,"Jl. Abdul Muis No. 31
+Bengkulu, Nusa Tenggara Timur 77491",+62853-1284-2223,Single,78500000
+CUS_762918,Dr. Limar Nababan,wanita,Doktor,51,"Jl. Rawamangun No. 459
+Tebingtinggi, Kalimantan Utara 12195",+62864-1107-8251,Single,62000000
+CUS_763788,drg. Damu Pratama,pria,Sarjana,58,"Gg. Cihampelas No. 782
+Pontianak, SR 04883",+62856-5749-2706,Sudah menikah,79000000
+CUS_764714,Najwa Yuniar,wanita,SMA/SMK/MA,53,"Gg. Medokan Ayu No. 5
+Palembang, Gorontalo 43371",+62875-7763-0996,Single,83500000
+CUS_767265,Tania Permadi,wanita,SD,25,"Gg. Yos Sudarso No. 25
+Sabang, Gorontalo 61465",+62874-4824-2409,Sudah menikah,31500000
+CUS_767327,Zaenab Yulianti,wanita,Sarjana,37,"Gg. Kebonjati No. 05
+Sukabumi, Kalimantan Selatan 87161",+62891-2815-6346,Sudah menikah,69000000
+CUS_768376,"Ellis Samosir, M.Ak",pria,Magister,59,"Jalan Monginsidi No. 04
+Tual, NT 55551",+62897-3556-0377,Sudah menikah,87000000
+CUS_768444,Zahra Waluyo,wanita,Sarjana,33,"Gg. Soekarno Hatta No. 56
+Pangkalpinang, Banten 64562",+62869-2419-7058,Single,63500000
+CUS_768967,Dasa Megantara,pria,Sarjana,44,"Jl. Cikutra Barat No. 2
+Purwokerto, NB 01937",+62874-7784-5889,Sudah menikah,25500000
+CUS_769437,R.A. Novi Damanik,wanita,Sarjana,52,"Jl. Rajawali Timur No. 9
+Tangerang Selatan, LA 28721",+62831-1219-5944,Sudah menikah,45000000
+CUS_769870,Lanang Kurniawan,wanita,Sarjana,27,"Jalan Yos Sudarso No. 3
+Surakarta, Bengkulu 71864",+62816-8623-8016,Sudah menikah,57000000
+CUS_770173,"Tgk. Cawuk Rahimah, M.Farm",pria,Magister,31,"Gg. Ronggowarsito No. 680
+Payakumbuh, NB 27972",+62898-3351-5132,Single,46500000
+CUS_772303,Mahfud Hariyah,pria,SD,59,"Jalan Jayawijaya No. 675
+Tegal, Gorontalo 79542",+62808-0313-8105,Single,66500000
+CUS_772555,Asmadi Handayani,pria,SMA/SMK/MA,17,"Gang Laswi No. 922
+Tidore Kepulauan, SR 35536",+62871-3678-1299,Sudah menikah,54500000
+CUS_773984,Diana Gunarto,pria,SMA/SMK/MA,39,"Jl. S. Parman No. 387
+Lubuklinggau, Maluku 52481",+62871-7065-4497,Single,77000000
+CUS_775676,Drs. Karen Safitri,pria,Doktor,44,"Jalan Kiaracondong No. 17
+Langsa, Jambi 08011",+62820-7807-4565,Sudah menikah,27500000
+CUS_777713,Gatot Susanti,pria,SMP,15,"Gg. Sadang Serang No. 434
+Salatiga, GO 81867",+62822-7758-5739,Single,69000000
+CUS_780986,"Drs. Jamalia Purwanti, S.Psi",wanita,Doktor,56,"Gg. Asia Afrika No. 67
+Surakarta, JB 08972",+62813-4662-9782,Sudah menikah,29000000
+CUS_782954,Nova Gunawan,wanita,SMA/SMK/MA,20,"Gang Erlangga No. 6
+Subulussalam, BE 34292",+62830-9855-3729,Sudah menikah,76500000
+CUS_785742,Yani Waskita,wanita,SMA/SMK/MA,30,"Jl. Moch. Toha No. 850
+Manado, NT 24419",+62847-8308-3156,Single,38000000
+CUS_786543,"Najib Pradana, S.Sos",pria,Sarjana,46,"Gang Yos Sudarso No. 9
+Ambon, SU 78272",+62809-2937-4913,Sudah menikah,55500000
+CUS_787270,Salwa Wastuti,pria,SD,28,"Jl. Moch. Toha No. 47
+Sorong, JK 41352",+62812-6411-5928,Single,30000000
+CUS_788739,Hamima Saefullah,wanita,SMA/SMK/MA,58,"Gg. Sentot Alibasa No. 889
+Subulussalam, Kalimantan Tengah 66366",+62840-5374-1200,Single,14000000
+CUS_788775,"H. Waluyo Siregar, S.E.I",pria,Sarjana,37,"Gg. Kiaracondong No. 59
+Subulussalam, SU 49482",+62823-2489-0922,Sudah menikah,44500000
+CUS_789595,Padma Santoso,pria,SMP,28,"Jl. Raya Ujungberung No. 333
+Bekasi, PA 60150",+62811-2180-1490,Single,89500000
+CUS_790614,Tgk. Sabri Pradana,pria,SD,47,"Jl. Setiabudhi No. 01
+Palembang, Sulawesi Utara 01034",+62805-2155-8802,Sudah menikah,12000000
+CUS_790636,Gaduh Halimah,pria,SD,43,"Jalan Ir. H. Djuanda No. 7
+Pematangsiantar, NT 61277",+62890-5221-9960,Sudah menikah,98500000
+CUS_791754,"Drs. Rahmi Prasasta, M.TI.",wanita,Doktor,54,"Jalan Sukabumi No. 108
+Sibolga, BA 63901",+62838-0287-8152,Sudah menikah,93000000
+CUS_792483,Candra Siregar,pria,SD,42,"Gg. Pasteur No. 71
+Dumai, Kalimantan Barat 39906",+62836-0040-9498,Sudah menikah,19000000
+CUS_793564,"Ir. Bagya Mandala, M.M.",pria,Magister,33,"Gg. Lembong No. 033
+Kota Administrasi Jakarta Selatan, BE 33265",+62837-1246-5696,Sudah menikah,87500000
+CUS_795444,Nova Pangestu,wanita,SMA/SMK/MA,40,"Gang Kebonjati No. 7
+Cilegon, NT 38424",+62803-1895-8174,Single,56000000
+CUS_796797,Gading Maulana,wanita,Sarjana,31,"Jalan Jakarta No. 8
+Padang Sidempuan, Sulawesi Tengah 20464",+62892-8604-7172,Single,36000000
+CUS_798243,"drg. Jatmiko Palastri, S.IP",wanita,Sarjana,46,"Jalan Suniaraja No. 80
+Palopo, Aceh 72031",+62859-4051-3462,Sudah menikah,64500000
+CUS_798387,Kunthara Prayoga,wanita,SMP,50,"Gang W.R. Supratman No. 21
+Kota Administrasi Jakarta Pusat, Nusa Tenggara Barat 34402",+62869-3812-3745,Sudah menikah,41500000
+CUS_799273,Tira Siregar,pria,SMA/SMK/MA,22,"Gg. Pacuan Kuda No. 80
+Kendari, ST 51041",+62822-1656-3291,Sudah menikah,41000000
+CUS_801353,Tantri Yuliarti,pria,Sarjana,56,"Gg. K.H. Wahid Hasyim No. 4
+Sukabumi, AC 54169",+62822-6635-0482,Single,43000000
+CUS_801899,Aswani Simanjuntak,wanita,SMP,19,"Jalan Raya Setiabudhi No. 901
+Yogyakarta, Sumatera Utara 60987",+62842-3455-1928,Sudah menikah,26500000
+CUS_801961,Ratna Sinaga,wanita,SMP,58,"Jalan Otto Iskandardinata No. 1
+Kota Administrasi Jakarta Selatan, SU 67221",+62823-1700-1695,Sudah menikah,53500000
+CUS_802943,Jatmiko Rajata,wanita,SMA/SMK/MA,21,"Gang Dipenogoro No. 8
+Medan, Papua Barat 09888",+62836-6891-3868,Sudah menikah,70000000
+CUS_803683,drg. Ade Haryanto,wanita,SD,50,"Gg. Moch. Ramdan No. 15
+Sukabumi, JA 61601",+62822-1295-4713,Sudah menikah,42500000
+CUS_804092,Halim Namaga,wanita,Sarjana,50,"Jalan Moch. Ramdan No. 1
+Bandar Lampung, JA 05071",+62835-8057-1840,Sudah menikah,45000000
+CUS_804592,Drs. Jayadi Gunarto,pria,Doktor,60,"Jalan Siliwangi No. 056
+Surakarta, ST 47894",+62801-5932-6285,Sudah menikah,49000000
+CUS_804926,Lalita Maryadi,pria,SD,46,"Jl. Ahmad Yani No. 117
+Batu, Bali 06269",+62861-9326-2323,Single,88000000
+CUS_804970,"Tgk. Dirja Salahudin, S.Pt",pria,Sarjana,39,"Jl. Cihampelas No. 445
+Serang, Papua Barat 07511",+62816-6468-2360,Single,94500000
+CUS_806569,Gandi Napitupulu,wanita,SMP,47,"Jalan Erlangga No. 62
+Bekasi, Banten 54483",+62863-0607-5107,Single,93500000
+CUS_806876,Ridwan Winarno,pria,SD,50,"Gang Setiabudhi No. 1
+Padang, SU 69865",+62812-1754-1218,Sudah menikah,26500000
+CUS_807064,"R. Halima Salahudin, S.Kom",wanita,Sarjana,60,"Gg. Cikutra Timur No. 6
+Malang, DI Yogyakarta 01198",+62858-7186-6841,Sudah menikah,37500000
+CUS_807471,Kasiyah Permata,pria,SD,55,"Gang S. Parman No. 5
+Kediri, KT 28001",+62807-9564-5066,Single,17500000
+CUS_808153,Dipa Simanjuntak,wanita,SMP,25,"Gg. Peta No. 39
+Bandung, Jambi 76861",+62843-5777-0546,Sudah menikah,52500000
+CUS_811580,Maya Jailani,wanita,SMA/SMK/MA,40,"Jalan Otto Iskandardinata No. 70
+Samarinda, ST 26688",+62829-2991-2420,Sudah menikah,52500000
+CUS_812656,"Drs. Ibun Prastuti, S.IP",pria,Doktor,58,"Gg. M.T Haryono No. 4
+Cilegon, Maluku 06278",+62873-4651-9600,Single,81500000
+CUS_812717,Dr. Koko Yulianti,pria,Doktor,60,"Gg. K.H. Wahid Hasyim No. 4
+Prabumulih, Nusa Tenggara Timur 40178",+62810-7918-0700,Single,82000000
+CUS_814423,Cahyo Waluyo,wanita,SD,26,"Jalan Moch. Toha No. 195
+Sungai Penuh, SG 30416",+62859-1864-6305,Sudah menikah,6500000
+CUS_814485,Gilda Siregar,wanita,Sarjana,49,"Gg. S. Parman No. 79
+Dumai, Papua Barat 51088",+62894-9113-2337,Sudah menikah,80000000
+CUS_814940,Nilam Simbolon,pria,SMP,39,"Gang Raya Setiabudhi No. 728
+Palangkaraya, DI Yogyakarta 67999",+62825-3145-6896,Single,89500000
+CUS_815739,Nova Tamba,pria,SD,29,"Jalan Ciumbuleuit No. 2
+Medan, BT 84652",+62855-7815-0071,Single,35000000
+CUS_817002,R. Titin Nasyidah,wanita,Sarjana,30,"Gang Wonoayu No. 53
+Depok, Jambi 95519",+62804-1223-3801,Single,39000000
+CUS_817487,Kuncara Tamba,wanita,Sarjana,56,"Gg. Tebet Barat Dalam No. 183
+Dumai, SU 42704",+62806-8491-4847,Sudah menikah,26000000
+CUS_818030,"Bakda Usada, S.Psi",pria,Sarjana,26,"Jl. Veteran No. 403
+Banjar, Gorontalo 84019",+62836-3382-8639,Sudah menikah,36500000
+CUS_818551,Dt. Atma Anggraini,wanita,Sarjana,31,"Jl. Moch. Ramdan No. 7
+Pontianak, NB 15207",+62827-0207-3387,Single,69000000
+CUS_821417,Puji Purwanti,pria,Sarjana,32,"Jl. Kiaracondong No. 31
+Makassar, SU 15162",+62819-6902-2479,Sudah menikah,71000000
+CUS_822814,Prayoga Pudjiastuti,pria,SMP,46,"Gg. Peta No. 08
+Probolinggo, Riau 26472",+62885-2423-0889,Sudah menikah,23000000
+CUS_823307,Lalita Palastri,wanita,SMP,35,"Gang Wonoayu No. 834
+Ternate, Kalimantan Barat 48502",+62896-9260-9653,Single,6000000
+CUS_824447,"Usyi Saputra, S.Kom",wanita,Sarjana,55,"Jl. Rajawali Timur No. 433
+Dumai, Sulawesi Tengah 74948",+62857-1343-1869,Single,31000000
+CUS_827872,Viman Dongoran,wanita,Sarjana,39,"Gg. Veteran No. 003
+Bau-Bau, PB 83706",+62863-5551-1897,Single,35000000
+CUS_831267,"Irsad Sihombing, S.Pt",wanita,Sarjana,34,"Gang Rajawali Timur No. 54
+Kota Administrasi Jakarta Utara, Sulawesi Selatan 88168",+62872-7663-1492,Single,35500000
+CUS_832505,Dr. Ika Prabowo,wanita,Doktor,42,"Jl. Erlangga No. 82
+Palembang, Sulawesi Barat 33123",+62885-8290-6468,Sudah menikah,12500000
+CUS_834383,Maman Setiawan,wanita,Sarjana,55,"Jl. Yos Sudarso No. 331
+Purwokerto, Bengkulu 50299",+62896-0284-0164,Sudah menikah,71500000
+CUS_834454,Ika Kuswandari,pria,SMA/SMK/MA,42,"Jalan Surapati No. 535
+Madiun, PB 25785",+62844-2911-4704,Sudah menikah,100000000
+CUS_834457,Maria Safitri,wanita,SMA/SMK/MA,56,"Gg. Jend. A. Yani No. 808
+Kota Administrasi Jakarta Timur, BA 67417",+62878-7284-3663,Sudah menikah,21500000
+CUS_835308,Olga Waskita,wanita,SMA/SMK/MA,28,"Gang Setiabudhi No. 0
+Kupang, KS 34232",+62864-2798-1935,Sudah menikah,46500000
+CUS_835674,"Setya Firgantoro, S.Ked",pria,Sarjana,56,"Jalan R.E Martadinata No. 392
+Serang, Sumatera Selatan 74755",+62895-8196-3691,Single,38500000
+CUS_835948,"Tgk. Ivan Hariyah, S.Ked",wanita,Sarjana,41,"Gg. Sukajadi No. 696
+Pekalongan, Papua Barat 33999",+62899-8949-4625,Sudah menikah,56500000
+CUS_837890,Hana Prakasa,wanita,SMA/SMK/MA,40,"Gang Ahmad Dahlan No. 742
+Malang, PA 88618",+62832-0692-7296,Sudah menikah,59000000
+CUS_838661,Raden Farida,wanita,Sarjana,36,"Gang H.J Maemunah No. 9
+Magelang, Riau 95797",+62896-6880-5789,Single,26500000
+CUS_840242,Titi Wastuti,wanita,SMP,18,"Jl. Laswi No. 11
+Pangkalpinang, Kalimantan Timur 95784",+62815-1787-9301,Single,97500000
+CUS_840330,Opan Puspita,pria,SD,53,"Jl. Cikutra Barat No. 809
+Semarang, Kalimantan Selatan 29538",+62840-1902-7593,Sudah menikah,76000000
+CUS_841379,Cahyono Utama,pria,SMA/SMK/MA,40,"Gg. Cempaka No. 51
+Balikpapan, Nusa Tenggara Timur 85274",+62834-0043-2591,Sudah menikah,39000000
+CUS_842079,"Rafid Novitasari, S.I.Kom",wanita,Sarjana,56,"Jalan Pasteur No. 429
+Palu, NT 38403",+62826-3401-1597,Single,68500000
+CUS_842625,"R.A. Fitriani Pratiwi, S.Psi",wanita,Sarjana,41,"Gang Cikapayang No. 882
+Malang, Sulawesi Selatan 64142",+62890-4831-6009,Sudah menikah,75000000
+CUS_843788,Ega Wacana,wanita,SMP,50,"Jalan Cikutra Timur No. 45
+Solok, SR 38200",+62887-7068-4976,Single,25000000
+CUS_843989,Dwi Pudjiastuti,pria,SMP,20,"Gg. Ciwastra No. 08
+Batam, Sulawesi Barat 52471",+62807-8624-2236,Sudah menikah,31500000
+CUS_844039,Utama Thamrin,pria,SD,45,"Gang Lembong No. 4
+Kotamobagu, AC 27455",+62832-1048-9615,Single,19500000
+CUS_845352,"Hj. Nilam Purnawati, S.H.",wanita,Sarjana,33,"Gg. Laswi No. 71
+Pekalongan, Sulawesi Selatan 26010",+62837-4454-1076,Single,40000000
+CUS_846273,"Tgk. Karta Purnawati, S.Psi",pria,Sarjana,44,"Gg. Otto Iskandardinata No. 512
+Pagaralam, Sulawesi Tengah 42844",+62883-5004-6988,Sudah menikah,91000000
+CUS_847105,Tgk. Gamblang Widodo,wanita,SMA/SMK/MA,32,"Jl. Kutai No. 409
+Tual, Kalimantan Tengah 90246",+62824-3417-5427,Sudah menikah,16000000
+CUS_847986,Hamima Fujiati,pria,SMP,59,"Jl. Raya Setiabudhi No. 290
+Banda Aceh, YO 36126",+62830-1988-3978,Single,76000000
+CUS_848088,Lantar Saptono,pria,SMP,34,"Gg. Laswi No. 55
+Palopo, JK 29024",+62825-0805-6818,Sudah menikah,7000000
+CUS_848158,Mutia Situmorang,pria,SD,42,"Gang Jamika No. 9
+Kendari, JB 59456",+62887-6963-7576,Sudah menikah,87500000
+CUS_849000,Latif Kuswandari,pria,SMA/SMK/MA,24,"Jalan Gedebage Selatan No. 979
+Pekanbaru, Sumatera Barat 75861",+62806-9906-2532,Sudah menikah,78500000
+CUS_849456,Nugraha Saragih,wanita,SMA/SMK/MA,28,"Gg. Kebonjati No. 9
+Serang, Sumatera Barat 84555",+62845-1661-1965,Single,13000000
+CUS_854297,"H. Aswani Uyainah, S.Pt",pria,Sarjana,60,"Jalan S. Parman No. 86
+Samarinda, Banten 44518",+62894-1769-4872,Sudah menikah,22500000
+CUS_855658,Rahmi Ramadan,pria,SMP,35,"Jalan Rajawali Timur No. 383
+Solok, YO 53888",+62886-0475-9654,Sudah menikah,52000000
+CUS_857169,"R. Balidin Situmorang, M.TI.",pria,Magister,31,"Jalan Dipatiukur No. 80
+Banjar, Papua Barat 33362",+62889-4930-8228,Sudah menikah,82000000
+CUS_858954,Ikin Laksita,pria,SD,42,"Gg. Kebonjati No. 5
+Pagaralam, Bengkulu 67669",+62851-9697-9182,Sudah menikah,70500000
+CUS_862958,Artanto Oktaviani,wanita,SD,29,"Gang Dipenogoro No. 560
+Tebingtinggi, KR 09494",+62860-7655-2961,Single,31500000
+CUS_863015,Candrakanta Zulaika,pria,SD,57,"Jalan Veteran No. 8
+Ambon, JA 34359",+62886-0714-7421,Single,70500000
+CUS_863687,"R.M. Garda Wacana, M.Pd",wanita,Magister,38,"Gang Veteran No. 088
+Sibolga, Aceh 20704",+62809-1046-5467,Sudah menikah,96000000
+CUS_864464,Limar Permadi,wanita,SD,58,"Gg. Kapten Muslihat No. 57
+Solok, Aceh 87764",+62813-2429-1854,Single,18500000
+CUS_866925,Daliono Novitasari,pria,SD,53,"Jl. Raya Setiabudhi No. 519
+Sorong, PA 86183",+62869-4005-5304,Single,98500000
+CUS_867298,Ina Yolanda,wanita,Sarjana,53,"Jl. Abdul Muis No. 8
+Banda Aceh, SU 39485",+62864-7057-6588,Sudah menikah,43500000
+CUS_867417,Ajeng Pertiwi,wanita,SMA/SMK/MA,32,"Gg. Jend. Sudirman No. 1
+Probolinggo, Bengkulu 31685",+62815-1394-6227,Sudah menikah,21500000
+CUS_868326,Michelle Wulandari,pria,SD,27,"Gang Dr. Djunjunan No. 159
+Bitung, PB 38424",+62815-7978-2083,Single,55500000
+CUS_869030,Wardaya Hardiansyah,wanita,Sarjana,36,"Jalan Bangka Raya No. 9
+Padang Sidempuan, SR 72425",+62871-3360-3086,Sudah menikah,74000000
+CUS_869486,"Cut Almira Situmorang, M.M.",wanita,Magister,34,"Jl. Raya Ujungberung No. 80
+Palembang, SU 44986",+62817-6505-7186,Sudah menikah,60000000
+CUS_869571,Warta Budiman,pria,SMA/SMK/MA,20,"Gg. S. Parman No. 05
+Meulaboh, SS 62049",+62852-1936-9697,Single,36500000
+CUS_872101,"Fitria Hutasoit, S.E.",wanita,Sarjana,34,"Jalan Kendalsari No. 22
+Bogor, DI Yogyakarta 71986",+62856-6731-5868,Sudah menikah,29500000
+CUS_872662,Pandu Najmudin,wanita,SMA/SMK/MA,16,"Jl. Kapten Muslihat No. 420
+Manado, Riau 04357",+62883-2436-6614,Sudah menikah,47000000
+CUS_872816,"Dt. Reksa Wasita, M.TI.",wanita,Magister,51,"Jalan Surapati No. 346
+Makassar, Lampung 52203",+62878-2582-0803,Single,19500000
+CUS_873180,Kambali Puspita,pria,Sarjana,60,"Jalan Rawamangun No. 047
+Langsa, SR 27590",+62820-8140-0783,Single,57500000
+CUS_873607,"Mila Thamrin, S.I.Kom",wanita,Sarjana,54,"Gang Kutisari Selatan No. 448
+Sabang, MA 79115",+62818-4091-6172,Single,73000000
+CUS_874243,Dinda Prakasa,pria,SD,47,"Jalan Antapani Lama No. 27
+Palangkaraya, SU 42772",+62865-0425-6250,Sudah menikah,42000000
+CUS_874277,Puti Eka Halimah,wanita,SD,45,"Gg. Raya Ujungberung No. 66
+Sabang, Kalimantan Selatan 00131",+62855-3059-1383,Single,52500000
+CUS_874675,Tania Oktaviani,wanita,SD,16,"Jl. Surapati No. 96
+Tarakan, JI 22005",+62859-9119-0640,Single,38000000
+CUS_875317,Queen Mangunsong,pria,Sarjana,33,"Jl. Suniaraja No. 16
+Manado, Kalimantan Utara 20856",+62888-2407-5846,Sudah menikah,96000000
+CUS_875330,Mitra Halimah,pria,SMP,20,"Gg. M.T Haryono No. 300
+Sungai Penuh, KU 74399",+62838-4204-2346,Sudah menikah,99500000
+CUS_875764,"H. Ega Pertiwi, M.TI.",wanita,Magister,34,"Gang Merdeka No. 54
+Pasuruan, GO 59131",+62869-3912-6543,Single,25500000
+CUS_876695,"R. Lembah Anggriawan, S.Gz",wanita,Sarjana,45,"Jl. Waringin No. 1
+Padangpanjang, JB 10004",+62847-7533-8406,Sudah menikah,48500000
+CUS_877422,Jamal Hastuti,wanita,SMP,47,"Jalan Ir. H. Djuanda No. 6
+Dumai, Nusa Tenggara Timur 33203",+62815-4734-5131,Sudah menikah,27000000
+CUS_877962,Kamidin Nainggolan,wanita,SD,56,"Jalan Raya Setiabudhi No. 094
+Payakumbuh, BT 34660",+62804-5524-9924,Sudah menikah,97500000
+CUS_879204,dr. Ajimin Utama,pria,Doktor,47,"Jalan Rungkut Industri No. 57
+Depok, Maluku Utara 31314",+62857-9266-9141,Sudah menikah,72500000
+CUS_879596,Ajimin Mangunsong,pria,Sarjana,28,"Jalan Rajawali Barat No. 82
+Solok, Jawa Barat 13313",+62896-1667-5839,Sudah menikah,95000000
+CUS_880733,"drg. Puji Handayani, S.Pt",wanita,Sarjana,38,"Gg. Rajiman No. 594
+Solok, JB 90555",+62885-6666-9461,Sudah menikah,61500000
+CUS_886434,"R.A. Kezia Mustofa, S.I.Kom",wanita,Sarjana,28,"Gang Kutisari Selatan No. 84
+Cirebon, Nusa Tenggara Barat 78861",+62859-1450-8171,Sudah menikah,41500000
+CUS_887237,"Drs. Tiara Pradipta, S.E.",wanita,Doktor,41,"Gang Raya Ujungberung No. 502
+Palangkaraya, Kalimantan Selatan 01941",+62879-7976-8323,Sudah menikah,63500000
+CUS_888106,Belinda Latupono,pria,Sarjana,52,"Jalan Asia Afrika No. 9
+Kota Administrasi Jakarta Timur, Papua Barat 36318",+62831-6080-2780,Single,33000000
+CUS_889526,Garang Zulaika,pria,SMP,29,"Gang Kebonjati No. 1
+Tangerang Selatan, Maluku Utara 18391",+62860-3681-8274,Sudah menikah,72500000
+CUS_890023,Citra Tarihoran,pria,Sarjana,56,"Jalan M.H Thamrin No. 1
+Ternate, KI 73219",+62879-9158-6637,Sudah menikah,98000000
+CUS_891464,Icha Narpati,wanita,SMA/SMK/MA,59,"Jalan Tubagus Ismail No. 639
+Lhokseumawe, Banten 41847",+62800-5354-5189,Sudah menikah,35500000
+CUS_894398,Febi Ramadan,wanita,SMP,29,"Gg. Cikapayang No. 5
+Kupang, Sumatera Barat 72597",+62884-3435-4687,Sudah menikah,98500000
+CUS_894788,"Manah Thamrin, M.Kom.",pria,Magister,50,"Jl. Wonoayu No. 800
+Samarinda, Riau 40066",+62864-4494-0291,Single,62000000
+CUS_895465,"Widya Pertiwi, S.Pt",pria,Sarjana,48,"Jalan Sukajadi No. 3
+Probolinggo, YO 02965",+62826-3084-3231,Single,49000000
+CUS_897329,Makuta Marbun,pria,Sarjana,52,"Gang Gegerkalong Hilir No. 185
+Kendari, Kepulauan Riau 19292",+62877-1638-7261,Sudah menikah,41500000
+CUS_897670,Ina Tampubolon,wanita,SMA/SMK/MA,17,"Jl. Rungkut Industri No. 6
+Bau-Bau, BE 08745",+62841-2800-0963,Single,18500000
+CUS_898050,Gilang Aryani,pria,SMP,41,"Jalan Rawamangun No. 916
+Bengkulu, Kepulauan Bangka Belitung 70451",+62881-9711-7635,Sudah menikah,87500000
+CUS_899337,Ika Wibowo,wanita,SD,26,"Jalan Moch. Ramdan No. 212
+Lubuklinggau, Sulawesi Selatan 04823",+62837-8186-7578,Sudah menikah,28500000
+CUS_902500,Jaga Mangunsong,wanita,Sarjana,46,"Gg. K.H. Wahid Hasyim No. 20
+Padangpanjang, KT 83322",+62852-6839-1944,Single,43000000
+CUS_903038,"Mulya Pradana, S.Pt",wanita,Sarjana,36,"Jalan Moch. Toha No. 0
+Malang, Kalimantan Utara 61516",+62845-3112-4086,Single,45000000
+CUS_906178,"Paulin Maryati, M.Ak",pria,Magister,38,"Jalan Indragiri No. 75
+Pekalongan, BB 70365",+62855-2511-8137,Single,96500000
+CUS_906618,Edison Megantara,wanita,SD,33,"Jalan Rajawali Timur No. 8
+Padangpanjang, Sulawesi Tenggara 98239",+62806-8449-8474,Sudah menikah,70000000
+CUS_908520,"KH. Okta Wijayanti, S.Pt",pria,Sarjana,37,"Gang Suniaraja No. 0
+Bandung, BT 01568",+62888-0098-3333,Sudah menikah,95500000
+CUS_909885,Kamila Kusmawati,pria,SD,51,"Jalan Monginsidi No. 1
+Tanjungbalai, SG 10315",+62891-8235-6386,Sudah menikah,7000000
+CUS_910052,Kania Maryadi,wanita,SMA/SMK/MA,51,"Gang Kiaracondong No. 52
+Denpasar, JI 34782",+62883-1891-2968,Sudah menikah,52000000
+CUS_912848,Puti Siregar,wanita,Sarjana,29,"Gg. Setiabudhi No. 36
+Mojokerto, Gorontalo 40098",+62820-7474-7990,Sudah menikah,90500000
+CUS_913946,"R.A. Laila Sudiati, S.IP",pria,Sarjana,52,"Gg. Kapten Muslihat No. 025
+Probolinggo, Kepulauan Bangka Belitung 47648",+62849-9189-8280,Sudah menikah,76000000
+CUS_916561,Cagak Usamah,pria,SMA/SMK/MA,24,"Gg. Suniaraja No. 87
+Sorong, Sulawesi Utara 89489",+62836-0773-1058,Single,52500000
+CUS_918975,"Harjo Melani, S.Ked",pria,Sarjana,56,"Jalan Bangka Raya No. 12
+Payakumbuh, BT 50838",+62804-9225-3159,Sudah menikah,27500000
+CUS_919488,Endah Nugroho,pria,SMA/SMK/MA,38,"Jalan Kebonjati No. 9
+Blitar, BT 31681",+62854-9151-7787,Single,39000000
+CUS_919902,Bakianto Maulana,wanita,SMA/SMK/MA,59,"Gang S. Parman No. 396
+Bukittinggi, SU 08561",+62886-5018-4269,Sudah menikah,10500000
+CUS_922517,Sidiq Damanik,pria,SMP,16,"Jl. Yos Sudarso No. 00
+Kota Administrasi Jakarta Selatan, SN 28822",+62873-1589-3955,Single,24000000
+CUS_923279,Yahya Nasyidah,pria,Sarjana,26,"Gg. Jayawijaya No. 20
+Medan, Maluku 39118",+62862-0307-3598,Single,94500000
+CUS_924580,Purwadi Puspasari,wanita,SMP,41,"Jl. Sadang Serang No. 682
+Pekalongan, KI 66692",+62832-2952-5854,Single,49000000
+CUS_924646,"Tgk. Daru Marpaung, S.T.",pria,Sarjana,28,"Gang Jakarta No. 399
+Salatiga, Bengkulu 95610",+62860-6390-9222,Sudah menikah,47500000
+CUS_925131,Uli Halimah,pria,SMA/SMK/MA,36,"Gg. Cihampelas No. 97
+Sibolga, SR 97889",+62845-6142-1985,Sudah menikah,59000000
+CUS_927299,Ir. Kariman Laksmiwati,pria,Sarjana,39,"Jl. Kendalsari No. 8
+Banjarmasin, Sulawesi Tenggara 65337",+62886-1039-7264,Sudah menikah,88500000
+CUS_927364,"Panca Anggriawan, S.Sos",pria,Sarjana,48,"Jl. Gegerkalong Hilir No. 2
+Surabaya, Jawa Timur 54838",+62843-8966-4407,Single,41000000
+CUS_927896,R.A. Devi Irawan,pria,SMA/SMK/MA,18,"Gg. Cempaka No. 14
+Samarinda, Jawa Tengah 55899",+62889-5470-3652,Single,50500000
+CUS_929935,Umay Budiman,pria,SMP,45,"Gang W.R. Supratman No. 9
+Makassar, Bengkulu 49718",+62822-9468-9942,Sudah menikah,44000000
+CUS_930299,Himawan Wacana,wanita,SMP,41,"Gang Moch. Toha No. 27
+Pematangsiantar, Jambi 51424",+62833-6484-0805,Single,96000000
+CUS_930446,Farhunnisa Usada,pria,SD,60,"Gg. Jend. Sudirman No. 27
+Palopo, DI Yogyakarta 32500",+62878-1669-7418,Sudah menikah,86500000
+CUS_930459,Dr. Intan Rahimah,pria,Doktor,45,"Jalan S. Parman No. 7
+Sawahlunto, Banten 12499",+62885-0293-2377,Sudah menikah,84500000
+CUS_934439,Bancar Novitasari,pria,Sarjana,35,"Gg. Stasiun Wonokromo No. 585
+Pematangsiantar, Kalimantan Tengah 07501",+62843-9388-5204,Sudah menikah,73500000
+CUS_934949,"drg. Taufik Situmorang, M.TI.",pria,Magister,42,"Gang Sukajadi No. 4
+Malang, Riau 93928",+62890-0543-2620,Single,16500000
+CUS_936099,Anastasia Hartati,wanita,SD,18,"Jalan KH Amin Jasuta No. 263
+Pasuruan, Sumatera Utara 11010",+62865-4172-5595,Single,49500000
+CUS_936763,Iriana Sihombing,pria,Sarjana,45,"Gang Rungkut Industri No. 86
+Kendari, JB 24929",+62875-7920-9866,Sudah menikah,59500000
+CUS_938249,Aisyah Prayoga,wanita,SMP,46,"Jalan Moch. Ramdan No. 1
+Lhokseumawe, PB 13214",+62813-0651-5501,Single,94500000
+CUS_938534,"Ir. Rina Natsir, S.Psi",pria,Sarjana,43,"Jalan Cikapayang No. 4
+Surakarta, Kalimantan Tengah 26334",+62882-0533-7673,Sudah menikah,92500000
+CUS_938650,Hj. Hani Uwais,wanita,SD,39,"Gg. Bangka Raya No. 08
+Dumai, Papua 79818",+62857-2382-2563,Single,76000000
+CUS_939815,Wisnu Hutapea,pria,SD,37,"Gang Kapten Muslihat No. 1
+Batam, BT 44281",+62852-6232-6182,Sudah menikah,58500000
+CUS_941862,Yoga Yuliarti,pria,SMA/SMK/MA,54,"Jl. Dr. Djunjunan No. 10
+Palopo, BE 65257",+62850-0485-1453,Single,52000000
+CUS_942688,Jaiman Najmudin,wanita,SMA/SMK/MA,35,"Jl. Kebonjati No. 7
+Malang, Sulawesi Tengah 62327",+62840-3706-0976,Sudah menikah,43000000
+CUS_945419,Hj. Maimunah Sinaga,wanita,SMP,36,"Gg. Jend. Sudirman No. 271
+Medan, JB 88869",+62862-5484-7005,Sudah menikah,43500000
+CUS_946835,Ulva Hutapea,pria,SMP,30,"Gg. Setiabudhi No. 22
+Yogyakarta, MA 71806",+62800-2939-3538,Single,25500000
+CUS_947028,Dalima Hasanah,wanita,SMP,54,"Gang S. Parman No. 153
+Kendari, JI 08857",+62840-9030-3224,Sudah menikah,27500000
+CUS_947459,"Zahra Thamrin, S.IP",wanita,Sarjana,48,"Gg. Dipenogoro No. 470
+Probolinggo, JI 44263",+62848-3921-2751,Single,40000000
+CUS_949843,Elvina Marpaung,wanita,SMP,53,"Jalan Cikutra Timur No. 2
+Serang, NB 03402",+62891-8827-2945,Sudah menikah,93500000
+CUS_950721,Rizki Rahimah,pria,SMP,54,"Gg. Kendalsari No. 7
+Lubuklinggau, ST 59583",+62812-1178-7832,Single,41000000
+CUS_951104,"Gilang Simanjuntak, S.T.",wanita,Sarjana,55,"Gg. Soekarno Hatta No. 450
+Palu, JK 09724",+62875-2571-6006,Sudah menikah,96500000
+CUS_953263,Jasmin Haryanto,pria,SD,35,"Gg. Pasirkoja No. 768
+Tomohon, Lampung 10048",+62895-3904-8366,Sudah menikah,58000000
+CUS_953443,"dr. Latif Rahimah, S.H.",pria,Doktor,45,"Jalan Ahmad Yani No. 012
+Manado, Sumatera Utara 96543",+62827-3982-9882,Sudah menikah,99000000
+CUS_955264,Wirda Hassanah,wanita,SMA/SMK/MA,52,"Jalan KH Amin Jasuta No. 4
+Denpasar, Maluku 94564",+62814-8183-0222,Single,86000000
+CUS_957076,"Puti Wulan Budiyanto, S.E.I",pria,Sarjana,35,"Jalan Gedebage Selatan No. 98
+Bontang, Sulawesi Utara 68650",+62835-5606-5138,Sudah menikah,52000000
+CUS_957103,Cagak Yulianti,wanita,Sarjana,28,"Gg. Merdeka No. 8
+Makassar, Kalimantan Utara 38944",+62828-5790-4671,Sudah menikah,98000000
+CUS_957696,Cut Endah Prasasta,wanita,Sarjana,49,"Gang Waringin No. 2
+Sabang, Gorontalo 95767",+62883-6575-7481,Sudah menikah,96500000
+CUS_958455,Farhunnisa Riyanti,wanita,SD,47,"Gang Bangka Raya No. 9
+Batam, JI 25832",+62884-8710-4230,Sudah menikah,59500000
+CUS_958860,"Hj. Cinthia Uwais, S.Ked",wanita,Sarjana,34,"Jalan Asia Afrika No. 685
+Palu, JA 83717",+62871-5821-7146,Sudah menikah,50500000
+CUS_960271,Sutan Bakidin Budiyanto,wanita,SD,54,"Jl. Ciwastra No. 7
+Palu, LA 60831",+62823-2524-9277,Sudah menikah,32500000
+CUS_962876,Iriana Wulandari,pria,SMA/SMK/MA,42,"Jl. Sadang Serang No. 12
+Denpasar, Banten 00028",+62842-3225-4625,Single,79500000
+CUS_963181,"Ir. Gamanto Jailani, M.Kom.",wanita,Magister,53,"Gg. Laswi No. 00
+Kediri, YO 59203",+62807-1875-8895,Sudah menikah,86500000
+CUS_963731,"drg. Harjasa Budiman, S.H.",wanita,Sarjana,56,"Jalan Pasirkoja No. 95
+Palembang, Sulawesi Utara 42986",+62893-5425-0651,Sudah menikah,98000000
+CUS_964615,"R. Warji Pradana, S.E.",wanita,Sarjana,55,"Gg. Bangka Raya No. 6
+Mataram, Kalimantan Tengah 64155",+62888-5169-6582,Sudah menikah,31000000
+CUS_964649,"R.A. Dina Anggriawan, M.Ak",wanita,Magister,33,"Jl. Gedebage Selatan No. 3
+Tangerang Selatan, JB 04038",+62888-8955-5277,Single,86000000
+CUS_964713,"KH. Gatra Lazuardi, M.Kom.",pria,Magister,52,"Jalan Rumah Sakit No. 113
+Jambi, Kalimantan Utara 25644",+62810-6946-8561,Single,20500000
+CUS_965662,Rahmi Samosir,pria,SD,45,"Jl. Kutai No. 622
+Blitar, Maluku Utara 01010",+62873-6837-1856,Sudah menikah,90500000
+CUS_966296,"Garda Winarno, S.IP",wanita,Sarjana,56,"Jalan Soekarno Hatta No. 034
+Binjai, PB 74465",+62850-6071-7474,Single,30500000
+CUS_966394,dr. Lembah Ardianto,wanita,Doktor,60,"Jl. Cikapayang No. 8
+Makassar, NT 45775",+62828-8611-7174,Sudah menikah,16500000
+CUS_967116,Puti Amalia Maulana,pria,Sarjana,59,"Gg. Gedebage Selatan No. 57
+Sibolga, ST 50487",+62843-8818-2732,Single,46000000
+CUS_968613,Tgk. Kayla Wibisono,pria,SMP,50,"Gang Ronggowarsito No. 97
+Subulussalam, KT 53482",+62806-1864-4152,Sudah menikah,89500000
+CUS_969023,Lantar Astuti,wanita,SD,35,"Jalan Rawamangun No. 35
+Blitar, BE 01140",+62878-6251-7541,Sudah menikah,35000000
+CUS_969082,Tirta Samosir,pria,SMP,53,"Gg. Merdeka No. 3
+Tual, Sumatera Selatan 16813",+62803-2569-3181,Sudah menikah,36000000
+CUS_969313,Tgk. Jinawi Lazuardi,wanita,Sarjana,57,"Gg. Astana Anyar No. 914
+Jayapura, NB 99630",+62807-1101-7079,Single,62000000
+CUS_969423,Daniswara Thamrin,pria,SD,18,"Jalan Dipenogoro No. 523
+Denpasar, JB 38711",+62888-7991-9662,Sudah menikah,9000000
+CUS_970765,"Salsabila Tamba, S.Gz",pria,Sarjana,57,"Jalan H.J Maemunah No. 909
+Lubuklinggau, Kalimantan Barat 32544",+62886-6868-8511,Single,74500000
+CUS_971281,Oman Halimah,wanita,SD,44,"Gg. Abdul Muis No. 448
+Subulussalam, DI Yogyakarta 22106",+62880-5634-4917,Single,5500000
+CUS_972505,"Suci Wibisono, M.Farm",pria,Magister,31,"Jalan Ciumbuleuit No. 30
+Batu, JK 84993",+62814-9425-7625,Single,27000000
+CUS_973947,Yuliana Namaga,pria,Sarjana,32,"Jalan Rajiman No. 794
+Magelang, KB 79730",+62825-5354-5882,Sudah menikah,26000000
+CUS_974719,Sidiq Wijaya,wanita,SD,37,"Jl. Raya Setiabudhi No. 353
+Lubuklinggau, KB 36518",+62827-5057-4331,Sudah menikah,58500000
+CUS_974996,"Endra Kurniawan, S.Gz",pria,Sarjana,47,"Gg. Sukabumi No. 265
+Makassar, SU 46771",+62810-4953-0002,Sudah menikah,27500000
+CUS_976050,Gading Susanti,wanita,Sarjana,51,"Gg. Medokan Ayu No. 432
+Banda Aceh, RI 05306",+62887-4919-0424,Single,22500000
+CUS_976674,Rini Wibowo,wanita,SMP,38,"Jl. Gardujati No. 1
+Tangerang Selatan, Banten 40305",+62810-2754-1042,Sudah menikah,69000000
+CUS_976692,"T. Bagiya Narpati, S.E.I",wanita,Sarjana,55,"Gang Ir. H. Djuanda No. 3
+Ternate, JI 79573",+62872-8574-8094,Single,89500000
+CUS_978480,R. Sadina Putra,wanita,SMA/SMK/MA,18,"Gang Cihampelas No. 9
+Probolinggo, SN 44132",+62811-3609-4434,Single,74000000
+CUS_978642,Asmianto Mustofa,pria,Sarjana,31,"Jl. Cikapayang No. 45
+Mataram, KS 42188",+62869-1787-6965,Single,48500000
+CUS_980356,"Hj. Queen Hasanah, S.Sos",wanita,Sarjana,59,"Gang Kebonjati No. 6
+Surabaya, SG 24286",+62866-9180-5361,Single,91000000
+CUS_980479,"Dr. Zamira Prabowo, S.Kom",wanita,Doktor,41,"Jalan PHH. Mustofa No. 731
+Kota Administrasi Jakarta Pusat, KU 33405",+62813-7178-6833,Sudah menikah,47500000
+CUS_981970,Paiman Prabowo,wanita,SMP,15,"Gang Moch. Ramdan No. 13
+Tanjungbalai, GO 43928",+62880-3763-7992,Single,6000000
+CUS_982364,"Sidiq Utama, S.Pd",pria,Sarjana,34,"Gg. Pasir Koja No. 214
+Kotamobagu, JK 21232",+62895-4871-3336,Sudah menikah,38500000
+CUS_984954,Ilsa Mayasari,wanita,SMP,30,"Jl. Veteran No. 6
+Serang, RI 27096",+62812-7747-7439,Single,12000000
+CUS_985870,Najib Permata,pria,SMP,36,"Jalan Pasirkoja No. 86
+Palangkaraya, YO 26013",+62801-3254-9341,Sudah menikah,37500000
+CUS_986857,"Anom Sinaga, S.E.",wanita,Sarjana,52,"Gg. Pasteur No. 0
+Tebingtinggi, BE 42420",+62865-2810-4172,Sudah menikah,20500000
+CUS_988092,"Heryanto Natsir, S.T.",pria,Sarjana,45,"Gg. Sukabumi No. 067
+Sabang, ST 18006",+62839-8471-6140,Sudah menikah,29500000
+CUS_989163,"Tgk. Cinta Sihombing, M.M.",wanita,Magister,40,"Jalan Peta No. 66
+Tarakan, SU 50707",+62868-6316-5982,Sudah menikah,64500000
+CUS_992065,Ina Samosir,pria,SMP,54,"Gg. Raya Setiabudhi No. 066
+Cirebon, BA 91958",+62866-3385-0550,Single,31500000
+CUS_992747,Ratna Pradana,pria,Sarjana,39,"Gang Sadang Serang No. 897
+Kediri, Papua 19172",+62806-3493-4494,Single,89000000
+CUS_997479,"Siska Rajata, S.I.Kom",pria,Sarjana,34,"Gang KH Amin Jasuta No. 9
+Banjarbaru, KB 80063",+62806-8492-6277,Sudah menikah,89000000
+CUS_999664,Aisyah Wahyuni,pria,SMA/SMK/MA,29,"Gang Indragiri No. 70
+Kotamobagu, Kalimantan Barat 90942",+62891-4590-3389,Single,50000000
+CUS_999866,"Fitria Sinaga, S.Psi",wanita,Sarjana,27,"Jalan Pasirkoja No. 0
+Bandung, Kalimantan Utara 60403",+62876-2952-5228,Single,81000000

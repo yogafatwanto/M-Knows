@@ -1,7 +1,9 @@
+# Import library yang dibutuhkan
 import pandas as pd
 from faker import Faker
 import random
 
+# Definisikan kelas RandomDataGenerator untuk menghasilkan data acak
 class RandomDataGenerator:
     def __init__(self, jumlah_data):
         """
@@ -20,6 +22,7 @@ class RandomDataGenerator:
         Returns:
             list: List berisi data-data acak.
         """
+        # Generate data nama pria dan wanita sesuai jumlah data
         self.nama_pria = [self.fake_data.name_male() for _ in range(self.jumlah_data // 2)]
         self.nama_wanita = [self.fake_data.name_female() for _ in range(self.jumlah_data // 2)]
         self.nama = self.nama_pria + self.nama_wanita
@@ -28,12 +31,14 @@ class RandomDataGenerator:
         self.pendidikan = ["Sarjana", "SMA/SMK/MA", "SMP", "SD"]
         self.status_pernikahan = [random.choice(['Sudah menikah', 'Single']) for _ in range(self.jumlah_data)]
         
+        # Inisialisasi list untuk menyimpan hasil pendidikan, umur, nomor telepon, pendapatan, dan customer_id
         hasil_pendidikan = []
         umur = []
         nomor_telepon = []
         pendapatan = []
         customer_id = []
 
+        # Generate data pendidikan, umur, nomor telepon, pendapatan, dan customer_id
         for n in self.nama:
             split_nama = n.split(', ')
             if split_nama[0].lower().startswith('dr.') or split_nama[0].lower().startswith('drs.'):
@@ -42,8 +47,6 @@ class RandomDataGenerator:
                 hasil_pendidikan.append("Magister")
             elif len(split_nama) > 1 and split_nama[1].startswith('S') or (split_nama[0].lower().startswith('ir.')):
                 hasil_pendidikan.append("Sarjana")
-            
-            
             else:
                 random_pendidikan = random.choice(self.pendidikan)
                 hasil_pendidikan.append(random_pendidikan)
@@ -58,10 +61,10 @@ class RandomDataGenerator:
                 umur_range = (28, umur_max)
             elif 'Sarjana' in hasil_pendidikan[_]:
                 umur_range = (25, umur_max)
-            elif split_nama[0].lower().startswith('KH.') or split_nama[0].lower().startswith('HJ.'):
+            elif split_nama[0].lower().startswith('kh.') or split_nama[0].lower().startswith('hj.'):
                 umur_range = (33, umur_max)
             else:
-                (umur_min, umur_max)
+                umur_range = (umur_min, umur_max)  # Fix this line: assign values to umur_range
             umur.append(random.randint(umur_range[0], umur_range[1]))
             
         for _ in range(self.jumlah_data):
@@ -77,7 +80,7 @@ class RandomDataGenerator:
                 pendapatan_range = (12000000, pendapatan_max)
             elif 'Sarjana' in hasil_pendidikan[_]:
                 pendapatan_range = (20000000, pendapatan_max)
-            elif 'KH' in self.nama[_].lower() or 'HJ' in self.nama[_].lower():
+            elif 'kh' in self.nama[_].lower() or 'hj' in self.nama[_].lower():
                 pendapatan_range = (15000000, pendapatan_max)
             else:
                 pendapatan_range = (pendapatan_min, pendapatan_max)
@@ -90,7 +93,7 @@ class RandomDataGenerator:
         for _ in range(self.jumlah_data):
             customer_id.append(f"CUS_{self.random_number(6)}")
             
-        
+        # Menggabungkan data-data yang dihasilkan menjadi bentuk dictionary
         data = []
         for i in range(self.jumlah_data):
             data.append({
@@ -103,7 +106,6 @@ class RandomDataGenerator:
                 "nomor_telepon": nomor_telepon[i],
                 "status_pernikahan": self.status_pernikahan[i],
                 "pendapatan": pendapatan[i]
-                
             })
             
         return data
@@ -120,15 +122,16 @@ class RandomDataGenerator:
         """
         return ''.join(random.choice("0123456789") for _ in range(length))
 
-# Generate data
+# Generate data dengan jumlah_data sebanyak 1000
 generator = RandomDataGenerator(1000)
 data = generator.generate_data()
 
-# Create DataFrame
+# Create DataFrame dan urutkan berdasarkan customer_id
 df = pd.DataFrame(data).sort_values(by="customer_id")
-# df.set_index('customer_id', inplace=True)
-df.loc[df['nama'].str.contains('KH', case=False), "gender"] = "pria"
-df.loc[df['nama'].str.contains('Hj', case=False), "gender"] = "wanita"
 
+# Ubah gender berdasarkan kata 'kh' dan 'hj' dalam nama
+df.loc[df['nama'].str.contains('kh', case=False), "gender"] = "pria"
+df.loc[df['nama'].str.contains('hj', case=False), "gender"] = "wanita"
 
-df.to_csv(f"dummy_data_{len(df)}.csv",index=False)
+# Simpan DataFrame ke file CSV dengan nama yang sesuai jumlah baris data
+df.to_csv(f"dummy_data_{len(df)}.csv", index=False)
